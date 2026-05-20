@@ -1,0 +1,115 @@
+#EXTM3U
+#EXTINF:-1 tvg-chno="1" tvg-id="Soccer.1" tvg-name="[Soccer] Santa Fe vs Platense (ESPN 4)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Santa Fe vs Platense (ESPN 4)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=espn+4&code=br&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=espn+4&code=br&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/br-espn-4/playlist.m3u8?token=8e6c706bbd1ea7ddaf19b734cbc8e48226749fdc075a958b61b8346a927ae73c.1779236799.37a1b5835a389c2650bd79fca98274d2.00231f995486183d6c8f3c9c01df6533.a2ac74f6bc324a5cb1b17551c2b84641&signature=39b6c67d47f573bf83a80b2ca1abcd4d330c461364174ceb6031d2995ab9bf4c|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="2" tvg-id="Soccer.2" tvg-name="[Soccer] Santa Fe vs Platense (FOX Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Santa Fe vs Platense (FOX Sports 2)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+sports+2&code=ar&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+sports+2&code=ar&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/ar-fox-sports-2/playlist.m3u8?token=15b36cb0868f57bac64aade4c92fa0e22043175c97fe3358979e76fed8fe9fc6.1779236800.7e5e846132e780002a6a980dee7652f6.6affa481dbf78a2911f06b0b0a07cf83.e0ae737c681b40fae1740c62fe30783d&signature=fb5493e6c8494b1a40824ba80412c10e58228ed47f70ad5f672557fa87b28f7f|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="3" tvg-id="Soccer.3" tvg-name="[Soccer] Santa Fe vs Platense (Sport 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Santa Fe vs Platense (Sport 3)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+3&code=il&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+3&code=il&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/il-sport-3/playlist.m3u8?token=48b00750e41eefbd627752dfcc8b14b47e95e370da8a9caf0aef828df14b7b4f.1779236801.500f27e099b5f11b3be7137d40189574.39740f6f1c66c5e3bd5686e98b9d4848.ef059c5b76b4e6b5b55390af6c435537&signature=f61db40ea07dfe982424840c15ee3836bb450ac3b0453bdeb2dc7e5a557c6b66|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="4" tvg-id="Soccer.4" tvg-name="[Soccer] Always Ready vs Mirassol (beIN SPORTS XTRA)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Always Ready vs Mirassol (beIN SPORTS XTRA)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+xtra&code=es&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+xtra&code=es&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/es-bein-sports-xtra/playlist.m3u8?token=64b073465a8ab2965f72023ac6e9fa552a2b4cd636bba32a6c623106d7730e15.1779236801.bfaf5fd91ce6d59e87bf7561bb02b8be.3c849384e6330a5a24925bb3f9ee2bb7.c626a0fb65c80c55bf1627cda756bb2a&signature=06d5d3cd89667d74f54c320a530b222f4278915b030943848122cb62eccb717a|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="5" tvg-id="Soccer.5" tvg-name="[Soccer] Always Ready vs Mirassol (FOX Sports 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Always Ready vs Mirassol (FOX Sports 3)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+sports+3&code=ar&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+sports+3&code=ar&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/ar-fox-sports-3/playlist.m3u8?token=f6c3a899b6c205028f9d52351fa9c247ba957f15db096624bc13d297a9948120.1779236802.784eac4e41b150cec6907591a3b83168.96cad7c187e9954c77e4efc2e3bf0197.ff7682e00c1d5566c276484027d3bd29&signature=ad736450cf5ef8265e6228195a37909b32c3f18f9178ca2f4551d0153d2e70ff|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="6" tvg-id="Soccer.6" tvg-name="[Soccer] Always Ready vs Mirassol (Sport 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Always Ready vs Mirassol (Sport 2)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+2&code=il&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+2&code=il&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/il-sport-2/playlist.m3u8?token=f48ea47272cb5af1107361f3a6940e0729b8026dabcfd2ae728f276227567abe.1779236803.dc3f092b03fd86d000abb225785fad3a.6a53550484be2574dd01d245d96a8686.6c7b518e295c23ab15d3ec1ffb7b3cba&signature=d31a777154f9525f7357e9b9b9c0365b32096de21a7c3d005aa8e2ee490dc1d0|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="7" tvg-id="Soccer.7" tvg-name="[Soccer] Boca Juniors vs Cruzeiro (beIN SPORTS)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/3202.png" group-title="Soccer",[Soccer] Boca Juniors vs Cruzeiro (beIN SPORTS)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/us-bein-sports/playlist.m3u8?token=52b023ffedfaace911643597356a60efd150a2dcba50516f33b642a1b8324c78.1779236804.40837004dcf0c3d414ecb0d67daf0262.ed0da5ac28341da816f224c70a3e9f1b.523af46d1b477905f191b0f4c9faa4ba&signature=3d898082cb83914d1256a4353b9c942d98b23d5c918e4a672a6fb73563729b52|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="8" tvg-id="Soccer.8" tvg-name="[Soccer] Boca Juniors vs Cruzeiro (beIN SPORTS N)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/3202.png" group-title="Soccer",[Soccer] Boca Juniors vs Cruzeiro (beIN SPORTS N)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+n&code=es&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+n&code=es&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/es-bein-sports-n/playlist.m3u8?token=8bd19010d02c68bfe9e65c2f39fbfc1556b9d7e95fd65172cdf4605b02906b19.1779236804.dd3c825de7db2cd6fda9e0970539fa38.c4212c5fb3f19e296b49c880558d099a.98a594ef664aa4abb1f206e4d177fc3e&signature=4543b3dce2c6e1b69da617ca01f24700e83fc5abe3901750a467f0ddcea58f02|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="9" tvg-id="Soccer.9" tvg-name="[Soccer] Boca Juniors vs Cruzeiro (Vamos Spain)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/3202.png" group-title="Soccer",[Soccer] Boca Juniors vs Cruzeiro (Vamos Spain)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=vamos+spain&code=es&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=vamos+spain&code=es&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/es-vamos-spain/playlist.m3u8?token=e789051d037ec25ac6677aa93b03d2fe1b4bf5d955011b5ed6a69cffc6eb0171.1779236805.b8044c5c4404d9fa92f511740c9472ab.3cc3896a023fc5bf3c0e5e5dc1dd62bb.1f59fcf71fbe49d2001464e68ee38003&signature=56e3062f183ef37dcb925f5f215514dac023f77038a0190e92f70a869f083ab3|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="10" tvg-id="Soccer.10" tvg-name="[Soccer] Boca Juniors vs Cruzeiro (Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/3202.png" group-title="Soccer",[Soccer] Boca Juniors vs Cruzeiro (Sport 1)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+1&code=de&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+1&code=de&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/de-sport-1/playlist.m3u8?token=a0d5d58aaa62914f066c961192a18640c6290ed17d511344e566f806befe9e11.1779236806.34fc3876c133f7044a5b5034d01fb0e0.316dafcb90958e09094116e43d55a700.cc18c5d0dba0893904567365dd220498&signature=ba46451680cc943c4ffeda9c98c69e47c25e64ac2f64dd61161725161977a264|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="11" tvg-id="Soccer.11" tvg-name="[Soccer] Boca Juniors vs Cruzeiro (Sport TV 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/3202.png" group-title="Soccer",[Soccer] Boca Juniors vs Cruzeiro (Sport TV 1)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+tv+1&code=pt&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+tv+1&code=pt&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/pt-sport-tv-1/playlist.m3u8?token=471bc03f245a2be152b33803dec061686d1cc98364f9965798d040ea9570137d.1779236806.e48c5f2dc87c2dd2fe92d6d5f8437f34.399368985b6be365a9f0114f2d84d47b.2e5c16ee66830ee846d718a41f4732cd&signature=b628decb1ee0a48b8278c0cb84309b483f2565972ff341b1febf3e37c37630d6|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="12" tvg-id="Soccer.12" tvg-name="[Soccer] Boca Juniors vs Cruzeiro (ESPN)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/3202.png" group-title="Soccer",[Soccer] Boca Juniors vs Cruzeiro (ESPN)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=espn&code=nl&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=espn&code=nl&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/nl-espn/playlist.m3u8?token=80cc7853b3b6eeda223eb22627e17fa02a0cbafc40d5ddc17c0f40ef9e4c9aca.1779236807.d4d4eb510dcf6ae5cf3535fdfd4e5f93.38582bb14c0100a02e5288e944bd5aa2.8998ca0004eff9fca8c60a89d806d96a&signature=e1bb3d2e781e342aac855a10c08a106d079f524d6d400a9172a7c9ea2470e594|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="13" tvg-id="Soccer.13" tvg-name="[Soccer] Boca Juniors vs Cruzeiro (Polsat Sport)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/3202.png" group-title="Soccer",[Soccer] Boca Juniors vs Cruzeiro (Polsat Sport)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=polsat+sport&code=pl&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=polsat+sport&code=pl&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/pl-polsat-sport/playlist.m3u8?token=8596866ce727f8457f8fee1fcc48675fe473f13244ec334c82506ff3d85f8155.1779236807.608c19f29742e9f5fe6335a0f6969e46.1fae33ef17561fee82cfd6e87e829212.8f6bb5ad7a11f3282111a5bbc5df4561&signature=7a03b5c34f2e638b9207e80c1780ac38ac54da4415721c59f2800b1fae446dc7|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="14" tvg-id="Soccer.14" tvg-name="[Soccer] Boca Juniors vs Cruzeiro (Max Sport 4)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/3202.png" group-title="Soccer",[Soccer] Boca Juniors vs Cruzeiro (Max Sport 4)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=max+sport+4&code=bg&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=max+sport+4&code=bg&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/bg-max-sport-4/playlist.m3u8?token=be19ccb925ad01ee21092bd45a0067a3ed5c7e60d679997bc3ca77c550874e13.1779236808.967027d557f01c0197895561ba5eda9a.6d3586967ba212d3763acd7269ef7f93.a076d6bf753411d22d35048581e5f299&signature=00248b6df83a54accc3cb6798e5a40f43866e2cb0382df5a14b8c573139b79c3|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="15" tvg-id="Soccer.15" tvg-name="[Soccer] Boca Juniors vs Cruzeiro (Arena 2 Premium)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/3202.png" group-title="Soccer",[Soccer] Boca Juniors vs Cruzeiro (Arena 2 Premium)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+2+premium&code=rs&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+2+premium&code=rs&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/rs-arena-2-premium/playlist.m3u8?token=56f879407dc0907b0ecf4bedb0eab8902e8cb0eb720078645fa05e466237aa03.1779236809.d89eeb3bb87ae3a902d1d74bee84ff02.7b6969e50aa615a1d1d862d0a8fa1859.f0e12939825b2920d91c5f67ae314877&signature=5e7104199c224c504a3703f35819879d1ff6f03daa9463fe9db7701ba859cf4b|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="16" tvg-id="Soccer.16" tvg-name="[Soccer] Boca Juniors vs Cruzeiro (FOX Sports)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/3202.png" group-title="Soccer",[Soccer] Boca Juniors vs Cruzeiro (FOX Sports)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+sports&code=ar&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+sports&code=ar&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/ar-fox-sports/playlist.m3u8?token=15e5bcfbb7e44593e744320d07d3454dba229ee1d618ce2b3f56d14e52ed8131.1779236809.5c09a9b21d682d5eaa5af6acf1a0fabd.5e9be7e6918e87fdb04b19238dd24abd.b6b313f7080cb02740d8cccbd79dc88f&signature=2ee156560a68592fdb9ac1c1d0c4694bcef30b998f3253dabd91f45f3add4aab|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="17" tvg-id="Soccer.17" tvg-name="[Soccer] Boca Juniors vs Cruzeiro (ESPN 4)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/3202.png" group-title="Soccer",[Soccer] Boca Juniors vs Cruzeiro (ESPN 4)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=espn+4&code=mx&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=espn+4&code=mx&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/mx-espn-4/playlist.m3u8?token=7730d3e81828872dcd1cab83f73ec8ff0be1e67734e8f1dd9177580f3e0c03ae.1779236810.6ef59e80a643fe2ccc4bc22369262ea7.f0bc1eb0946a2ac9c197dc7daaae5912.07933b33476afce9bea43366816055e1&signature=d265b04f677d86480511b0f11d2dae51bf50a38830d58bc2284c59f1edeb4881|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="18" tvg-id="Soccer.18" tvg-name="[Soccer] Boca Juniors vs Cruzeiro (Sport 4)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/3202.png" group-title="Soccer",[Soccer] Boca Juniors vs Cruzeiro (Sport 4)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+4&code=il&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+4&code=il&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/il-sport-4/playlist.m3u8?token=5cf1f24b66aeb2829367414ef5658c7e294f5e8015909a534e5616c37dd961b4.1779236811.8be6bcc2c3c2b52a6c903d17450f00c0.b5e709dda11faac79a6fbd6d087d4bfa.8088e4f48b572b648a5b5fab12959e77&signature=fe5e43f68c46ff11cac2ea8ca936695eaf68ba678a148c55d9352933c9cca7d1|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="19" tvg-id="Soccer.19" tvg-name="[Soccer] Boca Juniors vs Cruzeiro (beIN SPORTS 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/3202.png" group-title="Soccer",[Soccer] Boca Juniors vs Cruzeiro (beIN SPORTS 1)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+1&code=sa&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+1&code=sa&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/sa-bein-sports-1/playlist.m3u8?token=264911ac167c441fdc505fd0df4f8b26f1fe4c8e399cf055c4cdea63cfc092f7.1779236811.bad64cd82b6cc1037b0b511f8c5d05fc.2fc1bd70ad5156dbc4b18ac2cf51ee8c.960121caf661c8e8415222d07c792d8d&signature=75ef6603089d89ae32efc86366dd4a7e10d9b1edc948f32c04840536b6c7f18d|x-forwarded-for:77.238.79.111
+
