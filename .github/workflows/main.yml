@@ -34,10 +34,10 @@ jobs:
       run: playwright install chromium --with-deps
 
     - name: Run Scraper Script
-      run: python private_repo/channels.py
+      run: python private/channels.py
 
     - name: Run Scraper Script 
-      run: python private_repo/liveevents.py
+      run: python private/liveevents.py
 
     - name: Commit and Push Playlist
       run: |
