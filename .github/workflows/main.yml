@@ -35,11 +35,11 @@ jobs:
 
     - name: Run Scraper Script
       run: |
-        python private_repo/channels.py
+        python src/channels.py
 
     - name: Run Scraper Script 
       run: |
-        python private_repo/liveevents.py
+        python src/liveevents.py
 
     - name: Commit and Push Playlist
       run: |
