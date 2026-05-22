@@ -1,49 +1,121 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="1" tvg-id="Soccer.1" tvg-name="[Soccer] Deportivo La Guaira vs Independiente Rivadavia (beIN SPORTS N)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Deportivo La Guaira vs Independiente Rivadavia (beIN SPORTS N)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+n&code=es&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+n&code=es&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="1" tvg-id="Soccer.1" tvg-name="[Soccer] Universidad Católica vs Barcelona (beIN SPORTS MENA 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/3151.png" group-title="Soccer",[Soccer] Universidad Católica vs Barcelona (beIN SPORTS MENA 2)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+mena+2&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+mena+2&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/es-bein-sports-n/playlist.m3u8?token=ce4cbf5caabe351ec2a3afe6f1f3b004b90a4031e175b19765942eff2263ce5e.1779405522.4b5457bf557254e31f9f37bd69917ad5.3fb7d947caa8100d9ac8bd09f99058f1.b3a28fef42b120fd514682ed9bc5f43f&signature=eff0e98db94aaba0a3c6fd4256939482597d9d0aafd7d3870e5b16f44f2440cb|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-bein-sports-mena-2/playlist.m3u8?token=fa49cfb35883ac4bd8bd94007511a819da9ba793aa1eff4637067990fa907d17.1779413120.01a6dba155a9c40db2dc022157ca1cb8.1d00b7223b5bc6a3d6ad6c7611535393.7e63c599732a6a581c650d97327ed768&signature=9d0fad6b701a1ffb3debc580a4432568febd5b653fdf7b7828692e08dfe4e31c|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="2" tvg-id="Soccer.2" tvg-name="[Soccer] Deportivo La Guaira vs Independiente Rivadavia (Arena 3 Premium)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Deportivo La Guaira vs Independiente Rivadavia (Arena 3 Premium)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+3+premium&code=rs&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+3+premium&code=rs&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="2" tvg-id="Soccer.2" tvg-name="[Soccer] Universidad Católica vs Barcelona (Teledeporte)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/3151.png" group-title="Soccer",[Soccer] Universidad Católica vs Barcelona (Teledeporte)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=teledeporte&code=es&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=teledeporte&code=es&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/rs-arena-3-premium/playlist.m3u8?token=59fa087acd43ac5dd83ee093f13ec342f8d5a1b59e6d6d0527cce0371e96f258.1779405524.5061607ac85af7252fbf645dd106c2da.b941f1be4ec315e40eadb2f8706ca6e3.47350cab2a33a77f1501888818d4379e&signature=d84f5e910d1ab5ea37cf7a05091e75bc847b08d59fb1b5efd17a370f680f5665|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/es-teledeporte/playlist.m3u8?token=0b012796f4df0a10697141cdd02cee873bc46ec9abf9065773445ee9567c97ac.1779413121.27b25f89f18d7c352bfbb16352db29c8.6f416b1fa7f1b720b0a18133bd313373.db4b1857d49336758e1b17954b318da9&signature=9aec661968924ee6a1e84d8c2719d81760aa60a3eedcae9bec9c4d305b8bd496|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="3" tvg-id="Soccer.3" tvg-name="[Soccer] Deportivo La Guaira vs Independiente Rivadavia (Arena Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Deportivo La Guaira vs Independiente Rivadavia (Arena Sport 1)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+sport+1&code=hr&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+sport+1&code=hr&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/hr-arena-sport-1/playlist.m3u8?token=d0af941ed5d98b3550834692f8e93d1f102f316454f8aa56d8e604589c212950.1779405525.534f5c64e182e849d3f2a096aedb9ec3.a7323f6b22ff26f4fbfef21414cb1570.200518fe5184062008f0e0fb9b77e715&signature=988b34ac44936d7d230ccfd6e65398d578009f4552efdd9c0a82045d139386e2|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="4" tvg-id="Soccer.4" tvg-name="[Soccer] Deportivo La Guaira vs Independiente Rivadavia (ESPN 4)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Deportivo La Guaira vs Independiente Rivadavia (ESPN 4)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=espn+4&code=br&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=espn+4&code=br&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/br-espn-4/playlist.m3u8?token=ba3cd51dca585b800af94e9b25dd52b25a70b02277c93b5235574a66bb85f30c.1779405526.f0fdacce6c8dc81ecf0691dcb1bdde19.e5fd288dff072752f8a84612ae2547ce.a0cb4c57e2acce5afb3207b97630f97e&signature=cff8fabd87f8f17bd9f20d73949ee6e191c2e71d236d7e262e6f2ccf42a3a6d2|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="5" tvg-id="Soccer.5" tvg-name="[Soccer] Deportivo La Guaira vs Independiente Rivadavia (FOX Sports)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Deportivo La Guaira vs Independiente Rivadavia (FOX Sports)
+#EXTINF:-1 tvg-chno="3" tvg-id="Soccer.3" tvg-name="[Soccer] Universidad Católica vs Barcelona (FOX Sports)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/3151.png" group-title="Soccer",[Soccer] Universidad Católica vs Barcelona (FOX Sports)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+sports&code=ar&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+sports&code=ar&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/ar-fox-sports/playlist.m3u8?token=12d7e81041568cdace44fab96f8c3e15cba8bbcdadcf23b9980f78a3393f010b.1779405527.bf700f146dfab136c1c7a83b529f2c2b.d6d85a3197204936c81ae77ef66f859b.897cd7891066763aa774befb536cd9d2&signature=684405b26ac884883e5aede34951be8bb3d7c4fd84f5bc32113920c773f45610|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/ar-fox-sports/playlist.m3u8?token=d4ba0c3395a15ff253f973fde0ff888b60222f4f27df87b962066e15618ac84e.1779413122.3bdd5ebf298a591d8de1872d003a4772.d4ad8baee5c73b9c574c2e8c96775bfd.b503ca1dd3f2b196791f08f57db06f83&signature=f8cd9f0b9f9d13df18dfebfc29003eafa5f5251e83d83c9f660d953ffb0a597b|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="6" tvg-id="Soccer.6" tvg-name="[Soccer] Deportivo La Guaira vs Independiente Rivadavia (ESPN 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Deportivo La Guaira vs Independiente Rivadavia (ESPN 2)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=espn+2&code=mx&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=espn+2&code=mx&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/mx-espn-2/playlist.m3u8?token=cf47443c8c2071a83999cf3d3aaa01505413953c5b3864a07451195436e675f9.1779405528.8553893de94e087ed06943380055724e.a22ee3d24e3ffd0071b832e9b5449d07.47230fe25b8160cd2072f157a1d507d7&signature=c4cbf462cf8b43c20521dca4d1eef3eec3bae8dfe367c54035e957e280e13e1f|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="7" tvg-id="Soccer.7" tvg-name="[Soccer] Deportivo La Guaira vs Independiente Rivadavia (Sport 4)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Deportivo La Guaira vs Independiente Rivadavia (Sport 4)
+#EXTINF:-1 tvg-chno="4" tvg-id="Soccer.4" tvg-name="[Soccer] Universidad Católica vs Barcelona (Sport 4)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/3151.png" group-title="Soccer",[Soccer] Universidad Católica vs Barcelona (Sport 4)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+4&code=il&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+4&code=il&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/il-sport-4/playlist.m3u8?token=44d2aede016185da118453f632cab684cd9180e8c79a3880d010b780e34d8951.1779405529.22b52ae26330a30340c38e248620e7eb.5c711bf146bb963375a9c5c6a83debb6.853464127a284efa9e8052623b1fcda5&signature=c3ed4de5747717dcee31ebc8553aebe958c24934440a218b01949d1f06d3c24e|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/il-sport-4/playlist.m3u8?token=43dd7675bbedd906aaece42cdb3d82fd34df374dd6a105e6134a09a5dc81dc25.1779413123.f2cdf240f22816473f4c4e04f3b2f7e7.38169e0ce1c9effd288e934afb48cdc4.340265e1103d30f2fcde6215a7ef7766&signature=0d8adc6200040d7f00c881b53b2ac1026b0cf6869a34508c147952bdef7e8c82|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="8" tvg-id="Soccer.8" tvg-name="[Soccer] Deportivo La Guaira vs Independiente Rivadavia (beIN SPORTS 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Deportivo La Guaira vs Independiente Rivadavia (beIN SPORTS 3)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+3&code=sa&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+3&code=sa&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="5" tvg-id="Soccer.5" tvg-name="[Soccer] Peñarol vs Corinthians (beIN SPORTS)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/3227.png" group-title="Soccer",[Soccer] Peñarol vs Corinthians (beIN SPORTS)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/sa-bein-sports-3/playlist.m3u8?token=53d0cdb09e2c3dc1b9e6d23758c67954ccfe370e8bdb7878fcd8edaf5654ba85.1779405530.8fe7c4d7f589cfbeb18585075d96ecef.7abe8009599367178124c5bd1c27f1be.3886d729cd188216aeee96b0f3b4d962&signature=d8d8c7b46faeb6a38376d0c430b580349555f5570cfc506693421407f144093e|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-bein-sports/playlist.m3u8?token=fdfb1361bc0f9547790f155a4304d8919803fa974d8ff18f48eb261b6ea0f5cf.1779413123.be2c612f21e1c39dea38f2944692a33a.4f6df53dd79ea76d28f095c1d4dddfe9.14245b581bca75901a156ca0c34a95ed&signature=4c020ccfee251ce10431321e9cc3aa3baeee6412b90b7a54ad09e396a3bdd4d2|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="6" tvg-id="Soccer.6" tvg-name="[Soccer] Peñarol vs Corinthians (beIN SPORTS N)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/3227.png" group-title="Soccer",[Soccer] Peñarol vs Corinthians (beIN SPORTS N)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+n&code=es&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+n&code=es&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/es-bein-sports-n/playlist.m3u8?token=721e56bd22f431714c70f5454c198202dffd196ba7a46aa9b4d6f8ceb5bf6752.1779413124.a8a71d579ec5d479ef0a98854ae83d2b.f09e83301b4862aac0ef4e400d46f6c6.ae89be48f41b68e6dabc0cf433666aaf&signature=7e95d0df04c52b8b7409dd2b5e0945c845835d77da245f970480bfde94c23571|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="7" tvg-id="Soccer.7" tvg-name="[Soccer] Peñarol vs Corinthians (Sport TV 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/3227.png" group-title="Soccer",[Soccer] Peñarol vs Corinthians (Sport TV 1)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+tv+1&code=pt&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+tv+1&code=pt&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/pt-sport-tv-1/playlist.m3u8?token=ee565165ab97a5d6e98c4985cacef2681fcbebe2480f2a99441256dc62e9e2fb.1779413125.c9fc39565396d3445d334d819d977d0d.61c6ec5632e4542da77fec3cdb35068a.588ab6eb393bd7800e79da87cf237ccf&signature=b3a79da5e7d1f0ce79a4ca23bd3ee31d4e8bd2307a1ba2953bdc267ee35139f2|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="8" tvg-id="Soccer.8" tvg-name="[Soccer] Peñarol vs Corinthians (Sport TV 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/3227.png" group-title="Soccer",[Soccer] Peñarol vs Corinthians (Sport TV 2)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+tv+2&code=pt&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+tv+2&code=pt&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/pt-sport-tv-2/playlist.m3u8?token=910ecb773173131c320bf7d5391dade552e1a778d83cb7e5ac2c1a755c3c3c0a.1779413126.f396117a86f761d2b43a9fdda6c2ac04.c147e11b43ff465f072889cf2b36f676.b31f88d723b6b31d4a20820f81b1755b&signature=d9dc07e79fac7b899f79866d3302156ddffff8920df6ed3fa22800ddd92db140|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="9" tvg-id="Soccer.9" tvg-name="[Soccer] Peñarol vs Corinthians (ESPN)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/3227.png" group-title="Soccer",[Soccer] Peñarol vs Corinthians (ESPN)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=espn&code=nl&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=espn&code=nl&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/nl-espn/playlist.m3u8?token=3b4425ddf41dac34934f9b13c55fb6b0a92e381c4189875d01f1559b4733d063.1779413126.91fdfe6feee052973b34d72ed5da1154.69062a7e0e81afe57a84704e9320764e.dbd5b9078aa1e881e48352f500adc65e&signature=a04c293e3b84c2e6ed2be561538bee70980183f5d1d277237968c0943c4a122d|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="10" tvg-id="Soccer.10" tvg-name="[Soccer] Peñarol vs Corinthians (Arena 3 Premium)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/3227.png" group-title="Soccer",[Soccer] Peñarol vs Corinthians (Arena 3 Premium)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+3+premium&code=rs&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+3+premium&code=rs&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/rs-arena-3-premium/playlist.m3u8?token=61bf50cd9bd2ca55bcc585e5cc2d7a0f9ca402a820ee1f5d5ff45c0c89cf02ba.1779413127.e452d081e163e988c85e09d7a53fe8ff.00293c2d5cfd1b74a14ca1edbbe732ec.f219e770da7fcb8877e3213192695861&signature=5cce015405b957f8d087358fb80dc28217da345c7a4a985f614bb98439f61667|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="11" tvg-id="Soccer.11" tvg-name="[Soccer] Peñarol vs Corinthians (Arena Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/3227.png" group-title="Soccer",[Soccer] Peñarol vs Corinthians (Arena Sport 1)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+sport+1&code=hr&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+sport+1&code=hr&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/hr-arena-sport-1/playlist.m3u8?token=1111b3bbfe672fe60614bf5c4dffbef51e2ba0ab09f3f2c5f1fd76b2dd4d25d2.1779413128.4e62b30d19099b8d20e26f1e84d0f506.e6cf78e3557c3c6173c1ddb49e4021bb.0e4d788fc02dd3f4bce240b6a2c9642c&signature=286246d6809bef7be63b68c0a1282e79fe71881cb8b27ceb2af3db61827201b2|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="12" tvg-id="Soccer.12" tvg-name="[Soccer] Peñarol vs Corinthians (ESPN)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/3227.png" group-title="Soccer",[Soccer] Peñarol vs Corinthians (ESPN)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=espn&code=br&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=espn&code=br&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/br-espn/playlist.m3u8?token=cdb83db8081f2b78340bd5829b4d37acca95d4fbf2b8791e51d9d3041588953a.1779413129.45685f6d68ce9f85d12387fa946498d1.1800c6bf66c474da3b03d76eb6ceb137.fca3e91fcb749174a06fbac3419ca205&signature=e2d449b106a7acc25f733c539e11e78e4be88660c23e86032a4d1be0eade53bc|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="13" tvg-id="Soccer.13" tvg-name="[Soccer] Peñarol vs Corinthians (FOX Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/3227.png" group-title="Soccer",[Soccer] Peñarol vs Corinthians (FOX Sports 2)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+sports+2&code=ar&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+sports+2&code=ar&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/ar-fox-sports-2/playlist.m3u8?token=43a992ae8ff496e5b4df978be2cb3baec1441edd4a21e27a51d12322bf83de94.1779413129.994338c4c6cabcb50f555d589d35dc24.f63e30926c7bc3b8d7071d0cbdad8079.3646216826656d8dead92461a1d1084a&signature=c6f6c96b0c6a06f10a64334defee80ff6b0203073ec20d5f98a1954eeea31b36|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="14" tvg-id="Soccer.14" tvg-name="[Soccer] Peñarol vs Corinthians (ESPN 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/3227.png" group-title="Soccer",[Soccer] Peñarol vs Corinthians (ESPN 2)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=espn+2&code=mx&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=espn+2&code=mx&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/mx-espn-2/playlist.m3u8?token=d83860bab754be3fd2b2a3e4bcd297067a38075549b7e371d4afd2df02924205.1779413130.6bd9e6d97acf87ddbc142fb797c0aefd.a12370c4b817e6563f8cd7758e6c1c2c.3c688d2e40f147384f190a8da047dba5&signature=d72ac8e4517ff2e655fab36911c1a6d11e90dfc2a05b2c805b0a445bbefa1c9c|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="15" tvg-id="Soccer.15" tvg-name="[Soccer] Peñarol vs Corinthians (Sport 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/3227.png" group-title="Soccer",[Soccer] Peñarol vs Corinthians (Sport 3)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+3&code=il&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+3&code=il&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/il-sport-3/playlist.m3u8?token=e680d5e429d457974c861ef4d694f592cc7b9cfcab3333fe5de3fa275837614e.1779413131.0aca8511e42f1a5c0b9632d5950df670.1d22127310849e53da4ec8b8fb54c697.9a73482c5319ca83548e4ea11ba15419&signature=195d7324ddf6d385da29fca89aa59c88286949a83d2584dd5c1a81174515e7a8|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="16" tvg-id="Soccer.16" tvg-name="[Soccer] Peñarol vs Corinthians (beIN SPORTS 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/3227.png" group-title="Soccer",[Soccer] Peñarol vs Corinthians (beIN SPORTS 2)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+2&code=sa&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+2&code=sa&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/sa-bein-sports-2/playlist.m3u8?token=7bf1a1ce6af5463e5a07789755bcb07d8316439bbc46343bfc8fd8c51c5a76d9.1779413131.d6ba87a3371e81369cf7f16dd0fe1075.70d3c8a18d926a87518dc8fc27330443.ae0755b99e0e3ba457beb78badb18375&signature=4a502856bc00a39cff205fe0d563f9f70b312c733f07496c71c93e2d0f6ceaa8|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="17" tvg-id="Soccer.17" tvg-name="[Soccer] Cruz Azul vs Pumas UNAM (CBS Sports Network)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/261027.png" group-title="Soccer",[Soccer] Cruz Azul vs Pumas UNAM (CBS Sports Network)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=cbs+sports+network&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=cbs+sports+network&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/us-cbs-sports-network/playlist.m3u8?token=3d9635900100e33a70f38a7edae2566b5ce325bcdec670b65554dd689ef616aa.1779413132.41123e5d773e354de6ab70067a092c61.58356184cba620858b42d049917186b0.fbedaed5356b1c800f4931785eb31041&signature=8722801063b93d5fabcc1f91c39d2fdf5695218f06d8a97d4d29bf6f0ea5ad27|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="18" tvg-id="Soccer.18" tvg-name="[Soccer] Cruz Azul vs Pumas UNAM (TUDN)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/261027.png" group-title="Soccer",[Soccer] Cruz Azul vs Pumas UNAM (TUDN)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=tudn&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=tudn&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/us-tudn/playlist.m3u8?token=9220067698d9629ea0f99ae641c466dc472d2ddc7bab8b36cd95eb74687e1171.1779413133.c1f338af154ac797ba9e5334c7839b45.5d8ce1b259d55b7b2df65e1caad0f610.a7879f3b102cca3bf343fc49f6986137&signature=0c1a370591edb51a8b6f5dd530368e613b9dd314bdf976b0ce247c440f961214|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="19" tvg-id="Soccer.19" tvg-name="[Soccer] Cruz Azul vs Pumas UNAM (Univision)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/261027.png" group-title="Soccer",[Soccer] Cruz Azul vs Pumas UNAM (Univision)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=univision&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=univision&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/us-univision/playlist.m3u8?token=152689a07367df9b97e5cf9cbdb74354a76d55f37b207ef5bec6587ab64efb6a.1779413134.22a11cab02285f2a9d2bbfff8f3fa160.167c2f0d4d1a040be1c236ebe739a11c.3c4db0c7a9bd4f72ba61e6ec40763f4a&signature=d73853a8477985256e9fc862db5d1dceb3b2e99ce575cc557e3801009d2e1501|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="20" tvg-id="Soccer.20" tvg-name="[Soccer] Cruz Azul vs Pumas UNAM (TUDN)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/261027.png" group-title="Soccer",[Soccer] Cruz Azul vs Pumas UNAM (TUDN)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=tudn&code=mx&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=tudn&code=mx&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/mx-tudn/playlist.m3u8?token=f52203512e6f83f521aa93e2dd8ac52d0551f8b83b6c67a517974a6acecaf305.1779413134.bb7e281a7e472d3f847f7496df164de1.ff4b26baa17af8237cc6cb0e90e3bf6f.9cbbd9f9dafec063c94d4000298878a5&signature=09626df9128fbb1ecda578da03f9b7ea0c5514080cfe7da07678de110205325a|x-forwarded-for:77.238.79.111
 
