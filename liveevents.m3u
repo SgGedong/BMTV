@@ -1,1 +1,19 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="1" tvg-id="Soccer.1" tvg-name="[Soccer] Austria Wien vs Salzburg (Sky Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2203.png" group-title="Soccer",[Soccer] Austria Wien vs Salzburg (Sky Sport 1)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+1&code=at&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+1&code=at&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/at-sky-sport-1/playlist.m3u8?token=79a44153a7b88ed6415d406818318450868a77bed95278f599f4c719a665f6bf.1779538387.4e6f692cd66d874feb6c2d1c8670afa5.a851a7e123870658221d80888498ec22.2f2370c148d797bd553ec3d473838013&signature=ef1b30e1effcf9802969bcd31db289ca7e63b68201bdb3fee3b29256e012182b|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="2" tvg-id="Soccer.2" tvg-name="[Soccer] Marumo Gallants vs Stellenbosch (SuperSport LaLiga)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/263077.png" group-title="Soccer",[Soccer] Marumo Gallants vs Stellenbosch (SuperSport LaLiga)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+laliga&code=za&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+laliga&code=za&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-laliga/playlist.m3u8?token=11e2c71f04337e9f432272234879ae2d091de3987972632a25b790f841edce4d.1779538388.59ff9fe3a2bfd58abee4d6d4ee4b15ba.9952143132cc5088ada14eef257182f2.2ef874dad205d4f5696999813feb46e5&signature=f25635293372d5f770c02cedcd01b261de1060bd158c396d0e66fe003693c777|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="3" tvg-id="Soccer.3" tvg-name="[Soccer] Kaizer Chiefs vs Chippa United (SuperSport Football)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/7663.png" group-title="Soccer",[Soccer] Kaizer Chiefs vs Chippa United (SuperSport Football)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+football&code=za&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+football&code=za&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-football/playlist.m3u8?token=c9372d2e37846bf0151d7c4a356aada0f6eb5fe51027db8069f74d35507af009.1779538388.66d6822bf465d6874df142232c189596.3caddc6df32deb2862bf79c2458b4abd.dfb255e7ee947a08397a0d8f89ef5dd5&signature=66dfb232615a22939cfe5bbfb17d530601179fd3b0c43895ceea8ee2607d18cf|x-forwarded-for:77.238.79.111
+

@@ -1,29 +1,39 @@
 {
-  "scraped_at": "2026-05-23T09:07:31+00:00",
+  "scraped_at": "2026-05-23T12:13:09+00:00",
   "base_url": "https://roxiestreams.su",
   "domains": [
     "shadow-ran.online"
   ],
   "events": [
     {
+      "name": "USYK VS RICO",
+      "page": "https://roxiestreams.su/ppv-streams-1",
+      "start_time": "May 23, 2026 8:00 AM"
+    },
+    {
       "name": "Formula 1",
       "page": "https://roxiestreams.su/f1",
-      "start_time": "May 22, 2026 9:30 AM"
+      "start_time": "May 23, 2026 9:00 AM"
     },
     {
-      "name": "NHL West Finals",
+      "name": "DFB Pokal - Final",
+      "page": "https://roxiestreams.su/soccer-streams-4",
+      "start_time": "May 23, 2026 11:00 AM"
+    },
+    {
+      "name": "Laliga",
+      "page": "https://roxiestreams.su/soccer",
+      "start_time": "May 23, 2026 12:00 PM"
+    },
+    {
+      "name": "NHL East Finals",
       "page": "https://roxiestreams.su/nhl-streams-1",
-      "start_time": "May 22, 2026 5:00 PM"
+      "start_time": "May 23, 2026 5:00 PM"
     },
     {
-      "name": "WWE Smackdown",
-      "page": "https://roxiestreams.su/wwe-streams",
-      "start_time": "May 22, 2026 5:00 PM"
-    },
-    {
-      "name": "NBA West Finals",
+      "name": "NBA East Finals",
       "page": "https://roxiestreams.su/nba-streams-1",
-      "start_time": "May 22, 2026 5:30 PM"
+      "start_time": "May 23, 2026 5:30 PM"
     }
   ],
   "events_by_sport": {
@@ -59,6 +69,63 @@
               "away": "Dunfermline"
             },
             "display_name": "Celtic vs Dunfermline - Stream 1"
+          }
+        ]
+      },
+      {
+        "title": "Bayern München vs Stuttgart",
+        "sport": "soccer",
+        "matchup": {
+          "home": "Bayern München",
+          "away": "Stuttgart"
+        },
+        "page": "https://roxiestreams.su/soccer-streams-4",
+        "streams": [
+          {
+            "label": "Stream 1",
+            "url": "https://601.shadow-ran.online/bayern.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.su/soccer-streams-4",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "601",
+            "path": "bayern.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.su/soccer-streams-4",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "Bayern München vs Stuttgart",
+            "matchup": {
+              "home": "Bayern München",
+              "away": "Stuttgart"
+            },
+            "display_name": "Bayern München vs Stuttgart - Stream 1"
+          },
+          {
+            "label": "Stream 2",
+            "url": "https://daffodil.shadow-ran.online/bayern.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.su/soccer-streams-4",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "daffodil",
+            "path": "bayern.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.su/soccer-streams-4",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "Bayern München vs Stuttgart",
+            "matchup": {
+              "home": "Bayern München",
+              "away": "Stuttgart"
+            },
+            "display_name": "Bayern München vs Stuttgart - Stream 2"
           }
         ]
       },
@@ -446,63 +513,6 @@
               "away": "Pisa"
             },
             "display_name": "Lazio vs Pisa - Stream 1"
-          }
-        ]
-      },
-      {
-        "title": "Bayern München vs Stuttgart",
-        "sport": "soccer",
-        "matchup": {
-          "home": "Bayern München",
-          "away": "Stuttgart"
-        },
-        "page": "https://roxiestreams.su/soccer-streams-4",
-        "streams": [
-          {
-            "label": "Stream 1",
-            "url": "https://601.shadow-ran.online/bayern.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.su/soccer-streams-4",
-            "cdn_domain": "shadow-ran.online",
-            "subdomain": "601",
-            "path": "bayern.m3u8",
-            "headers": {
-              "Referer": "https://roxiestreams.su/soccer-streams-4",
-              "Origin": "https://roxiestreams.su",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "soccer",
-            "event_title": "Bayern München vs Stuttgart",
-            "matchup": {
-              "home": "Bayern München",
-              "away": "Stuttgart"
-            },
-            "display_name": "Bayern München vs Stuttgart - Stream 1"
-          },
-          {
-            "label": "Stream 2",
-            "url": "https://daffodil.shadow-ran.online/bayern.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.su/soccer-streams-4",
-            "cdn_domain": "shadow-ran.online",
-            "subdomain": "daffodil",
-            "path": "bayern.m3u8",
-            "headers": {
-              "Referer": "https://roxiestreams.su/soccer-streams-4",
-              "Origin": "https://roxiestreams.su",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "soccer",
-            "event_title": "Bayern München vs Stuttgart",
-            "matchup": {
-              "home": "Bayern München",
-              "away": "Stuttgart"
-            },
-            "display_name": "Bayern München vs Stuttgart - Stream 2"
           }
         ]
       },
@@ -1727,6 +1737,65 @@
         ]
       }
     ],
+    "ppv": [
+      {
+        "title": "USYK VS RICO",
+        "sport": "ppv",
+        "matchup": {
+          "home": "USYK",
+          "away": "RICO"
+        },
+        "page": "https://roxiestreams.su/ppv-streams-1",
+        "streams": [
+          {
+            "label": "Stream 1",
+            "url": "https://601.shadow-ran.online/ppv.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.su/ppv-streams-1",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "601",
+            "path": "ppv.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.su/ppv-streams-1",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "ppv",
+            "event_title": "USYK VS RICO",
+            "matchup": {
+              "home": "USYK",
+              "away": "RICO"
+            },
+            "display_name": "USYK VS RICO - Stream 1"
+          },
+          {
+            "label": "ppv.m3u8",
+            "url": "https://daffodil.shadow-ran.online/ppv.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.su/ppv-streams-1",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "daffodil",
+            "path": "ppv.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.su/ppv-streams-1",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "ppv",
+            "event_title": "USYK VS RICO",
+            "matchup": {
+              "home": "USYK",
+              "away": "RICO"
+            },
+            "display_name": "USYK VS RICO - ppv.m3u8"
+          }
+        ]
+      }
+    ],
     "f1": [
       {
         "title": "Formula 1",
@@ -1793,56 +1862,6 @@
             "event_title": "Formula 1",
             "matchup": null,
             "display_name": "Formula 1 - Stream 3 (IT)"
-          }
-        ]
-      }
-    ],
-    "wwe": [
-      {
-        "title": "WWE Smackdown",
-        "sport": "wwe",
-        "matchup": null,
-        "page": "https://roxiestreams.su/wwe-streams",
-        "streams": [
-          {
-            "label": "Stream 1",
-            "url": "https://daffodil.shadow-ran.online/wwe.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.su/wwe-streams",
-            "cdn_domain": "shadow-ran.online",
-            "subdomain": "daffodil",
-            "path": "wwe.m3u8",
-            "headers": {
-              "Referer": "https://roxiestreams.su/wwe-streams",
-              "Origin": "https://roxiestreams.su",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "wwe",
-            "event_title": "WWE Smackdown",
-            "matchup": null,
-            "display_name": "WWE Smackdown - Stream 1"
-          },
-          {
-            "label": "Stream 2",
-            "url": "https://601.shadow-ran.online/wwe.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.su/wwe-streams",
-            "cdn_domain": "shadow-ran.online",
-            "subdomain": "601",
-            "path": "wwe.m3u8",
-            "headers": {
-              "Referer": "https://roxiestreams.su/wwe-streams",
-              "Origin": "https://roxiestreams.su",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "wwe",
-            "event_title": "WWE Smackdown",
-            "matchup": null,
-            "display_name": "WWE Smackdown - Stream 2"
           }
         ]
       }
@@ -2010,6 +2029,68 @@
         "Motorsports",
         "Stream Request (Discord)",
         "Stream 1",
+        "Switch to Chatango",
+        "Stream Request (Discord)"
+      ],
+      "links": [
+        {
+          "label": "RoxieStreams",
+          "url": "https://roxiestreams.su/"
+        },
+        {
+          "label": "Soccer",
+          "url": "https://roxiestreams.su/soccer"
+        },
+        {
+          "label": "MLB",
+          "url": "https://roxiestreams.su/mlb"
+        },
+        {
+          "label": "NBA",
+          "url": "https://roxiestreams.su/nba"
+        },
+        {
+          "label": "NFL",
+          "url": "https://roxiestreams.su/nfl"
+        },
+        {
+          "label": "NHL",
+          "url": "https://roxiestreams.su/nhl"
+        },
+        {
+          "label": "Fighting",
+          "url": "https://roxiestreams.su/fighting"
+        },
+        {
+          "label": "Motorsports",
+          "url": "https://roxiestreams.su/motorsports"
+        },
+        {
+          "label": "Stream Request (Discord)",
+          "url": "https://discord.gg/JhkVmejRmn"
+        },
+        {
+          "label": "Stream Request (Discord)",
+          "url": "https://discord.gg/JhkVmejRmn"
+        }
+      ]
+    },
+    "https://roxiestreams.su/soccer-streams-4": {
+      "url": "https://roxiestreams.su/soccer-streams-4",
+      "title": "Roxiestreams - Watch Live Sports, F1, UFC, NFL, TV",
+      "headings": [],
+      "controls": [
+        "RoxieStreams",
+        "Soccer",
+        "MLB",
+        "NBA",
+        "NFL",
+        "NHL",
+        "Fighting",
+        "Motorsports",
+        "Stream Request (Discord)",
+        "Stream 1",
+        "Stream 2",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -2498,68 +2579,6 @@
         "Motorsports",
         "Stream Request (Discord)",
         "Stream 1",
-        "Switch to Chatango",
-        "Stream Request (Discord)"
-      ],
-      "links": [
-        {
-          "label": "RoxieStreams",
-          "url": "https://roxiestreams.su/"
-        },
-        {
-          "label": "Soccer",
-          "url": "https://roxiestreams.su/soccer"
-        },
-        {
-          "label": "MLB",
-          "url": "https://roxiestreams.su/mlb"
-        },
-        {
-          "label": "NBA",
-          "url": "https://roxiestreams.su/nba"
-        },
-        {
-          "label": "NFL",
-          "url": "https://roxiestreams.su/nfl"
-        },
-        {
-          "label": "NHL",
-          "url": "https://roxiestreams.su/nhl"
-        },
-        {
-          "label": "Fighting",
-          "url": "https://roxiestreams.su/fighting"
-        },
-        {
-          "label": "Motorsports",
-          "url": "https://roxiestreams.su/motorsports"
-        },
-        {
-          "label": "Stream Request (Discord)",
-          "url": "https://discord.gg/JhkVmejRmn"
-        },
-        {
-          "label": "Stream Request (Discord)",
-          "url": "https://discord.gg/JhkVmejRmn"
-        }
-      ]
-    },
-    "https://roxiestreams.su/soccer-streams-4": {
-      "url": "https://roxiestreams.su/soccer-streams-4",
-      "title": "Roxiestreams - Watch Live Sports, F1, UFC, NFL, TV",
-      "headings": [],
-      "controls": [
-        "RoxieStreams",
-        "Soccer",
-        "MLB",
-        "NBA",
-        "NFL",
-        "NHL",
-        "Fighting",
-        "Motorsports",
-        "Stream Request (Discord)",
-        "Stream 1",
-        "Stream 2",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -4807,68 +4826,6 @@
           "url": "https://discord.gg/JhkVmejRmn"
         }
       ]
-    },
-    "https://roxiestreams.su/wwe-streams": {
-      "url": "https://roxiestreams.su/wwe-streams",
-      "title": "Roxiestreams - Watch Live Sports, F1, UFC, NFL, TV",
-      "headings": [],
-      "controls": [
-        "RoxieStreams",
-        "Soccer",
-        "MLB",
-        "NBA",
-        "NFL",
-        "NHL",
-        "Fighting",
-        "Motorsports",
-        "Stream Request (Discord)",
-        "Stream 1",
-        "Stream 2",
-        "Switch to Chatango",
-        "Stream Request (Discord)"
-      ],
-      "links": [
-        {
-          "label": "RoxieStreams",
-          "url": "https://roxiestreams.su/"
-        },
-        {
-          "label": "Soccer",
-          "url": "https://roxiestreams.su/soccer"
-        },
-        {
-          "label": "MLB",
-          "url": "https://roxiestreams.su/mlb"
-        },
-        {
-          "label": "NBA",
-          "url": "https://roxiestreams.su/nba"
-        },
-        {
-          "label": "NFL",
-          "url": "https://roxiestreams.su/nfl"
-        },
-        {
-          "label": "NHL",
-          "url": "https://roxiestreams.su/nhl"
-        },
-        {
-          "label": "Fighting",
-          "url": "https://roxiestreams.su/fighting"
-        },
-        {
-          "label": "Motorsports",
-          "url": "https://roxiestreams.su/motorsports"
-        },
-        {
-          "label": "Stream Request (Discord)",
-          "url": "https://discord.gg/JhkVmejRmn"
-        },
-        {
-          "label": "Stream Request (Discord)",
-          "url": "https://discord.gg/JhkVmejRmn"
-        }
-      ]
     }
   },
   "sports": {
@@ -4876,6 +4833,7 @@
       "pages": [
         "https://roxiestreams.su/soccer",
         "https://roxiestreams.su/soccer-streams-1",
+        "https://roxiestreams.su/soccer-streams-4",
         "https://roxiestreams.su/soccer-streams-10",
         "https://roxiestreams.su/soccer-streams-11",
         "https://roxiestreams.su/soccer-streams-12",
@@ -4884,7 +4842,6 @@
         "https://roxiestreams.su/soccer-streams-15",
         "https://roxiestreams.su/soccer-streams-2",
         "https://roxiestreams.su/soccer-streams-3",
-        "https://roxiestreams.su/soccer-streams-4",
         "https://roxiestreams.su/soccer-streams-5",
         "https://roxiestreams.su/soccer-streams-6",
         "https://roxiestreams.su/soccer-streams-7",
@@ -4914,6 +4871,52 @@
             "away": "Dunfermline"
           },
           "display_name": "Celtic vs Dunfermline - Stream 1"
+        },
+        {
+          "label": "Stream 1",
+          "url": "https://601.shadow-ran.online/bayern.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.su/soccer-streams-4",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "601",
+          "path": "bayern.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.su/soccer-streams-4",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "Bayern München vs Stuttgart",
+          "matchup": {
+            "home": "Bayern München",
+            "away": "Stuttgart"
+          },
+          "display_name": "Bayern München vs Stuttgart - Stream 1"
+        },
+        {
+          "label": "Stream 2",
+          "url": "https://daffodil.shadow-ran.online/bayern.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.su/soccer-streams-4",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "daffodil",
+          "path": "bayern.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.su/soccer-streams-4",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "Bayern München vs Stuttgart",
+          "matchup": {
+            "home": "Bayern München",
+            "away": "Stuttgart"
+          },
+          "display_name": "Bayern München vs Stuttgart - Stream 2"
         },
         {
           "label": "Stream 1",
@@ -5213,52 +5216,6 @@
             "away": "Pisa"
           },
           "display_name": "Lazio vs Pisa - Stream 1"
-        },
-        {
-          "label": "Stream 1",
-          "url": "https://601.shadow-ran.online/bayern.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.su/soccer-streams-4",
-          "cdn_domain": "shadow-ran.online",
-          "subdomain": "601",
-          "path": "bayern.m3u8",
-          "headers": {
-            "Referer": "https://roxiestreams.su/soccer-streams-4",
-            "Origin": "https://roxiestreams.su",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "soccer",
-          "event_title": "Bayern München vs Stuttgart",
-          "matchup": {
-            "home": "Bayern München",
-            "away": "Stuttgart"
-          },
-          "display_name": "Bayern München vs Stuttgart - Stream 1"
-        },
-        {
-          "label": "Stream 2",
-          "url": "https://daffodil.shadow-ran.online/bayern.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.su/soccer-streams-4",
-          "cdn_domain": "shadow-ran.online",
-          "subdomain": "daffodil",
-          "path": "bayern.m3u8",
-          "headers": {
-            "Referer": "https://roxiestreams.su/soccer-streams-4",
-            "Origin": "https://roxiestreams.su",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "soccer",
-          "event_title": "Bayern München vs Stuttgart",
-          "matchup": {
-            "home": "Bayern München",
-            "away": "Stuttgart"
-          },
-          "display_name": "Bayern München vs Stuttgart - Stream 2"
         },
         {
           "label": "Stream 1",
@@ -6258,6 +6215,59 @@
         }
       ]
     },
+    "ppv": {
+      "pages": [
+        "https://roxiestreams.su/ppv-streams-1"
+      ],
+      "streams": [
+        {
+          "label": "Stream 1",
+          "url": "https://601.shadow-ran.online/ppv.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.su/ppv-streams-1",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "601",
+          "path": "ppv.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.su/ppv-streams-1",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "ppv",
+          "event_title": "USYK VS RICO",
+          "matchup": {
+            "home": "USYK",
+            "away": "RICO"
+          },
+          "display_name": "USYK VS RICO - Stream 1"
+        },
+        {
+          "label": "ppv.m3u8",
+          "url": "https://daffodil.shadow-ran.online/ppv.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.su/ppv-streams-1",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "daffodil",
+          "path": "ppv.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.su/ppv-streams-1",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "ppv",
+          "event_title": "USYK VS RICO",
+          "matchup": {
+            "home": "USYK",
+            "away": "RICO"
+          },
+          "display_name": "USYK VS RICO - ppv.m3u8"
+        }
+      ]
+    },
     "f1": {
       "pages": [
         "https://roxiestreams.su/f1"
@@ -6322,53 +6332,6 @@
           "event_title": "Formula 1",
           "matchup": null,
           "display_name": "Formula 1 - Stream 3 (IT)"
-        }
-      ]
-    },
-    "wwe": {
-      "pages": [
-        "https://roxiestreams.su/wwe-streams"
-      ],
-      "streams": [
-        {
-          "label": "Stream 1",
-          "url": "https://daffodil.shadow-ran.online/wwe.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.su/wwe-streams",
-          "cdn_domain": "shadow-ran.online",
-          "subdomain": "daffodil",
-          "path": "wwe.m3u8",
-          "headers": {
-            "Referer": "https://roxiestreams.su/wwe-streams",
-            "Origin": "https://roxiestreams.su",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "wwe",
-          "event_title": "WWE Smackdown",
-          "matchup": null,
-          "display_name": "WWE Smackdown - Stream 1"
-        },
-        {
-          "label": "Stream 2",
-          "url": "https://601.shadow-ran.online/wwe.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.su/wwe-streams",
-          "cdn_domain": "shadow-ran.online",
-          "subdomain": "601",
-          "path": "wwe.m3u8",
-          "headers": {
-            "Referer": "https://roxiestreams.su/wwe-streams",
-            "Origin": "https://roxiestreams.su",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "wwe",
-          "event_title": "WWE Smackdown",
-          "matchup": null,
-          "display_name": "WWE Smackdown - Stream 2"
         }
       ]
     }
