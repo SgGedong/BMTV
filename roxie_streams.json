@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-05-23T00:37:16+00:00",
+  "scraped_at": "2026-05-23T04:28:11+00:00",
   "base_url": "https://roxiestreams.su",
   "domains": [
     "shadow-ran.online"
@@ -93,6 +93,63 @@
               "away": "Nice"
             },
             "display_name": "Lens vs Nice - Stream 1"
+          }
+        ]
+      },
+      {
+        "title": "Mexico vs Ghana",
+        "sport": "soccer",
+        "matchup": {
+          "home": "Mexico",
+          "away": "Ghana"
+        },
+        "page": "https://roxiestreams.su/soccer-streams-3",
+        "streams": [
+          {
+            "label": "Stream 1",
+            "url": "https://601.shadow-ran.online/tudn.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.su/soccer-streams-3",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "601",
+            "path": "tudn.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.su/soccer-streams-3",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "Mexico vs Ghana",
+            "matchup": {
+              "home": "Mexico",
+              "away": "Ghana"
+            },
+            "display_name": "Mexico vs Ghana - Stream 1"
+          },
+          {
+            "label": "tudn.m3u8",
+            "url": "https://daffodil.shadow-ran.online/tudn.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.su/soccer-streams-3",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "daffodil",
+            "path": "tudn.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.su/soccer-streams-3",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "Mexico vs Ghana",
+            "matchup": {
+              "home": "Mexico",
+              "away": "Ghana"
+            },
+            "display_name": "Mexico vs Ghana - tudn.m3u8"
           }
         ]
       }
@@ -3408,6 +3465,52 @@
             "away": "Nice"
           },
           "display_name": "Lens vs Nice - Stream 1"
+        },
+        {
+          "label": "Stream 1",
+          "url": "https://601.shadow-ran.online/tudn.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.su/soccer-streams-3",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "601",
+          "path": "tudn.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.su/soccer-streams-3",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "Mexico vs Ghana",
+          "matchup": {
+            "home": "Mexico",
+            "away": "Ghana"
+          },
+          "display_name": "Mexico vs Ghana - Stream 1"
+        },
+        {
+          "label": "tudn.m3u8",
+          "url": "https://daffodil.shadow-ran.online/tudn.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.su/soccer-streams-3",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "daffodil",
+          "path": "tudn.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.su/soccer-streams-3",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "Mexico vs Ghana",
+          "matchup": {
+            "home": "Mexico",
+            "away": "Ghana"
+          },
+          "display_name": "Mexico vs Ghana - tudn.m3u8"
         }
       ]
     },
@@ -4329,7 +4432,7 @@
       ]
     }
   },
-  "stream_count": 42,
+  "stream_count": 44,
   "notes": [
     "Playlist header tags are player hints. Browser CORS requires a server-side proxy."
   ]
