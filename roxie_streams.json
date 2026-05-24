@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-05-24T18:19:08+00:00",
+  "scraped_at": "2026-05-24T21:43:58+00:00",
   "base_url": "https://roxiestreams.su",
   "domains": [
     "shadow-ran.online"
@@ -2084,7 +2084,7 @@
         "page": "https://roxiestreams.su/f1",
         "streams": [
           {
-            "label": "Stream 1",
+            "label": "TSN",
             "url": "https://daffodil.shadow-ran.online/f1.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/f1",
@@ -2101,10 +2101,10 @@
             "sport": "f1",
             "event_title": "Formula 1 Grand Prix",
             "matchup": null,
-            "display_name": "Formula 1 Grand Prix - Stream 1"
+            "display_name": "Formula 1 Grand Prix - TSN"
           },
           {
-            "label": "Stream 2",
+            "label": "Sky",
             "url": "https://601.shadow-ran.online/main.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/f1",
@@ -2121,7 +2121,27 @@
             "sport": "f1",
             "event_title": "Formula 1 Grand Prix",
             "matchup": null,
-            "display_name": "Formula 1 Grand Prix - Stream 2"
+            "display_name": "Formula 1 Grand Prix - Sky"
+          },
+          {
+            "label": "F1TV",
+            "url": "https://700.shadow-ran.online/f1tv.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.su/f1",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "700",
+            "path": "f1tv.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.su/f1",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "f1",
+            "event_title": "Formula 1 Grand Prix",
+            "matchup": null,
+            "display_name": "Formula 1 Grand Prix - F1TV"
           },
           {
             "label": "Stream 3 (IT)",
@@ -2142,6 +2162,26 @@
             "event_title": "Formula 1 Grand Prix",
             "matchup": null,
             "display_name": "Formula 1 Grand Prix - Stream 3 (IT)"
+          },
+          {
+            "label": "Stream 4 (ESPAÑOL)",
+            "url": "https://601.shadow-ran.online/skyf1mx.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.su/f1",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "601",
+            "path": "skyf1mx.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.su/f1",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "f1",
+            "event_title": "Formula 1 Grand Prix",
+            "matchup": null,
+            "display_name": "Formula 1 Grand Prix - Stream 4 (ESPAÑOL)"
           }
         ]
       }
@@ -5466,9 +5506,11 @@
         "Fighting",
         "Motorsports",
         "Stream Request (Discord)",
-        "Stream 1",
-        "Stream 2",
+        "TSN",
+        "Sky",
+        "F1TV",
         "Stream 3 (IT)",
+        "Stream 4 (ESPAÑOL)",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -7198,7 +7240,7 @@
       ],
       "streams": [
         {
-          "label": "Stream 1",
+          "label": "TSN",
           "url": "https://daffodil.shadow-ran.online/f1.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/f1",
@@ -7215,10 +7257,10 @@
           "sport": "f1",
           "event_title": "Formula 1 Grand Prix",
           "matchup": null,
-          "display_name": "Formula 1 Grand Prix - Stream 1"
+          "display_name": "Formula 1 Grand Prix - TSN"
         },
         {
-          "label": "Stream 2",
+          "label": "Sky",
           "url": "https://601.shadow-ran.online/main.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/f1",
@@ -7235,7 +7277,27 @@
           "sport": "f1",
           "event_title": "Formula 1 Grand Prix",
           "matchup": null,
-          "display_name": "Formula 1 Grand Prix - Stream 2"
+          "display_name": "Formula 1 Grand Prix - Sky"
+        },
+        {
+          "label": "F1TV",
+          "url": "https://700.shadow-ran.online/f1tv.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.su/f1",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "700",
+          "path": "f1tv.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.su/f1",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "f1",
+          "event_title": "Formula 1 Grand Prix",
+          "matchup": null,
+          "display_name": "Formula 1 Grand Prix - F1TV"
         },
         {
           "label": "Stream 3 (IT)",
@@ -7256,11 +7318,31 @@
           "event_title": "Formula 1 Grand Prix",
           "matchup": null,
           "display_name": "Formula 1 Grand Prix - Stream 3 (IT)"
+        },
+        {
+          "label": "Stream 4 (ESPAÑOL)",
+          "url": "https://601.shadow-ran.online/skyf1mx.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.su/f1",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "601",
+          "path": "skyf1mx.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.su/f1",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "f1",
+          "event_title": "Formula 1 Grand Prix",
+          "matchup": null,
+          "display_name": "Formula 1 Grand Prix - Stream 4 (ESPAÑOL)"
         }
       ]
     }
   },
-  "stream_count": 75,
+  "stream_count": 77,
   "notes": [
     "Playlist header tags are player hints. Browser CORS requires a server-side proxy."
   ]

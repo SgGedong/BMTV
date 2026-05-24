@@ -1,5 +1,5 @@
 #EXTM3U
-# RoxieStreams Playlist - generated 2026-05-24T18:19:08+00:00
+# RoxieStreams Playlist - generated 2026-05-24T21:43:58+00:00
 # Source: https://roxiestreams.su
 
 #EXTINF:-1 tvg-name="Bolton vs Stockport - Stream 1" group-title="SOCCER - Bolton vs Stockport",Bolton vs Stockport - Stream 1
@@ -623,7 +623,7 @@ https://601.formaturamaxi.com.br/mix.m3u8
 #EXTHTTP:{"Referer":"https://roxiestreams.su/indycar","Origin":"https://roxiestreams.su","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
 https://601.formaturamaxi.com.br/indy.m3u8
 
-#EXTINF:-1 tvg-name="Formula 1 Grand Prix - Stream 1" group-title="F1 - Formula 1 Grand Prix",Formula 1 Grand Prix - Stream 1
+#EXTINF:-1 tvg-name="Formula 1 Grand Prix - TSN" group-title="F1 - Formula 1 Grand Prix",Formula 1 Grand Prix - TSN
 #EXTGRP:F1 - Formula 1 Grand Prix
 #EXTDESC:Formula 1 Grand Prix
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/f1
@@ -632,7 +632,7 @@ https://601.formaturamaxi.com.br/indy.m3u8
 #EXTHTTP:{"Referer":"https://roxiestreams.su/f1","Origin":"https://roxiestreams.su","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
 https://daffodil.shadow-ran.online/f1.m3u8
 
-#EXTINF:-1 tvg-name="Formula 1 Grand Prix - Stream 2" group-title="F1 - Formula 1 Grand Prix",Formula 1 Grand Prix - Stream 2
+#EXTINF:-1 tvg-name="Formula 1 Grand Prix - Sky" group-title="F1 - Formula 1 Grand Prix",Formula 1 Grand Prix - Sky
 #EXTGRP:F1 - Formula 1 Grand Prix
 #EXTDESC:Formula 1 Grand Prix
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/f1
@@ -640,6 +640,15 @@ https://daffodil.shadow-ran.online/f1.m3u8
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.su%2Ff1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
 #EXTHTTP:{"Referer":"https://roxiestreams.su/f1","Origin":"https://roxiestreams.su","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
 https://601.shadow-ran.online/main.m3u8
+
+#EXTINF:-1 tvg-name="Formula 1 Grand Prix - F1TV" group-title="F1 - Formula 1 Grand Prix",Formula 1 Grand Prix - F1TV
+#EXTGRP:F1 - Formula 1 Grand Prix
+#EXTDESC:Formula 1 Grand Prix
+#EXTVLCOPT:http-referrer=https://roxiestreams.su/f1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.su%2Ff1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
+#EXTHTTP:{"Referer":"https://roxiestreams.su/f1","Origin":"https://roxiestreams.su","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
+https://700.shadow-ran.online/f1tv.m3u8
 
 #EXTINF:-1 tvg-name="Formula 1 Grand Prix - Stream 3 (IT)" group-title="F1 - Formula 1 Grand Prix",Formula 1 Grand Prix - Stream 3 (IT)
 #EXTGRP:F1 - Formula 1 Grand Prix
@@ -649,3 +658,12 @@ https://601.shadow-ran.online/main.m3u8
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.su%2Ff1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
 #EXTHTTP:{"Referer":"https://roxiestreams.su/f1","Origin":"https://roxiestreams.su","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
 https://601.shadow-ran.online/italy.m3u8
+
+#EXTINF:-1 tvg-name="Formula 1 Grand Prix - Stream 4 (ESPAÑOL)" group-title="F1 - Formula 1 Grand Prix",Formula 1 Grand Prix - Stream 4 (ESPAÑOL)
+#EXTGRP:F1 - Formula 1 Grand Prix
+#EXTDESC:Formula 1 Grand Prix
+#EXTVLCOPT:http-referrer=https://roxiestreams.su/f1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.su%2Ff1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
+#EXTHTTP:{"Referer":"https://roxiestreams.su/f1","Origin":"https://roxiestreams.su","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
+https://601.shadow-ran.online/skyf1mx.m3u8
