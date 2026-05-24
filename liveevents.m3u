@@ -1,1 +1,139 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="1" tvg-id="Soccer.1" tvg-name="[Soccer] Ajax vs Utrecht (Viaplay Sports 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2953.png" group-title="Soccer",[Soccer] Ajax vs Utrecht (Viaplay Sports 1)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=viaplay+sports+1&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=viaplay+sports+1&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/gb-viaplay-sports-1/playlist.m3u8?token=8b4eb2f7b44c0ccb2b38a6606024b210ccf254413afd1b90fc845c5485a439b8.1779620959.27440d46fc8968093ae1e15de6ae34e9.8f9069ff067144b8acaf0cbf248d75d5.6cdfc45748aeeba9d276c322efe1bbf9&signature=79fff188ab1ad9d51fefe709dc52d9befa4d01be4f30a72a19bc21f30e3fd82a|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="2" tvg-id="Soccer.2" tvg-name="[Soccer] Ajax vs Utrecht (Premier Sports 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2953.png" group-title="Soccer",[Soccer] Ajax vs Utrecht (Premier Sports 1)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=premier+sports+1&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=premier+sports+1&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/gb-premier-sports-1/playlist.m3u8?token=c93d5655fc19657f9348a17c7f17154dc73fe34f7609a6805c65b8501beae4d9.1779620960.0194dddce2d79b4431ece7bcd93a850b.9b42f8d93ea8d16129a4815296c6e7b0.cb8e0e39ee82c0dc231847b701ee070c&signature=5c812e84285b3e5a0cbd1a405f8143f78209b7389d1fb1b45d6fbd184b67f8ea|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="3" tvg-id="Soccer.3" tvg-name="[Soccer] Ajax vs Utrecht (SportDigital Fussball)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2953.png" group-title="Soccer",[Soccer] Ajax vs Utrecht (SportDigital Fussball)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sportdigital+fussball&code=de&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sportdigital+fussball&code=de&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/de-sportdigital-fussball/playlist.m3u8?token=eb4b56da3ae7ae11d45ff77f0e8fc49b967e74d2481f6dcc72ddc8f977915d9c.1779620960.89ac17de6b415202ddf45a006fb82f6f.6982f6521aacc0fa65d7b0913902c893.6b317bf381a895118a82bc21691735d1&signature=a4a951cf8087695b508c27d14f891873b8b01c845a29d62a95a537e63f10ad7d|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="4" tvg-id="Soccer.4" tvg-name="[Soccer] Ajax vs Utrecht (ESPN)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2953.png" group-title="Soccer",[Soccer] Ajax vs Utrecht (ESPN)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=espn&code=nl&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=espn&code=nl&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/nl-espn/playlist.m3u8?token=05d3e2d5d86a8de8b39c8c59494996b49d669704cb3eec18e780df8a571057f7.1779620961.7085220369bfbed976e5884339e26231.9f9dbefd2c7613404ba1291d18c10a69.1f257ed919dd5258be0a7b7841357654&signature=9428900a420c332e49a1c2dbd2841aab66cc26d0185ee09700cd67c055b74743|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="5" tvg-id="Soccer.5" tvg-name="[Soccer] Ajax vs Utrecht (Arena 3 Premium)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2953.png" group-title="Soccer",[Soccer] Ajax vs Utrecht (Arena 3 Premium)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+3+premium&code=rs&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+3+premium&code=rs&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/rs-arena-3-premium/playlist.m3u8?token=45810ed36da2bb7d59132ebaaaf962514dcc356da367759361268ab0d5645380.1779620961.feddca21344739cdfab6872f9d2451fb.82b1465dcb515b34b9f6725ebba53cbd.6f8ebb5ceace94e89554f288e0762405&signature=b73549d1854e7910a3ea1550c9fc255fcc18c63a0b0677d2c4c2309cb7036a16|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="6" tvg-id="Cricket.6" tvg-name="[Cricket] Indian Premier League : Mumbai Indians vs Rajasthan Royals vs  (Willow Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Mumbai Indians vs Rajasthan Royals vs  (Willow Cricket)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/us-willow-cricket/playlist.m3u8?token=58980d1bf67d31300c5a03c4ecd5aa4873bd855a076b9b995e2dbbcacf4461dd.1779620962.e305630f5d2cd81769315b1e5cdfbf50.1d7495328d9ea528a9a076372fae5a89.84fdca9b0cdbe3412b2328fef2e35c25&signature=de04926cb4c01d89bfdc556c8b405029262caa8a5ce1f58f7b261ec178f3a42e|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="7" tvg-id="Cricket.7" tvg-name="[Cricket] Indian Premier League : Mumbai Indians vs Rajasthan Royals vs  (Willow 2 Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Mumbai Indians vs Rajasthan Royals vs  (Willow 2 Cricket)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/us-willow-2-cricket/playlist.m3u8?token=3f9ec667d0ed27105506e99594b975fe753389a92f22faae95ba5e937845a34a.1779620962.323332e0a2c9fd4af0b99a86b65cecdc.c13a702cbcdb87391d05deb070f2a036.4c74464d70e47e205ffbb6ed52f7a141&signature=2faee5895ca6d0776e3d9baabd51bc2388026803e63ac37bfad798bc7e00ec71|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="8" tvg-id="Cricket.8" tvg-name="[Cricket] Indian Premier League : Mumbai Indians vs Rajasthan Royals vs  (Astro Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Mumbai Indians vs Rajasthan Royals vs  (Astro Cricket)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=astro+cricket&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=astro+cricket&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/us-astro-cricket/playlist.m3u8?token=c7c861f7baf9fee80da3aacfcbaa142a486eb6fa1d3ed23459752cecbe18ce46.1779620962.e06722acb47c06966a2ef5f35f1c6a32.1336dc604c167bb1e20094171f306153.9e9a30af837fed4f2e851d07cbacd643&signature=8594d186f8a3e0627d3990f80bd05aa7b732e39ab55e22f0a119f48e1aa45510|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="9" tvg-id="Cricket.9" tvg-name="[Cricket] Indian Premier League : Mumbai Indians vs Rajasthan Royals vs  (Sky Sports Arena)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Mumbai Indians vs Rajasthan Royals vs  (Sky Sports Arena)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+arena&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+arena&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-arena/playlist.m3u8?token=6b2d57301cf5f5e29b0d34383c3517e67d38d263db01693e202270aebd48aa5d.1779620963.6dcb44eff76a6ce241fef123f389dd18.f73e97f98feea8e6331b7de29ee9ea61.62fcc500d1991b307faf602311e1ce07&signature=aee10469eb6b5c2b2860542a5e85175bfd885ccca940b97432c32c331742b092|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="10" tvg-id="Cricket.10" tvg-name="[Cricket] Indian Premier League : Mumbai Indians vs Rajasthan Royals vs  (Sky Sports Main Event)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Mumbai Indians vs Rajasthan Royals vs  (Sky Sports Main Event)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-main-event/playlist.m3u8?token=340e27259fa23800e250fadd9f2d7587183722e7e3d6f5ff9845d45a82b05f91.1779620963.868eacd33e06ffc2f29b1d5a8e14c1b6.64a75cceb8ab361f0d3c3c372bd1dc86.455ed9e1fa641e671334ca90dccbe0fc&signature=016bba11be0a0722fe9dc67cdc7d4759fecd639231237f62a47c98bccc351099|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="11" tvg-id="Cricket.11" tvg-name="[Cricket] Indian Premier League : Mumbai Indians vs Rajasthan Royals vs  (Hub Premier 5)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Mumbai Indians vs Rajasthan Royals vs  (Hub Premier 5)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=hub+premier+5&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=hub+premier+5&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/gb-hub-premier-5/playlist.m3u8?token=266bd8c82dd1b12dc7ef7301e644dd1c09dfdae1db98b769f06160940ef07804.1779620964.829041531741f59e18cf028bca981fc2.505aebc377aae5ae00f9e0c33b60dfff.9aa44de03e3467e50d0f91593bfff82d&signature=15cf0a40c231b83765428cabfc2b41d86132948aa7295fb44788f2291fa7cc10|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="12" tvg-id="Cricket.12" tvg-name="[Cricket] Indian Premier League : Mumbai Indians vs Rajasthan Royals vs  (Sky Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Mumbai Indians vs Rajasthan Royals vs  (Sky Sport 1)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+1&code=nz&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+1&code=nz&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-1/playlist.m3u8?token=1b84c4e2b91f77f2e7b0b866615c064ece5942622b9a80f4c2f65875d5f34c9e.1779620964.3847f71f9cdd03616d2ba04531851eb4.ab449fe28a65424084e5cd4ebf020420.fb4313205920a1bf5339c8489760122a&signature=9df6cf48a90394027338909165bb4dd33be53359ca64e5d3fc9a51a452a788cc|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="13" tvg-id="Cricket.13" tvg-name="[Cricket] Indian Premier League : Mumbai Indians vs Rajasthan Royals vs  (SuperSport Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Mumbai Indians vs Rajasthan Royals vs  (SuperSport Cricket)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-cricket/playlist.m3u8?token=bb02d29b74a09d57d109ec9e892be476e3fdd5c3ca4e94db14a70f0b95bb49d5.1779620965.607feeb2df26f7e27270793016f236d5.6db9afd74eaf7367fb8357776ebce533.4f6ac487fa2f29003e9de0563d149c60&signature=7d84a3e97401e4c56f96829c297111a8015b90c05173c45f1daf15c780663939|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="14" tvg-id="Cricket.14" tvg-name="[Cricket] Men's Vitality Blast : Middlesex vs Surrey vs  (Sky Sports Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Men's Vitality Blast : Middlesex vs Surrey vs  (Sky Sports Cricket)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-cricket/playlist.m3u8?token=3b71fd2ac4a71baa87ebf6c6758ad2cc637b15d9ac4136b1a7c951ef964bf4c9.1779620965.1924acecbccdc2eab7c740e1f517ede2.571df32d42028c1fac27601c889e2be5.0dcc23152962f14d6dbf6cc7d08501d7&signature=156680cd05248cdccf1112e9b41edb8240ab547e57ffa66ecf737042ca5aeed8|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="15" tvg-id="Cricket.15" tvg-name="[Cricket] Indian Premier League : Mumbai Indians vs Rajasthan Royals vs  (Willow Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Mumbai Indians vs Rajasthan Royals vs  (Willow Cricket)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/us-willow-cricket/playlist.m3u8?token=786431ce0d9b21b51c8856eb19df96168ac1c0646006612951ab77e89e07beaf.1779620965.2dee512eb724bf5600c74956339f6c9d.ccf6ecb6ed490abd8c7442844f1cec46.2893d871767351c0149513996b33b6a0&signature=d448ee3c81e7d76f0c97c6d37f983b827779f25df86f33988b532f6a896ded16|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="16" tvg-id="Cricket.16" tvg-name="[Cricket] Indian Premier League : Mumbai Indians vs Rajasthan Royals vs  (Willow 2 Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Mumbai Indians vs Rajasthan Royals vs  (Willow 2 Cricket)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/us-willow-2-cricket/playlist.m3u8?token=e99d37ea93dc2e93f8b48311d07fc564a4c2358ded581745e6c2cdc4746a4a47.1779620966.d4a83acabad39a23735c4f50831bd8d4.63e0489db782bb79de23ac0c501a700e.2a6920a20f1382d624bd675f8b740898&signature=8810a3260e3dd8407e8ee6fd5b2e76b7aaa657469f56ddd335c48d5707526973|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="17" tvg-id="Cricket.17" tvg-name="[Cricket] Indian Premier League : Mumbai Indians vs Rajasthan Royals vs  (Astro Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Mumbai Indians vs Rajasthan Royals vs  (Astro Cricket)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=astro+cricket&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=astro+cricket&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/us-astro-cricket/playlist.m3u8?token=059c83354266ceb7c1da39420b859b9bd078c7f8bb237039a7bd6f3e9916e407.1779620966.9bfc9575685c06a5008681ab93c3092a.cc5412589903cfa7eea77aa6013614aa.868888f01b41f705e1ddc688c68c2a82&signature=d3ec3c25ffc77633908270650a766f820f43584d4b476c9e5ccbca376a5c6161|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="18" tvg-id="Cricket.18" tvg-name="[Cricket] Indian Premier League : Mumbai Indians vs Rajasthan Royals vs  (Sky Sports Arena)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Mumbai Indians vs Rajasthan Royals vs  (Sky Sports Arena)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+arena&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+arena&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-arena/playlist.m3u8?token=c777e8917258a919c15127f116cd1e51b4ac7fac8a21baca6aaa9042ffb74e44.1779620967.2280a4ad006d116dd9322ef3a55c72a0.d238406403cb7903aa5fdfca19bec84b.508a5c398879d00b485aafb3f76d85c7&signature=0c730337b1b228549425872b73ce4b158e5c82a0a637bf3843e544c78524d128|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="19" tvg-id="Cricket.19" tvg-name="[Cricket] Indian Premier League : Mumbai Indians vs Rajasthan Royals vs  (Sky Sports Main Event)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Mumbai Indians vs Rajasthan Royals vs  (Sky Sports Main Event)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-main-event/playlist.m3u8?token=e59f3afe31e0c371221e9683361f18aaee0f5d0c818e82fc345cd3e7eddd41b0.1779620967.9c29d58fe29c6e67cf435aecfbb288c3.02026e2500be5da15519906b23f9271f.0f9a19f985948f99df3647d5cf0d808c&signature=c7cd46d85d7746e7d63e6a27721bcb8ca3a00bedf4dddd74aad0e277810e558e|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="20" tvg-id="Cricket.20" tvg-name="[Cricket] Indian Premier League : Mumbai Indians vs Rajasthan Royals vs  (Hub Premier 5)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Mumbai Indians vs Rajasthan Royals vs  (Hub Premier 5)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=hub+premier+5&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=hub+premier+5&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/gb-hub-premier-5/playlist.m3u8?token=7403713535d16bb2af3cb3c11f03d664c8842abf914cbc8653f0df845df88080.1779620968.ee3a8d866ed6753f5d8af9754d64cfe4.a16ce7885afa13d56e2dfd231e181f7b.211311ecbb64aa3e2c4ec56d7cfe8e76&signature=c8aa329c876255bec8abcca8757ee97f9c46a075db01ff6fb78a9de40bff564a|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="21" tvg-id="Cricket.21" tvg-name="[Cricket] Indian Premier League : Mumbai Indians vs Rajasthan Royals vs  (Sky Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Mumbai Indians vs Rajasthan Royals vs  (Sky Sport 1)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+1&code=nz&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+1&code=nz&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-1/playlist.m3u8?token=4164e3f3df5310d77871e6181ad5329ead03ac348569be1fe0ddbf4ffe20cfa2.1779620968.8c5c3f1dca84c3da07dbe7ba6cbf7276.d62c04487efb886081feb7d7509becf4.cc3dbdaff803017e944a7f668d8038ee&signature=063de779ee3804300bdfd5d0e360976decabc29e5fdf93452d9806bc43fc4aa4|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="22" tvg-id="Cricket.22" tvg-name="[Cricket] Indian Premier League : Mumbai Indians vs Rajasthan Royals vs  (SuperSport Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Mumbai Indians vs Rajasthan Royals vs  (SuperSport Cricket)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-cricket/playlist.m3u8?token=ab9a9cc1c5c1a6cddb15885671b0cc8e84c86a0eab9a56094c123839c1d7e2f5.1779620968.0b943cf744b6f640b9374f7bd1eb5f89.28ed5866d05754c7a0b59cc1824b9822.e4d49c5f1d2fccd707ccf3122fbbdace&signature=f3c7c22327c1f18c81130a31b02b05c402973e5dbd15f67c62ed160cc905f51a|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="23" tvg-id="Cricket.23" tvg-name="[Cricket] Men's Vitality Blast : Middlesex vs Surrey vs  (Sky Sports Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Men's Vitality Blast : Middlesex vs Surrey vs  (Sky Sports Cricket)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-cricket/playlist.m3u8?token=989aa855d42a44b73565c9b8cc4e838b2f46750646b470883c32d51295e304ce.1779620969.be325beb7992a0c51ee75e9ac81ea2d1.e6ec01831208e9a5443dc49afc754ae3.4f5a5cf6f24cc2ca5722673056d0dfd2&signature=d7d6861f71fb6bd4ca751c4a299ec25779a00b768b5b49b0d0bdd2e8249524d4|x-forwarded-for:77.238.79.111
+
