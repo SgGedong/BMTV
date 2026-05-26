@@ -1,1 +1,115 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="1" tvg-id="Cricket.1" tvg-name="[Cricket] Women's Vitality Blast : Hampshire vs Essex vs  (Sky Sports Mix)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Women's Vitality Blast : Hampshire vs Essex vs  (Sky Sports Mix)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+mix&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+mix&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-mix/playlist.m3u8?token=e27b612a6b49e71b21cc1cdf42715e67122eb1bc2aae87261f8fbb02232b5610.1779802722.942ae491a7b599777cbaae574638eb4b.82dc7412e34a601bb24a13bccc45dc16.1a034ee456d162a941b729d98af8ef7d&signature=42dda6d4b43b0c50a7f828be1e9cc3b91e51a0ae37c2eb054b7ad0cf3dd4dbd6|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="2" tvg-id="Cricket.2" tvg-name="[Cricket] Women's Vitality Blast : Hampshire vs Essex vs  (Sky Sport 4)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Women's Vitality Blast : Hampshire vs Essex vs  (Sky Sport 4)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+4&code=nz&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+4&code=nz&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-4/playlist.m3u8?token=d1dc1b58ade07a7cd349f1b60b153ff114b51a29d95c3565d90b977dc3f2d4cc.1779802729.76e357099e54190437b06204b9898672.577f34f4ebb3ee23774364379c407b52.138b436b32c71da4067bc8c84dd2fd76&signature=4e11b9a7b541d7a4d651d561ed5ae63b3efcb3f909582c48c58846481fff3634|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="3" tvg-id="Cricket.3" tvg-name="[Cricket] IPL 2026 Qualifier 1 : Royal Challengers Bengaluru vs Gujarat Titans vs  (Willow Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] IPL 2026 Qualifier 1 : Royal Challengers Bengaluru vs Gujarat Titans vs  (Willow Cricket)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/us-willow-cricket/playlist.m3u8?token=6579b89ae839cb374a4c1f3484825858f00c0a4ada3b2b23365e436ed4ba074f.1779802730.81137b4adf3df9b068a63627d99d5968.20ad97d968e88dca3e8218b6cbd59b32.5c0a3092cf7e934e8591d2701009352a&signature=2245667550f5b232a3c033562cf6e3450f33b78916069809260fce48aa62d402|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="4" tvg-id="Cricket.4" tvg-name="[Cricket] IPL 2026 Qualifier 1 : Royal Challengers Bengaluru vs Gujarat Titans vs  (Willow 2 Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] IPL 2026 Qualifier 1 : Royal Challengers Bengaluru vs Gujarat Titans vs  (Willow 2 Cricket)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/us-willow-2-cricket/playlist.m3u8?token=19cab92ca84621e141db4a438ac32d520b43691cf1321fcfa7cf4cea63165615.1779802730.9f29d6c1954f60c123797eb6784b7add.f0539331f8fd498577915ac122480c37.a6a3a94a80187ba9286044e328f3287d&signature=d832bdf5febc646af1459fcb6f6e7dfe2aac66b3aca9d875be14dd660ed748c4|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="5" tvg-id="Cricket.5" tvg-name="[Cricket] IPL 2026 Qualifier 1 : Royal Challengers Bengaluru vs Gujarat Titans vs  (Fox Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] IPL 2026 Qualifier 1 : Royal Challengers Bengaluru vs Gujarat Titans vs  (Fox Cricket)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+cricket&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+cricket&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/us-fox-cricket/playlist.m3u8?token=2fa89713fe89a96739efc2a808aade967eb1ddc7568c5d9539b98add659459b9.1779802731.430f0370d5218fb7631f3883e5bcff1b.1966796eb88b5eb73650ba899787593e.ad57cdf903893fffc80fddc3d4b94fd0&signature=ed8cae4bd4e0785bbecc4cfe48df92ee327081a98aa7c1b82beb69dca2a4e82a|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="6" tvg-id="Cricket.6" tvg-name="[Cricket] IPL 2026 Qualifier 1 : Royal Challengers Bengaluru vs Gujarat Titans vs  (Astro Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] IPL 2026 Qualifier 1 : Royal Challengers Bengaluru vs Gujarat Titans vs  (Astro Cricket)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=astro+cricket&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=astro+cricket&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/us-astro-cricket/playlist.m3u8?token=ac93c85cb861f37b281fdda57914d338fb137c52e96fe5152302df947d2c7c04.1779802732.2d5ca69a6c698f99705bd38910b77a15.61689426d2f7130b4bc6cfaea3112f45.2505c2ba71795a558b35aae6b31c7cce&signature=4a7b8f5f35f9866e402b04c29e1b9d43c97b009d6bde95f1a0fcf98db0f80e19|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="7" tvg-id="Cricket.7" tvg-name="[Cricket] IPL 2026 Qualifier 1 : Royal Challengers Bengaluru vs Gujarat Titans vs  (Sky Sports Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] IPL 2026 Qualifier 1 : Royal Challengers Bengaluru vs Gujarat Titans vs  (Sky Sports Cricket)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-cricket/playlist.m3u8?token=3d7a9b5919465d5b5122f91b4836a28bd1b4a23be84a656cc3eb03a4c486c406.1779802732.1ccd519de681044aac365d877584467a.192a27685cc5f1f9396651d0a2e45853.e53944584f8c380ebf93da0cdc2bd1b7&signature=760987c491aae2257fecb55b1f765f328970cda1941d6c3e7213177bfc9aca8e|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="8" tvg-id="Cricket.8" tvg-name="[Cricket] IPL 2026 Qualifier 1 : Royal Challengers Bengaluru vs Gujarat Titans vs  (Sky Sports Main Event)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] IPL 2026 Qualifier 1 : Royal Challengers Bengaluru vs Gujarat Titans vs  (Sky Sports Main Event)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-main-event/playlist.m3u8?token=9bc9d4faf3b827b305039b6366d2bddd8d6bf60b88f63190edd2dc26c5eb6f67.1779802733.b1f307f0dd0f9ac9150b6e07f3162241.0d93aa45a5f15ee0d9cc788feda78aab.54b11c106575e3cab0054292c3b92961&signature=b4078b5d96da615a038eae4294ce38d4036311127f9eb79d1cba768238f57ab7|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="9" tvg-id="Cricket.9" tvg-name="[Cricket] IPL 2026 Qualifier 1 : Royal Challengers Bengaluru vs Gujarat Titans vs  (Sky Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] IPL 2026 Qualifier 1 : Royal Challengers Bengaluru vs Gujarat Titans vs  (Sky Sport 1)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+1&code=nz&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+1&code=nz&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-1/playlist.m3u8?token=7341eb17bd645c8338f24fcc8ac8621c68464c9c8042f5b09c47d9bebb617db6.1779802738.78b109cab21bfd5ae260875397cce85c.25ce3b2813a64f47c99abb8b25e821f1.6424c13dadcdcd0c92d5e9f874afca59&signature=a985f4b74982b4cd044d01c0048e3a3fd3076a43c7d7092e1f41be50e507b22c|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="10" tvg-id="Cricket.10" tvg-name="[Cricket] IPL 2026 Qualifier 1 : Royal Challengers Bengaluru vs Gujarat Titans vs  (SuperSport Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] IPL 2026 Qualifier 1 : Royal Challengers Bengaluru vs Gujarat Titans vs  (SuperSport Cricket)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-cricket/playlist.m3u8?token=96a88bf9607f48de6388aab77093a56a10f9d95659007f0dd5710635434e8e92.1779802738.5375880b5dc459a4c9598139dc529bd5.a20c5f3d49ff5fc33297081ddd61f774.00ce26f068f23e404ed64b60b2deb555&signature=b32310403c609f6875e050943d4dd3ef8b0fb446e0fe45ef992b265a370b6f7f|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="11" tvg-id="Cricket.11" tvg-name="[Cricket] Women's Vitality Blast : Hampshire vs Essex vs  (Sky Sports Mix)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Women's Vitality Blast : Hampshire vs Essex vs  (Sky Sports Mix)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+mix&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+mix&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-mix/playlist.m3u8?token=73bb98a29b9cb30553fd4f53fc80fb1baf78eca7ccec6851c2f8b83b079e5494.1779802739.f949c74f0f9f6dfd858e4498d24b7e3d.b206515a0f6bea7a97c2bbb6a53bcc85.f257627da0982a20a612b7a444590917&signature=0764bc9ee6881f24a5efb120ca2c1c7dd272bb783641bc20731e6cfb6d0b4f64|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="12" tvg-id="Cricket.12" tvg-name="[Cricket] Women's Vitality Blast : Hampshire vs Essex vs  (Sky Sport 4)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Women's Vitality Blast : Hampshire vs Essex vs  (Sky Sport 4)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+4&code=nz&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+4&code=nz&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-4/playlist.m3u8?token=8e8eb15cd4815d2f07965faad4c0997688da24619802e5c3f23d5d0de4e5d0a5.1779802746.8eafa6d226b278c70f24f8d92e70b38b.d89c5c2ed7593d018a4c4e36df508c89.ad913d94f4d74550625a299ba9d2019a&signature=860973ad1e3354d51338b8c1ad0685892b62275f618b47d1764139e4688ff084|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="13" tvg-id="Cricket.13" tvg-name="[Cricket] IPL 2026 Qualifier 1 : Royal Challengers Bengaluru vs Gujarat Titans vs  (Willow Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] IPL 2026 Qualifier 1 : Royal Challengers Bengaluru vs Gujarat Titans vs  (Willow Cricket)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/us-willow-cricket/playlist.m3u8?token=4f6d51f5f9fb8e9afd512d52c40a392a9ef010bca4041a7181fece82a5cabb95.1779802746.9a09c50f2c4613f9b841cc9effeacb83.d03f791e93ff1857c218ef0d229b94c8.2d8c88857fc10e2e963ca4c25880f606&signature=3ae954c706fea830d2e6f97f76fbc76cff72e73fdb3d6b3eb47a905f15003382|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="14" tvg-id="Cricket.14" tvg-name="[Cricket] IPL 2026 Qualifier 1 : Royal Challengers Bengaluru vs Gujarat Titans vs  (Willow 2 Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] IPL 2026 Qualifier 1 : Royal Challengers Bengaluru vs Gujarat Titans vs  (Willow 2 Cricket)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/us-willow-2-cricket/playlist.m3u8?token=0d7908edd8d3ee2cd5d169918a464cde835851d2375fe35c9056a60dc322610a.1779802747.79ee40df8b15ab7a2854bcc30da19dae.807bb13fc20dd02f4432a71b5357b349.31fec00f0a873a0d7c1d0eee09eaf666&signature=4e704f95e8be8cabb579160d79f1b0298be93754adb6a957ab0f89a182430ac9|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="15" tvg-id="Cricket.15" tvg-name="[Cricket] IPL 2026 Qualifier 1 : Royal Challengers Bengaluru vs Gujarat Titans vs  (Fox Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] IPL 2026 Qualifier 1 : Royal Challengers Bengaluru vs Gujarat Titans vs  (Fox Cricket)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+cricket&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+cricket&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/us-fox-cricket/playlist.m3u8?token=4d2762891b47c437fc206d903e4ace56fe525ec772d7c2a4de8072fedba8fe5d.1779802747.edf04cd37cf5cc3195f2289e591ce727.9b34a656f5b9d07bc27d144e94487c53.14cbb1f236c1b7b526d0d9dc62c38192&signature=1be43ce2725f97354521d12f1762bcbff48fa1281a068c7d0e7d3b2de8ea0771|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="16" tvg-id="Cricket.16" tvg-name="[Cricket] IPL 2026 Qualifier 1 : Royal Challengers Bengaluru vs Gujarat Titans vs  (Astro Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] IPL 2026 Qualifier 1 : Royal Challengers Bengaluru vs Gujarat Titans vs  (Astro Cricket)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=astro+cricket&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=astro+cricket&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/us-astro-cricket/playlist.m3u8?token=81c896243e7ac1f23d7cda83955cc85556199fd7d949252c4d571ac823266804.1779802748.eff0c574f6a8c7b91b05b2d2e990a77b.3405e466cb3df39888a68c6fc3ede8c2.8b530fc3c2e5d230bab6127bb4f23e89&signature=2f490cb52cf5e72ccb499982d9897a36998a22fea49de83f6f1267be0c3e1302|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="17" tvg-id="Cricket.17" tvg-name="[Cricket] IPL 2026 Qualifier 1 : Royal Challengers Bengaluru vs Gujarat Titans vs  (Sky Sports Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] IPL 2026 Qualifier 1 : Royal Challengers Bengaluru vs Gujarat Titans vs  (Sky Sports Cricket)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-cricket/playlist.m3u8?token=9284c143161a9e676c678976c7da0fed0ccb9ae8c131c513726bf0fa80bba92d.1779802749.20bc5f5d1485ae3c029d5be5dabc7045.4b7bbd5c05386603fc753fc3b14bb211.0bedb3f61e03028d07a9b744df88fe6d&signature=589bf49459acdb3f0bac1bcb2fd181e281db499d8a64661b5245dbef39f129cb|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="18" tvg-id="Cricket.18" tvg-name="[Cricket] IPL 2026 Qualifier 1 : Royal Challengers Bengaluru vs Gujarat Titans vs  (Sky Sports Main Event)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] IPL 2026 Qualifier 1 : Royal Challengers Bengaluru vs Gujarat Titans vs  (Sky Sports Main Event)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-main-event/playlist.m3u8?token=6dac5b2effdb587fb4bd8eb6c3b4b86b5f8036a1eeb601d77c7443a37abd57f1.1779802749.d92352f534782ab4e9e8e24381365518.5fb38bb213dafd620e9d211c81bde229.b13f6bb603ce290897da23eceb8efc9c&signature=cfcf407482852f990d787fbb4ec9c625eb46737dd7739dcc50a6c648c102978a|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="19" tvg-id="Cricket.19" tvg-name="[Cricket] IPL 2026 Qualifier 1 : Royal Challengers Bengaluru vs Gujarat Titans vs  (SuperSport Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] IPL 2026 Qualifier 1 : Royal Challengers Bengaluru vs Gujarat Titans vs  (SuperSport Cricket)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-cricket/playlist.m3u8?token=93a39fcb427a50ae59d1abedaa4a71fab41d6c3f441f8e39a2af4624f9fc6360.1779802767.f60b9345a408018bc98ea5dc2ccf01c8.2ad28da7b0eae33e572f442e0d2d6785.d5fe01dcb4627f5eea7bf94131573779&signature=319cf21416d14966b4437cf941f0a9f68332ba87c24756a88d5755520900f484|x-forwarded-for:77.238.79.111
+
