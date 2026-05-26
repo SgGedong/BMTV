@@ -3,7 +3,7 @@ name: Update Live TV & Events Playlist
 on:
   workflow_dispatch: 
   schedule:
-    - cron: "*/10 * * * *"    
+    - cron: '*/20 * * * *'    
 
 permissions:
   contents: write
@@ -15,12 +15,14 @@ jobs:
     steps:
     - name: Checkout Repository
       uses: actions/checkout@v4
+      with:
+        fetch-depth: 0
     - run: echo "Cron job is running"
 
     - name: Set up Python
       uses: actions/setup-python@v5
       with:
-        python-version: '3.x'
+        python-version: '3.12'
 
     - name: Install dependencies
       run: pip install -r req/requirements.txt
@@ -29,7 +31,6 @@ jobs:
       run: |
         python -m pip install --upgrade pip
         pip install requests playwright
-
     - name: Install Playwright Browsers & OS Dependencies
       run: playwright install chromium --with-deps
 
@@ -55,10 +56,8 @@ jobs:
           echo "No changes to playlist, skipping commit."
         else
           git commit -m "Auto-update live_tv_channels.m3u"
-
         # The '|| true' prevents the workflow from failing if no changes were made
         git commit -m "Auto-update liveevents.m3u" || true
-
         git diff --cached --quiet || git commit -m "Update Roxie stream outputs"
         
         git push
