@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-06-09T18:32:47+00:00",
+  "scraped_at": "2026-06-09T23:53:45+00:00",
   "base_url": "https://roxiestreams.su",
   "domains": [
     "shadow-ran.online"
@@ -192,13 +192,13 @@
         "page": "https://roxiestreams.su/soccer-streams-6",
         "streams": [
           {
-            "label": "Stream 2",
-            "url": "https://601.shadow-ran.online/dep.m3u8",
+            "label": "Stream 2 (TYC)",
+            "url": "https://601.shadow-ran.online/tyc.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-6",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "601",
-            "path": "dep.m3u8",
+            "path": "tyc.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/soccer-streams-6",
               "Origin": "https://roxiestreams.su",
@@ -212,7 +212,30 @@
               "home": "Argentina",
               "away": "Iceland"
             },
-            "display_name": "Argentina vs Iceland - Stream 2"
+            "display_name": "Argentina vs Iceland - Stream 2 (TYC)"
+          },
+          {
+            "label": "Stream 3 (ENGLISH)",
+            "url": "https://601.shadow-ran.online/espnen.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.su/soccer-streams-6",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "601",
+            "path": "espnen.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.su/soccer-streams-6",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "Argentina vs Iceland",
+            "matchup": {
+              "home": "Argentina",
+              "away": "Iceland"
+            },
+            "display_name": "Argentina vs Iceland - Stream 3 (ENGLISH)"
           }
         ]
       },
@@ -227,12 +250,12 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://601.shadow-ran.online/england.m3u8",
+            "url": "https://601.shadow-ran.online/vene.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-7",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "601",
-            "path": "england.m3u8",
+            "path": "vene.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/soccer-streams-7",
               "Origin": "https://roxiestreams.su",
@@ -249,13 +272,13 @@
             "display_name": "Iraq vs Venezuela - Stream 1"
           },
           {
-            "label": "england.m3u8",
-            "url": "https://daffodil.shadow-ran.online/england.m3u8",
+            "label": "vene.m3u8",
+            "url": "https://daffodil.shadow-ran.online/vene.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-7",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "daffodil",
-            "path": "england.m3u8",
+            "path": "vene.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/soccer-streams-7",
               "Origin": "https://roxiestreams.su",
@@ -269,7 +292,7 @@
               "home": "Iraq",
               "away": "Venezuela"
             },
-            "display_name": "Iraq vs Venezuela - england.m3u8"
+            "display_name": "Iraq vs Venezuela - vene.m3u8"
           }
         ]
       }
@@ -912,29 +935,7 @@
         "page": "https://roxiestreams.su/nhl-streams-1",
         "streams": [
           {
-            "label": "Direct Link",
-            "url": "https://live1-ott.izzigo.tv//out/u/dash/REY2/ABC-HD/default.mpd",
-            "type": "mpd",
-            "source_page": "https://roxiestreams.su/nhl-streams-1",
-            "headers": {
-              "Referer": "https://roxiestreams.su/nhl-streams-1",
-              "Origin": "https://roxiestreams.su",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": {
-              "4333764048f11ff107d0c08ad775636e": "f983c348e6bff5a52c39c249dcb9098f"
-            },
-            "sport": "nhl",
-            "event_title": "Carolina Hurricanes vs Vegas Golden Knights",
-            "matchup": {
-              "home": "Carolina Hurricanes",
-              "away": "Vegas Golden Knights"
-            },
-            "display_name": "Carolina Hurricanes vs Vegas Golden Knights"
-          },
-          {
-            "label": "nhl.m3u8",
+            "label": "Stream 1",
             "url": "https://601.shadow-ran.online/nhl.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/nhl-streams-1",
@@ -954,7 +955,30 @@
               "home": "Carolina Hurricanes",
               "away": "Vegas Golden Knights"
             },
-            "display_name": "Carolina Hurricanes vs Vegas Golden Knights - nhl.m3u8"
+            "display_name": "Carolina Hurricanes vs Vegas Golden Knights - Stream 1"
+          },
+          {
+            "label": "Stream 2",
+            "url": "https://daffodil.shadow-ran.online/nhl.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.su/nhl-streams-1",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "daffodil",
+            "path": "nhl.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.su/nhl-streams-1",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "nhl",
+            "event_title": "Carolina Hurricanes vs Vegas Golden Knights",
+            "matchup": {
+              "home": "Carolina Hurricanes",
+              "away": "Vegas Golden Knights"
+            },
+            "display_name": "Carolina Hurricanes vs Vegas Golden Knights - Stream 2"
           }
         ]
       }
@@ -1799,7 +1823,8 @@
         "Stream Request (Discord)",
         "MultiView (NEW)",
         "Stream 1",
-        "Stream 2",
+        "Stream 2 (TYC)",
+        "Stream 3 (ENGLISH)",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -1866,7 +1891,6 @@
         "Stream Request (Discord)",
         "MultiView (NEW)",
         "Stream 1",
-        "Stream 2",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -3335,7 +3359,7 @@
         "Stream Request (Discord)",
         "MultiView (NEW)",
         "Stream 1",
-        "PC ONLY US (DIRECT)",
+        "Stream 2",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -3884,13 +3908,13 @@
           "display_name": "Almería vs Castellon - Stream 1"
         },
         {
-          "label": "Stream 2",
-          "url": "https://601.shadow-ran.online/dep.m3u8",
+          "label": "Stream 2 (TYC)",
+          "url": "https://601.shadow-ran.online/tyc.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-6",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "601",
-          "path": "dep.m3u8",
+          "path": "tyc.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/soccer-streams-6",
             "Origin": "https://roxiestreams.su",
@@ -3904,16 +3928,39 @@
             "home": "Argentina",
             "away": "Iceland"
           },
-          "display_name": "Argentina vs Iceland - Stream 2"
+          "display_name": "Argentina vs Iceland - Stream 2 (TYC)"
+        },
+        {
+          "label": "Stream 3 (ENGLISH)",
+          "url": "https://601.shadow-ran.online/espnen.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.su/soccer-streams-6",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "601",
+          "path": "espnen.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.su/soccer-streams-6",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "Argentina vs Iceland",
+          "matchup": {
+            "home": "Argentina",
+            "away": "Iceland"
+          },
+          "display_name": "Argentina vs Iceland - Stream 3 (ENGLISH)"
         },
         {
           "label": "Stream 1",
-          "url": "https://601.shadow-ran.online/england.m3u8",
+          "url": "https://601.shadow-ran.online/vene.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-7",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "601",
-          "path": "england.m3u8",
+          "path": "vene.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/soccer-streams-7",
             "Origin": "https://roxiestreams.su",
@@ -3930,13 +3977,13 @@
           "display_name": "Iraq vs Venezuela - Stream 1"
         },
         {
-          "label": "england.m3u8",
-          "url": "https://daffodil.shadow-ran.online/england.m3u8",
+          "label": "vene.m3u8",
+          "url": "https://daffodil.shadow-ran.online/vene.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-7",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "daffodil",
-          "path": "england.m3u8",
+          "path": "vene.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/soccer-streams-7",
             "Origin": "https://roxiestreams.su",
@@ -3950,7 +3997,7 @@
             "home": "Iraq",
             "away": "Venezuela"
           },
-          "display_name": "Iraq vs Venezuela - england.m3u8"
+          "display_name": "Iraq vs Venezuela - vene.m3u8"
         }
       ]
     },
@@ -4443,29 +4490,7 @@
       ],
       "streams": [
         {
-          "label": "Direct Link",
-          "url": "https://live1-ott.izzigo.tv//out/u/dash/REY2/ABC-HD/default.mpd",
-          "type": "mpd",
-          "source_page": "https://roxiestreams.su/nhl-streams-1",
-          "headers": {
-            "Referer": "https://roxiestreams.su/nhl-streams-1",
-            "Origin": "https://roxiestreams.su",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": {
-            "4333764048f11ff107d0c08ad775636e": "f983c348e6bff5a52c39c249dcb9098f"
-          },
-          "sport": "nhl",
-          "event_title": "Carolina Hurricanes vs Vegas Golden Knights",
-          "matchup": {
-            "home": "Carolina Hurricanes",
-            "away": "Vegas Golden Knights"
-          },
-          "display_name": "Carolina Hurricanes vs Vegas Golden Knights"
-        },
-        {
-          "label": "nhl.m3u8",
+          "label": "Stream 1",
           "url": "https://601.shadow-ran.online/nhl.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/nhl-streams-1",
@@ -4485,7 +4510,30 @@
             "home": "Carolina Hurricanes",
             "away": "Vegas Golden Knights"
           },
-          "display_name": "Carolina Hurricanes vs Vegas Golden Knights - nhl.m3u8"
+          "display_name": "Carolina Hurricanes vs Vegas Golden Knights - Stream 1"
+        },
+        {
+          "label": "Stream 2",
+          "url": "https://daffodil.shadow-ran.online/nhl.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.su/nhl-streams-1",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "daffodil",
+          "path": "nhl.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.su/nhl-streams-1",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "nhl",
+          "event_title": "Carolina Hurricanes vs Vegas Golden Knights",
+          "matchup": {
+            "home": "Carolina Hurricanes",
+            "away": "Vegas Golden Knights"
+          },
+          "display_name": "Carolina Hurricanes vs Vegas Golden Knights - Stream 2"
         }
       ]
     },
@@ -4866,7 +4914,7 @@
       ]
     }
   },
-  "stream_count": 50,
+  "stream_count": 51,
   "notes": [
     "Playlist header tags are player hints. Browser CORS requires a server-side proxy."
   ]
