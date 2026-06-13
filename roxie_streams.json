@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-06-13T16:03:15+00:00",
+  "scraped_at": "2026-06-13T20:55:35+00:00",
   "base_url": "https://roxiestreams.su",
   "domains": [
     "shadow-ran.online"
@@ -16,7 +16,7 @@
       "start_time": "June 13, 2026 9:00 AM"
     },
     {
-      "name": "AMA Motocross (10/1PM)",
+      "name": "AMA Motocross (10/12PM)",
       "page": "https://roxiestreams.su/supercross",
       "start_time": "June 13, 2026 10:00 AM"
     },
@@ -82,11 +82,11 @@
         "streams": [
           {
             "label": "TSN",
-            "url": "https://601.shadow-ran.online/tsn.m3u8",
+            "url": "https://ataide.shadow-ran.online/tsn.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-2",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "601",
+            "subdomain": "ataide",
             "path": "tsn.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/soccer-streams-2",
@@ -148,6 +148,40 @@
               "away": "Switzerland"
             },
             "display_name": "Qatar vs Switzerland - TELEMUNDO"
+          }
+        ]
+      },
+      {
+        "title": "Brazil vs Morocco",
+        "sport": "soccer",
+        "matchup": {
+          "home": "Brazil",
+          "away": "Morocco"
+        },
+        "page": "https://roxiestreams.su/soccer-streams-3",
+        "streams": [
+          {
+            "label": "TSN",
+            "url": "https://601.shadow-ran.online/tsn.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.su/soccer-streams-3",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "601",
+            "path": "tsn.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.su/soccer-streams-3",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "Brazil vs Morocco",
+            "matchup": {
+              "home": "Brazil",
+              "away": "Morocco"
+            },
+            "display_name": "Brazil vs Morocco - TSN"
           }
         ]
       }
@@ -850,6 +884,29 @@
         "streams": [
           {
             "label": "Stream 1",
+            "url": "https://ataide.shadow-ran.online/ppv.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.su/ppv-streams-1",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "ataide",
+            "path": "ppv.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.su/ppv-streams-1",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "fighting",
+            "event_title": "FURY vs. HALL: Beauty vs. The Beast",
+            "matchup": {
+              "home": "FURY",
+              "away": "HALL: Beauty vs. The Beast"
+            },
+            "display_name": "FURY vs. HALL: Beauty vs. The Beast - Stream 1"
+          },
+          {
+            "label": "Stream 2",
             "url": "https://601.shadow-ran.online/ppv.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/ppv-streams-1",
@@ -869,7 +926,7 @@
               "home": "FURY",
               "away": "HALL: Beauty vs. The Beast"
             },
-            "display_name": "FURY vs. HALL: Beauty vs. The Beast - Stream 1"
+            "display_name": "FURY vs. HALL: Beauty vs. The Beast - Stream 2"
           },
           {
             "label": "ppv.m3u8",
@@ -1420,12 +1477,12 @@
           },
           {
             "label": "TRUTV",
-            "url": "https://daffodil.shadow-ran.online/tru.m3u8",
+            "url": "https://daffodil.shadow-ran.online/trutv.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/wec",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "daffodil",
-            "path": "tru.m3u8",
+            "path": "trutv.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/wec",
               "Origin": "https://roxiestreams.su",
@@ -1443,38 +1500,19 @@
     ],
     "supercross": [
       {
-        "title": "AMA Motocross (10/1PM)",
+        "title": "AMA Motocross (10/12PM)",
         "sport": "supercross",
         "matchup": null,
         "page": "https://roxiestreams.su/supercross",
         "streams": [
           {
-            "label": "Direct Link",
-            "url": "https://g003-sle-us-cmaf-prd-fy.cdn.peacocktv.com/pck-sle/us-west-2/v1/dash/6f3f45fea6332a47667932dede90d20a96f2690c/peacock-dash-sle-4s-generic-cfd/co01/pcksle2/Content/CMAF_CTR-4s-v2/Live/channel(5021893-723751-49140310667)/master_2hr.mpd?c3.ri=6a2481dc_Q1ZYMDc_0_RkFTVExZ_6f6dd4fc5588%3A0&aws.sessionId=ab5736f3-654b-4133-b13a-e991d539323f&ck=eyIwMDIyNjA3MTQzY2E3OGE4NTUwNTZjZmViZGZlYjQxYiI6IjI1MmI1OGYwYzhjNTdlNzhlYzY5MTVhMDMxZWRmZmY3In0%3D",
-            "type": "mpd",
-            "source_page": "https://roxiestreams.su/supercross",
-            "headers": {
-              "Referer": "https://roxiestreams.su/supercross",
-              "Origin": "https://roxiestreams.su",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": {
-              "0022607143ca78a855056cfebdfeb41b": "252b58f0c8c57e78ec6915a031edfff7"
-            },
-            "sport": "supercross",
-            "event_title": "AMA Motocross (10/1PM)",
-            "matchup": null,
-            "display_name": "AMA Motocross (10/1PM)"
-          },
-          {
-            "label": "Stream 2",
-            "url": "https://daffodil.shadow-ran.online/sxalt.m3u8",
+            "label": "Stream 1",
+            "url": "https://ataide.shadow-ran.online/sx.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/supercross",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "daffodil",
-            "path": "sxalt.m3u8",
+            "subdomain": "ataide",
+            "path": "sx.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/supercross",
               "Origin": "https://roxiestreams.su",
@@ -1483,12 +1521,12 @@
             },
             "drm_keys": null,
             "sport": "supercross",
-            "event_title": "AMA Motocross (10/1PM)",
+            "event_title": "AMA Motocross (10/12PM)",
             "matchup": null,
-            "display_name": "AMA Motocross (10/1PM) - Stream 2"
+            "display_name": "AMA Motocross (10/12PM) - Stream 1"
           },
           {
-            "label": "sx.m3u8",
+            "label": "Stream 2",
             "url": "https://601.shadow-ran.online/sx.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/supercross",
@@ -1503,9 +1541,9 @@
             },
             "drm_keys": null,
             "sport": "supercross",
-            "event_title": "AMA Motocross (10/1PM)",
+            "event_title": "AMA Motocross (10/12PM)",
             "matchup": null,
-            "display_name": "AMA Motocross (10/1PM) - sx.m3u8"
+            "display_name": "AMA Motocross (10/12PM) - Stream 2"
           }
         ]
       }
@@ -1522,6 +1560,29 @@
         "streams": [
           {
             "label": "Stream 1",
+            "url": "https://ataide.shadow-ran.online/ppv.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.su/ppv-streams-1",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "ataide",
+            "path": "ppv.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.su/ppv-streams-1",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "ppv",
+            "event_title": "FURY vs. HALL: Beauty vs. The Beast",
+            "matchup": {
+              "home": "FURY",
+              "away": "HALL: Beauty vs. The Beast"
+            },
+            "display_name": "FURY vs. HALL: Beauty vs. The Beast - Stream 1"
+          },
+          {
+            "label": "Stream 2",
             "url": "https://601.shadow-ran.online/ppv.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/ppv-streams-1",
@@ -1541,7 +1602,7 @@
               "home": "FURY",
               "away": "HALL: Beauty vs. The Beast"
             },
-            "display_name": "FURY vs. HALL: Beauty vs. The Beast - Stream 1"
+            "display_name": "FURY vs. HALL: Beauty vs. The Beast - Stream 2"
           },
           {
             "label": "ppv.m3u8",
@@ -3641,6 +3702,7 @@
         "Stream Request (Discord)",
         "MultiView (NEW)",
         "Stream 1",
+        "Stream 2",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -4264,9 +4326,10 @@
         "Fighting",
         "Motorsports",
         "Stream Request (Discord)",
+        "MultiView (NEW)",
         "Stream 1",
         "Stream 2",
-        "PC ONLY US VPN (DIRECT)",
+        "PC ONLY (DIRECT)",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -4308,6 +4371,10 @@
           "url": "https://discord.gg/JhkVmejRmn"
         },
         {
+          "label": "MultiView (NEW)",
+          "url": "https://roxiestreams.su/multiview"
+        },
+        {
           "label": "Stream Request (Discord)",
           "url": "https://discord.gg/JhkVmejRmn"
         }
@@ -4347,11 +4414,11 @@
         },
         {
           "label": "TSN",
-          "url": "https://601.shadow-ran.online/tsn.m3u8",
+          "url": "https://ataide.shadow-ran.online/tsn.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-2",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "601",
+          "subdomain": "ataide",
           "path": "tsn.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/soccer-streams-2",
@@ -4413,6 +4480,29 @@
             "away": "Switzerland"
           },
           "display_name": "Qatar vs Switzerland - TELEMUNDO"
+        },
+        {
+          "label": "TSN",
+          "url": "https://601.shadow-ran.online/tsn.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.su/soccer-streams-3",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "601",
+          "path": "tsn.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.su/soccer-streams-3",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "Brazil vs Morocco",
+          "matchup": {
+            "home": "Brazil",
+            "away": "Morocco"
+          },
+          "display_name": "Brazil vs Morocco - TSN"
         }
       ]
     },
@@ -4963,6 +5053,29 @@
       "streams": [
         {
           "label": "Stream 1",
+          "url": "https://ataide.shadow-ran.online/ppv.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.su/ppv-streams-1",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "ataide",
+          "path": "ppv.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.su/ppv-streams-1",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "fighting",
+          "event_title": "FURY vs. HALL: Beauty vs. The Beast",
+          "matchup": {
+            "home": "FURY",
+            "away": "HALL: Beauty vs. The Beast"
+          },
+          "display_name": "FURY vs. HALL: Beauty vs. The Beast - Stream 1"
+        },
+        {
+          "label": "Stream 2",
           "url": "https://601.shadow-ran.online/ppv.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/ppv-streams-1",
@@ -4982,7 +5095,7 @@
             "home": "FURY",
             "away": "HALL: Beauty vs. The Beast"
           },
-          "display_name": "FURY vs. HALL: Beauty vs. The Beast - Stream 1"
+          "display_name": "FURY vs. HALL: Beauty vs. The Beast - Stream 2"
         },
         {
           "label": "ppv.m3u8",
@@ -5485,12 +5598,12 @@
         },
         {
           "label": "TRUTV",
-          "url": "https://daffodil.shadow-ran.online/tru.m3u8",
+          "url": "https://daffodil.shadow-ran.online/trutv.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/wec",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "daffodil",
-          "path": "tru.m3u8",
+          "path": "trutv.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/wec",
             "Origin": "https://roxiestreams.su",
@@ -5511,32 +5624,13 @@
       ],
       "streams": [
         {
-          "label": "Direct Link",
-          "url": "https://g003-sle-us-cmaf-prd-fy.cdn.peacocktv.com/pck-sle/us-west-2/v1/dash/6f3f45fea6332a47667932dede90d20a96f2690c/peacock-dash-sle-4s-generic-cfd/co01/pcksle2/Content/CMAF_CTR-4s-v2/Live/channel(5021893-723751-49140310667)/master_2hr.mpd?c3.ri=6a2481dc_Q1ZYMDc_0_RkFTVExZ_6f6dd4fc5588%3A0&aws.sessionId=ab5736f3-654b-4133-b13a-e991d539323f&ck=eyIwMDIyNjA3MTQzY2E3OGE4NTUwNTZjZmViZGZlYjQxYiI6IjI1MmI1OGYwYzhjNTdlNzhlYzY5MTVhMDMxZWRmZmY3In0%3D",
-          "type": "mpd",
-          "source_page": "https://roxiestreams.su/supercross",
-          "headers": {
-            "Referer": "https://roxiestreams.su/supercross",
-            "Origin": "https://roxiestreams.su",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": {
-            "0022607143ca78a855056cfebdfeb41b": "252b58f0c8c57e78ec6915a031edfff7"
-          },
-          "sport": "supercross",
-          "event_title": "AMA Motocross (10/1PM)",
-          "matchup": null,
-          "display_name": "AMA Motocross (10/1PM)"
-        },
-        {
-          "label": "Stream 2",
-          "url": "https://daffodil.shadow-ran.online/sxalt.m3u8",
+          "label": "Stream 1",
+          "url": "https://ataide.shadow-ran.online/sx.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/supercross",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "daffodil",
-          "path": "sxalt.m3u8",
+          "subdomain": "ataide",
+          "path": "sx.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/supercross",
             "Origin": "https://roxiestreams.su",
@@ -5545,12 +5639,12 @@
           },
           "drm_keys": null,
           "sport": "supercross",
-          "event_title": "AMA Motocross (10/1PM)",
+          "event_title": "AMA Motocross (10/12PM)",
           "matchup": null,
-          "display_name": "AMA Motocross (10/1PM) - Stream 2"
+          "display_name": "AMA Motocross (10/12PM) - Stream 1"
         },
         {
-          "label": "sx.m3u8",
+          "label": "Stream 2",
           "url": "https://601.shadow-ran.online/sx.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/supercross",
@@ -5565,9 +5659,9 @@
           },
           "drm_keys": null,
           "sport": "supercross",
-          "event_title": "AMA Motocross (10/1PM)",
+          "event_title": "AMA Motocross (10/12PM)",
           "matchup": null,
-          "display_name": "AMA Motocross (10/1PM) - sx.m3u8"
+          "display_name": "AMA Motocross (10/12PM) - Stream 2"
         }
       ]
     },
@@ -5579,6 +5673,29 @@
       "streams": [
         {
           "label": "Stream 1",
+          "url": "https://ataide.shadow-ran.online/ppv.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.su/ppv-streams-1",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "ataide",
+          "path": "ppv.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.su/ppv-streams-1",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "ppv",
+          "event_title": "FURY vs. HALL: Beauty vs. The Beast",
+          "matchup": {
+            "home": "FURY",
+            "away": "HALL: Beauty vs. The Beast"
+          },
+          "display_name": "FURY vs. HALL: Beauty vs. The Beast - Stream 1"
+        },
+        {
+          "label": "Stream 2",
           "url": "https://601.shadow-ran.online/ppv.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/ppv-streams-1",
@@ -5598,7 +5715,7 @@
             "home": "FURY",
             "away": "HALL: Beauty vs. The Beast"
           },
-          "display_name": "FURY vs. HALL: Beauty vs. The Beast - Stream 1"
+          "display_name": "FURY vs. HALL: Beauty vs. The Beast - Stream 2"
         },
         {
           "label": "ppv.m3u8",
@@ -5672,7 +5789,7 @@
       ]
     }
   },
-  "stream_count": 60,
+  "stream_count": 62,
   "notes": [
     "Playlist header tags are player hints. Browser CORS requires a server-side proxy."
   ]
