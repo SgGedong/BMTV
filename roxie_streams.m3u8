@@ -1,5 +1,5 @@
 #EXTM3U
-# RoxieStreams Playlist - generated 2026-06-14T08:55:41+00:00
+# RoxieStreams Playlist - generated 2026-06-14T15:28:51+00:00
 # Source: https://roxiestreams.su
 
 #EXTINF:-1 tvg-name="Netherlands vs Japan - TSN" group-title="SOCCER - Netherlands vs Japan",Netherlands vs Japan - TSN
@@ -236,95 +236,32 @@ https://601.shadow-ran.online/nhl.m3u8
 #EXTHTTP:{"Referer":"https://roxiestreams.su/nhl-streams-1","Origin":"https://roxiestreams.su","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
 https://daffodil.shadow-ran.online/nhl.m3u8
 
-#EXTINF:-1 tvg-name="FURY vs. HALL: Beauty vs. The Beast - Stream 1" group-title="FIGHTING - FURY vs. HALL: Beauty vs. The Beast",FURY vs. HALL: Beauty vs. The Beast - Stream 1
-#EXTGRP:FIGHTING - FURY vs. HALL: Beauty vs. The Beast
-#EXTDESC:FURY vs. HALL: Beauty vs. The Beast
+#EXTINF:-1 tvg-name="Gonzalez vs. Perez - Stream 1" group-title="FIGHTING - Gonzalez vs. Perez",Gonzalez vs. Perez - Stream 1
+#EXTGRP:FIGHTING - Gonzalez vs. Perez
+#EXTDESC:Gonzalez vs. Perez
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/ppv-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.su%2Fppv-streams-1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
 #EXTHTTP:{"Referer":"https://roxiestreams.su/ppv-streams-1","Origin":"https://roxiestreams.su","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
 https://ataide0.shadow-ran.online/ppv.m3u8
 
-#EXTINF:-1 tvg-name="FURY vs. HALL: Beauty vs. The Beast - Stream 2" group-title="FIGHTING - FURY vs. HALL: Beauty vs. The Beast",FURY vs. HALL: Beauty vs. The Beast - Stream 2
-#EXTGRP:FIGHTING - FURY vs. HALL: Beauty vs. The Beast
-#EXTDESC:FURY vs. HALL: Beauty vs. The Beast
+#EXTINF:-1 tvg-name="Gonzalez vs. Perez - Stream 2" group-title="FIGHTING - Gonzalez vs. Perez",Gonzalez vs. Perez - Stream 2
+#EXTGRP:FIGHTING - Gonzalez vs. Perez
+#EXTDESC:Gonzalez vs. Perez
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/ppv-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.su%2Fppv-streams-1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
 #EXTHTTP:{"Referer":"https://roxiestreams.su/ppv-streams-1","Origin":"https://roxiestreams.su","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
 https://601.shadow-ran.online/ppv.m3u8
 
-#EXTINF:-1 tvg-name="FURY vs. HALL: Beauty vs. The Beast - ppv.m3u8" group-title="FIGHTING - FURY vs. HALL: Beauty vs. The Beast",FURY vs. HALL: Beauty vs. The Beast - ppv.m3u8
-#EXTGRP:FIGHTING - FURY vs. HALL: Beauty vs. The Beast
-#EXTDESC:FURY vs. HALL: Beauty vs. The Beast
+#EXTINF:-1 tvg-name="Gonzalez vs. Perez - ppv.m3u8" group-title="FIGHTING - Gonzalez vs. Perez",Gonzalez vs. Perez - ppv.m3u8
+#EXTGRP:FIGHTING - Gonzalez vs. Perez
+#EXTDESC:Gonzalez vs. Perez
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/ppv-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.su%2Fppv-streams-1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
 #EXTHTTP:{"Referer":"https://roxiestreams.su/ppv-streams-1","Origin":"https://roxiestreams.su","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
 https://daffodil.shadow-ran.online/ppv.m3u8
-
-#EXTINF:-1 tvg-name="Khamzat Chimaev vs. Danis (RAF) - Stream 1" group-title="FIGHTING - Khamzat Chimaev vs. Danis (RAF)",Khamzat Chimaev vs. Danis (RAF) - Stream 1
-#EXTGRP:FIGHTING - Khamzat Chimaev vs. Danis (RAF)
-#EXTDESC:Khamzat Chimaev vs. Danis (RAF)
-#EXTVLCOPT:http-referrer=https://roxiestreams.su/ppv-streams-2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.su%2Fppv-streams-2&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
-#EXTHTTP:{"Referer":"https://roxiestreams.su/ppv-streams-2","Origin":"https://roxiestreams.su","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
-https://601.shadow-ran.online/ppv2.m3u8
-
-#EXTINF:-1 tvg-name="Khamzat Chimaev vs. Danis (RAF) - Stream 2" group-title="FIGHTING - Khamzat Chimaev vs. Danis (RAF)",Khamzat Chimaev vs. Danis (RAF) - Stream 2
-#EXTGRP:FIGHTING - Khamzat Chimaev vs. Danis (RAF)
-#EXTDESC:Khamzat Chimaev vs. Danis (RAF)
-#EXTVLCOPT:http-referrer=https://roxiestreams.su/ppv-streams-2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.su%2Fppv-streams-2&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
-#EXTHTTP:{"Referer":"https://roxiestreams.su/ppv-streams-2","Origin":"https://roxiestreams.su","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
-https://ataide0.shadow-ran.online/ppv2.m3u8
-
-#EXTINF:-1 tvg-name="Khamzat Chimaev vs. Danis (RAF) - ppv2.m3u8" group-title="FIGHTING - Khamzat Chimaev vs. Danis (RAF)",Khamzat Chimaev vs. Danis (RAF) - ppv2.m3u8
-#EXTGRP:FIGHTING - Khamzat Chimaev vs. Danis (RAF)
-#EXTDESC:Khamzat Chimaev vs. Danis (RAF)
-#EXTVLCOPT:http-referrer=https://roxiestreams.su/ppv-streams-2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.su%2Fppv-streams-2&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
-#EXTHTTP:{"Referer":"https://roxiestreams.su/ppv-streams-2","Origin":"https://roxiestreams.su","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
-https://daffodil.shadow-ran.online/ppv2.m3u8
-
-#EXTINF:-1 tvg-name="Bam vs. Vargas - Stream 1" group-title="FIGHTING - Bam vs. Vargas",Bam vs. Vargas - Stream 1
-#EXTGRP:FIGHTING - Bam vs. Vargas
-#EXTDESC:Bam vs. Vargas
-#EXTVLCOPT:http-referrer=https://roxiestreams.su/ppv-streams-3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.su%2Fppv-streams-3&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
-#EXTHTTP:{"Referer":"https://roxiestreams.su/ppv-streams-3","Origin":"https://roxiestreams.su","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
-https://601.shadow-ran.online/ppv3.m3u8
-
-#EXTINF:-1 tvg-name="Bam vs. Vargas - ppv3.m3u8" group-title="FIGHTING - Bam vs. Vargas",Bam vs. Vargas - ppv3.m3u8
-#EXTGRP:FIGHTING - Bam vs. Vargas
-#EXTDESC:Bam vs. Vargas
-#EXTVLCOPT:http-referrer=https://roxiestreams.su/ppv-streams-3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.su%2Fppv-streams-3&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
-#EXTHTTP:{"Referer":"https://roxiestreams.su/ppv-streams-3","Origin":"https://roxiestreams.su","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
-https://daffodil.shadow-ran.online/ppv3.m3u8
-
-#EXTINF:-1 tvg-name="Jones vs. Carranza 2 (MVP) - Stream 1" group-title="FIGHTING - Jones vs. Carranza 2 (MVP)",Jones vs. Carranza 2 (MVP) - Stream 1
-#EXTGRP:FIGHTING - Jones vs. Carranza 2 (MVP)
-#EXTDESC:Jones vs. Carranza 2 (MVP)
-#EXTVLCOPT:http-referrer=https://roxiestreams.su/ppv-streams-4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.su%2Fppv-streams-4&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
-#EXTHTTP:{"Referer":"https://roxiestreams.su/ppv-streams-4","Origin":"https://roxiestreams.su","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
-https://601.shadow-ran.online/ppv4.m3u8
-
-#EXTINF:-1 tvg-name="Jones vs. Carranza 2 (MVP) - ppv4.m3u8" group-title="FIGHTING - Jones vs. Carranza 2 (MVP)",Jones vs. Carranza 2 (MVP) - ppv4.m3u8
-#EXTGRP:FIGHTING - Jones vs. Carranza 2 (MVP)
-#EXTDESC:Jones vs. Carranza 2 (MVP)
-#EXTVLCOPT:http-referrer=https://roxiestreams.su/ppv-streams-4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.su%2Fppv-streams-4&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
-#EXTHTTP:{"Referer":"https://roxiestreams.su/ppv-streams-4","Origin":"https://roxiestreams.su","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
-https://daffodil.shadow-ran.online/ppv4.m3u8
 
 #EXTINF:-1 tvg-name="Stream 1" group-title="AEW - Stream 1",Stream 1
 #EXTGRP:AEW - Stream 1
@@ -452,24 +389,6 @@ https://601.formaturamaxi.com.br/mlb14.m3u8
 #EXTHTTP:{"Referer":"https://roxiestreams.su/multiview","Origin":"https://roxiestreams.su","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
 https://601.formaturamaxi.com.br/mlb15.m3u8
 
-#EXTINF:-1 tvg-name="Formula 1 - Free Practice - Stream 1" group-title="F1 - Formula 1 - Free Practice",Formula 1 - Free Practice - Stream 1
-#EXTGRP:F1 - Formula 1 - Free Practice
-#EXTDESC:Formula 1 - Free Practice
-#EXTVLCOPT:http-referrer=https://roxiestreams.su/f1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.su%2Ff1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
-#EXTHTTP:{"Referer":"https://roxiestreams.su/f1","Origin":"https://roxiestreams.su","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
-https://daffodil.shadow-ran.online/f1.m3u8
-
-#EXTINF:-1 tvg-name="Formula 1 - Free Practice - Stream 2" group-title="F1 - Formula 1 - Free Practice",Formula 1 - Free Practice - Stream 2
-#EXTGRP:F1 - Formula 1 - Free Practice
-#EXTDESC:Formula 1 - Free Practice
-#EXTVLCOPT:http-referrer=https://roxiestreams.su/f1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.su%2Ff1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
-#EXTHTTP:{"Referer":"https://roxiestreams.su/f1","Origin":"https://roxiestreams.su","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
-https://601.shadow-ran.online/f1.m3u8
-
 #EXTINF:-1 tvg-name="WEC: 24 Hours of Le Mans - TNT 3" group-title="WEC - WEC: 24 Hours of Le Mans",WEC: 24 Hours of Le Mans - TNT 3
 #EXTGRP:WEC - WEC: 24 Hours of Le Mans
 #EXTDESC:WEC: 24 Hours of Le Mans
@@ -488,74 +407,65 @@ https://601.shadow-ran.online/tnt3.m3u8
 #EXTHTTP:{"Referer":"https://roxiestreams.su/wec","Origin":"https://roxiestreams.su","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
 https://daffodil.shadow-ran.online/trutv.m3u8
 
-#EXTINF:-1 tvg-name="AMA Motocross (10/12PM) - Stream 1" group-title="SUPERCROSS - AMA Motocross (10/12PM)",AMA Motocross (10/12PM) - Stream 1
-#EXTGRP:SUPERCROSS - AMA Motocross (10/12PM)
-#EXTDESC:AMA Motocross (10/12PM)
-#EXTVLCOPT:http-referrer=https://roxiestreams.su/supercross
+#EXTINF:-1 tvg-name="Formula 1 - Barcelona Grand Prix - Sky Sports" group-title="F1 - Formula 1 - Barcelona Grand Prix",Formula 1 - Barcelona Grand Prix - Sky Sports
+#EXTGRP:F1 - Formula 1 - Barcelona Grand Prix
+#EXTDESC:Formula 1 - Barcelona Grand Prix
+#EXTVLCOPT:http-referrer=https://roxiestreams.su/f1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.su%2Fsupercross&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
-#EXTHTTP:{"Referer":"https://roxiestreams.su/supercross","Origin":"https://roxiestreams.su","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
-https://ataide0.shadow-ran.online/sx.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.su%2Ff1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
+#EXTHTTP:{"Referer":"https://roxiestreams.su/f1","Origin":"https://roxiestreams.su","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
+https://601.shadow-ran.online/f1.m3u8
 
-#EXTINF:-1 tvg-name="AMA Motocross (10/12PM) - Stream 2" group-title="SUPERCROSS - AMA Motocross (10/12PM)",AMA Motocross (10/12PM) - Stream 2
-#EXTGRP:SUPERCROSS - AMA Motocross (10/12PM)
-#EXTDESC:AMA Motocross (10/12PM)
-#EXTVLCOPT:http-referrer=https://roxiestreams.su/supercross
+#EXTINF:-1 tvg-name="Formula 1 - Barcelona Grand Prix - F1TV" group-title="F1 - Formula 1 - Barcelona Grand Prix",Formula 1 - Barcelona Grand Prix - F1TV
+#EXTGRP:F1 - Formula 1 - Barcelona Grand Prix
+#EXTDESC:Formula 1 - Barcelona Grand Prix
+#EXTVLCOPT:http-referrer=https://roxiestreams.su/f1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.su%2Fsupercross&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
-#EXTHTTP:{"Referer":"https://roxiestreams.su/supercross","Origin":"https://roxiestreams.su","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
-https://601.shadow-ran.online/sx.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.su%2Ff1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
+#EXTHTTP:{"Referer":"https://roxiestreams.su/f1","Origin":"https://roxiestreams.su","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
+https://daffodil.shadow-ran.online/f1tv.m3u8
 
-#EXTINF:-1 tvg-name="FURY vs. HALL: Beauty vs. The Beast - Stream 1" group-title="PPV - FURY vs. HALL: Beauty vs. The Beast",FURY vs. HALL: Beauty vs. The Beast - Stream 1
-#EXTGRP:PPV - FURY vs. HALL: Beauty vs. The Beast
-#EXTDESC:FURY vs. HALL: Beauty vs. The Beast
-#EXTVLCOPT:http-referrer=https://roxiestreams.su/ppv-streams-1
+#EXTINF:-1 tvg-name="Formula 1 - Barcelona Grand Prix - TSN" group-title="F1 - Formula 1 - Barcelona Grand Prix",Formula 1 - Barcelona Grand Prix - TSN
+#EXTGRP:F1 - Formula 1 - Barcelona Grand Prix
+#EXTDESC:Formula 1 - Barcelona Grand Prix
+#EXTVLCOPT:http-referrer=https://roxiestreams.su/f1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.su%2Fppv-streams-1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
-#EXTHTTP:{"Referer":"https://roxiestreams.su/ppv-streams-1","Origin":"https://roxiestreams.su","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
-https://ataide0.shadow-ran.online/ppv.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.su%2Ff1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
+#EXTHTTP:{"Referer":"https://roxiestreams.su/f1","Origin":"https://roxiestreams.su","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
+https://daffodil.shadow-ran.online/tsn.m3u8
 
-#EXTINF:-1 tvg-name="FURY vs. HALL: Beauty vs. The Beast - Stream 2" group-title="PPV - FURY vs. HALL: Beauty vs. The Beast",FURY vs. HALL: Beauty vs. The Beast - Stream 2
-#EXTGRP:PPV - FURY vs. HALL: Beauty vs. The Beast
-#EXTDESC:FURY vs. HALL: Beauty vs. The Beast
-#EXTVLCOPT:http-referrer=https://roxiestreams.su/ppv-streams-1
+#EXTINF:-1 tvg-name="UFC FREEDOM 250 (TOPURIA VS. GAETHJe)" group-title="UFC - UFC FREEDOM 250 (TOPURIA VS. GAETHJe)",UFC FREEDOM 250 (TOPURIA VS. GAETHJe)
+#EXTGRP:UFC - UFC FREEDOM 250 (TOPURIA VS. GAETHJe)
+#EXTDESC:UFC FREEDOM 250 (TOPURIA VS. GAETHJe)
+#EXTVLCOPT:http-referrer=https://roxiestreams.su/ufc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.su%2Fppv-streams-1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
-#EXTHTTP:{"Referer":"https://roxiestreams.su/ppv-streams-1","Origin":"https://roxiestreams.su","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
-https://601.shadow-ran.online/ppv.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.su%2Fufc&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
+#EXTHTTP:{"Referer":"https://roxiestreams.su/ufc","Origin":"https://roxiestreams.su","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
+https://ataide0.formaturamaxi.com.br/stream/26.m3u8
 
-#EXTINF:-1 tvg-name="FURY vs. HALL: Beauty vs. The Beast - ppv.m3u8" group-title="PPV - FURY vs. HALL: Beauty vs. The Beast",FURY vs. HALL: Beauty vs. The Beast - ppv.m3u8
-#EXTGRP:PPV - FURY vs. HALL: Beauty vs. The Beast
-#EXTDESC:FURY vs. HALL: Beauty vs. The Beast
-#EXTVLCOPT:http-referrer=https://roxiestreams.su/ppv-streams-1
+#EXTINF:-1 tvg-name="UFC FREEDOM 250 (TOPURIA VS. GAETHJe) - Stream 1 (PARA)" group-title="UFC - UFC FREEDOM 250 (TOPURIA VS. GAETHJe)",UFC FREEDOM 250 (TOPURIA VS. GAETHJe) - Stream 1 (PARA)
+#EXTGRP:UFC - UFC FREEDOM 250 (TOPURIA VS. GAETHJe)
+#EXTDESC:UFC FREEDOM 250 (TOPURIA VS. GAETHJe)
+#EXTVLCOPT:http-referrer=https://roxiestreams.su/ufc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.su%2Fppv-streams-1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
-#EXTHTTP:{"Referer":"https://roxiestreams.su/ppv-streams-1","Origin":"https://roxiestreams.su","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
-https://daffodil.shadow-ran.online/ppv.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.su%2Fufc&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
+#EXTHTTP:{"Referer":"https://roxiestreams.su/ufc","Origin":"https://roxiestreams.su","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
+https://601.shadow-ran.online/happybirthdayabb.m3u8
 
-#EXTINF:-1 tvg-name="Khamzat Chimaev vs. Danis (RAF) - Stream 1" group-title="PPV - Khamzat Chimaev vs. Danis (RAF)",Khamzat Chimaev vs. Danis (RAF) - Stream 1
-#EXTGRP:PPV - Khamzat Chimaev vs. Danis (RAF)
-#EXTDESC:Khamzat Chimaev vs. Danis (RAF)
-#EXTVLCOPT:http-referrer=https://roxiestreams.su/ppv-streams-2
+#EXTINF:-1 tvg-name="UFC FREEDOM 250 (TOPURIA VS. GAETHJe) - Stream 2 (SAT)" group-title="UFC - UFC FREEDOM 250 (TOPURIA VS. GAETHJe)",UFC FREEDOM 250 (TOPURIA VS. GAETHJe) - Stream 2 (SAT)
+#EXTGRP:UFC - UFC FREEDOM 250 (TOPURIA VS. GAETHJe)
+#EXTDESC:UFC FREEDOM 250 (TOPURIA VS. GAETHJe)
+#EXTVLCOPT:http-referrer=https://roxiestreams.su/ufc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.su%2Fppv-streams-2&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
-#EXTHTTP:{"Referer":"https://roxiestreams.su/ppv-streams-2","Origin":"https://roxiestreams.su","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
-https://601.shadow-ran.online/ppv2.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.su%2Fufc&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
+#EXTHTTP:{"Referer":"https://roxiestreams.su/ufc","Origin":"https://roxiestreams.su","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
+https://602.shadow-ran.online/ufc.m3u8
 
-#EXTINF:-1 tvg-name="Khamzat Chimaev vs. Danis (RAF) - Stream 2" group-title="PPV - Khamzat Chimaev vs. Danis (RAF)",Khamzat Chimaev vs. Danis (RAF) - Stream 2
-#EXTGRP:PPV - Khamzat Chimaev vs. Danis (RAF)
-#EXTDESC:Khamzat Chimaev vs. Danis (RAF)
-#EXTVLCOPT:http-referrer=https://roxiestreams.su/ppv-streams-2
+#EXTINF:-1 tvg-name="UFC FREEDOM 250 (TOPURIA VS. GAETHJe) - Stream 4 (TNT)" group-title="UFC - UFC FREEDOM 250 (TOPURIA VS. GAETHJe)",UFC FREEDOM 250 (TOPURIA VS. GAETHJe) - Stream 4 (TNT)
+#EXTGRP:UFC - UFC FREEDOM 250 (TOPURIA VS. GAETHJe)
+#EXTDESC:UFC FREEDOM 250 (TOPURIA VS. GAETHJe)
+#EXTVLCOPT:http-referrer=https://roxiestreams.su/ufc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.su%2Fppv-streams-2&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
-#EXTHTTP:{"Referer":"https://roxiestreams.su/ppv-streams-2","Origin":"https://roxiestreams.su","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
-https://ataide0.shadow-ran.online/ppv2.m3u8
-
-#EXTINF:-1 tvg-name="Khamzat Chimaev vs. Danis (RAF) - ppv2.m3u8" group-title="PPV - Khamzat Chimaev vs. Danis (RAF)",Khamzat Chimaev vs. Danis (RAF) - ppv2.m3u8
-#EXTGRP:PPV - Khamzat Chimaev vs. Danis (RAF)
-#EXTDESC:Khamzat Chimaev vs. Danis (RAF)
-#EXTVLCOPT:http-referrer=https://roxiestreams.su/ppv-streams-2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.su%2Fppv-streams-2&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
-#EXTHTTP:{"Referer":"https://roxiestreams.su/ppv-streams-2","Origin":"https://roxiestreams.su","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
-https://daffodil.shadow-ran.online/ppv2.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.su%2Fufc&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
+#EXTHTTP:{"Referer":"https://roxiestreams.su/ufc","Origin":"https://roxiestreams.su","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
+https://ataide0.shadow-ran.online/tnt.m3u8
