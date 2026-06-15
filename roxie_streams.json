@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-06-15T16:23:38+00:00",
+  "scraped_at": "2026-06-15T23:22:43+00:00",
   "base_url": "https://roxiestreams.su",
   "domains": [
     "shadow-ran.online"
@@ -74,13 +74,13 @@
             "display_name": "Belgium vs Egypt - FOX"
           },
           {
-            "label": "STV (UK)",
-            "url": "https://602.shadow-ran.online/stv.m3u8",
+            "label": "BBC (UK)",
+            "url": "https://602.shadow-ran.online/bbc.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-1",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "602",
-            "path": "stv.m3u8",
+            "path": "bbc.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/soccer-streams-1",
               "Origin": "https://roxiestreams.su",
@@ -94,7 +94,7 @@
               "home": "Belgium",
               "away": "Egypt"
             },
-            "display_name": "Belgium vs Egypt - STV (UK)"
+            "display_name": "Belgium vs Egypt - BBC (UK)"
           },
           {
             "label": "TELEMUNDO",
@@ -118,29 +118,6 @@
               "away": "Egypt"
             },
             "display_name": "Belgium vs Egypt - TELEMUNDO"
-          },
-          {
-            "label": "fox.m3u8",
-            "url": "https://602.shadow-ran.online/fox.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.su/soccer-streams-1",
-            "cdn_domain": "shadow-ran.online",
-            "subdomain": "602",
-            "path": "fox.m3u8",
-            "headers": {
-              "Referer": "https://roxiestreams.su/soccer-streams-1",
-              "Origin": "https://roxiestreams.su",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "soccer",
-            "event_title": "Belgium vs Egypt",
-            "matchup": {
-              "home": "Belgium",
-              "away": "Egypt"
-            },
-            "display_name": "Belgium vs Egypt - fox.m3u8"
           }
         ]
       },
@@ -154,35 +131,12 @@
         "page": "https://roxiestreams.su/soccer-streams-2",
         "streams": [
           {
-            "label": "TSN",
-            "url": "https://ataide0.shadow-ran.online/tsn.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.su/soccer-streams-2",
-            "cdn_domain": "shadow-ran.online",
-            "subdomain": "ataide0",
-            "path": "tsn.m3u8",
-            "headers": {
-              "Referer": "https://roxiestreams.su/soccer-streams-2",
-              "Origin": "https://roxiestreams.su",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "soccer",
-            "event_title": "Iran vs New Zealand",
-            "matchup": {
-              "home": "Iran",
-              "away": "New Zealand"
-            },
-            "display_name": "Iran vs New Zealand - TSN"
-          },
-          {
             "label": "FS1",
-            "url": "https://602.shadow-ran.online/fs1.m3u8",
+            "url": "https://601.shadow-ran.online/fs1.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-2",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "602",
+            "subdomain": "601",
             "path": "fs1.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/soccer-streams-2",
@@ -198,6 +152,29 @@
               "away": "New Zealand"
             },
             "display_name": "Iran vs New Zealand - FS1"
+          },
+          {
+            "label": "Arabic",
+            "url": "https://601.shadow-ran.online/bein.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.su/soccer-streams-2",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "601",
+            "path": "bein.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.su/soccer-streams-2",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "Iran vs New Zealand",
+            "matchup": {
+              "home": "Iran",
+              "away": "New Zealand"
+            },
+            "display_name": "Iran vs New Zealand - Arabic"
           }
         ]
       }
@@ -1130,7 +1107,7 @@
         "MultiView (NEW)",
         "TSN",
         "FOX",
-        "STV (UK)",
+        "BBC (UK)",
         "TELEMUNDO",
         "PC ONLY (DIRECT)",
         "Tele (Peacock)",
@@ -1201,6 +1178,7 @@
         "MultiView (NEW)",
         "TSN",
         "FS1",
+        "Arabic",
         "TELEMUNDO",
         "PC ONLY (DIRECT)",
         "Tele (Peacock)",
@@ -2772,13 +2750,13 @@
           "display_name": "Belgium vs Egypt - FOX"
         },
         {
-          "label": "STV (UK)",
-          "url": "https://602.shadow-ran.online/stv.m3u8",
+          "label": "BBC (UK)",
+          "url": "https://602.shadow-ran.online/bbc.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-1",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "602",
-          "path": "stv.m3u8",
+          "path": "bbc.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/soccer-streams-1",
             "Origin": "https://roxiestreams.su",
@@ -2792,7 +2770,7 @@
             "home": "Belgium",
             "away": "Egypt"
           },
-          "display_name": "Belgium vs Egypt - STV (UK)"
+          "display_name": "Belgium vs Egypt - BBC (UK)"
         },
         {
           "label": "TELEMUNDO",
@@ -2818,58 +2796,12 @@
           "display_name": "Belgium vs Egypt - TELEMUNDO"
         },
         {
-          "label": "fox.m3u8",
-          "url": "https://602.shadow-ran.online/fox.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.su/soccer-streams-1",
-          "cdn_domain": "shadow-ran.online",
-          "subdomain": "602",
-          "path": "fox.m3u8",
-          "headers": {
-            "Referer": "https://roxiestreams.su/soccer-streams-1",
-            "Origin": "https://roxiestreams.su",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "soccer",
-          "event_title": "Belgium vs Egypt",
-          "matchup": {
-            "home": "Belgium",
-            "away": "Egypt"
-          },
-          "display_name": "Belgium vs Egypt - fox.m3u8"
-        },
-        {
-          "label": "TSN",
-          "url": "https://ataide0.shadow-ran.online/tsn.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.su/soccer-streams-2",
-          "cdn_domain": "shadow-ran.online",
-          "subdomain": "ataide0",
-          "path": "tsn.m3u8",
-          "headers": {
-            "Referer": "https://roxiestreams.su/soccer-streams-2",
-            "Origin": "https://roxiestreams.su",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "soccer",
-          "event_title": "Iran vs New Zealand",
-          "matchup": {
-            "home": "Iran",
-            "away": "New Zealand"
-          },
-          "display_name": "Iran vs New Zealand - TSN"
-        },
-        {
           "label": "FS1",
-          "url": "https://602.shadow-ran.online/fs1.m3u8",
+          "url": "https://601.shadow-ran.online/fs1.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-2",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "602",
+          "subdomain": "601",
           "path": "fs1.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/soccer-streams-2",
@@ -2885,6 +2817,29 @@
             "away": "New Zealand"
           },
           "display_name": "Iran vs New Zealand - FS1"
+        },
+        {
+          "label": "Arabic",
+          "url": "https://601.shadow-ran.online/bein.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.su/soccer-streams-2",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "601",
+          "path": "bein.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.su/soccer-streams-2",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "Iran vs New Zealand",
+          "matchup": {
+            "home": "Iran",
+            "away": "New Zealand"
+          },
+          "display_name": "Iran vs New Zealand - Arabic"
         }
       ]
     },
@@ -3580,7 +3535,7 @@
       ]
     }
   },
-  "stream_count": 38,
+  "stream_count": 37,
   "notes": [
     "Playlist header tags are player hints. Browser CORS requires a server-side proxy."
   ]
