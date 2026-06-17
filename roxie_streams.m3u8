@@ -1,60 +1,69 @@
 #EXTM3U
-# RoxieStreams Playlist - generated 2026-06-17T00:03:33+00:00
+# RoxieStreams Playlist - generated 2026-06-17T14:19:58+00:00
 # Source: https://roxiestreams.su
 
-#EXTINF:-1 tvg-name="Argentina vs Algeria - TSN" group-title="SOCCER - Argentina vs Algeria",Argentina vs Algeria - TSN
-#EXTGRP:SOCCER - Argentina vs Algeria
-#EXTDESC:Argentina vs Algeria
+#EXTINF:-1 tvg-name="Ghana vs Panama - TSN" group-title="SOCCER - Ghana vs Panama",Ghana vs Panama - TSN
+#EXTGRP:SOCCER - Ghana vs Panama
+#EXTDESC:Ghana vs Panama
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/soccer-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.su%2Fsoccer-streams-1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
 #EXTHTTP:{"Referer":"https://roxiestreams.su/soccer-streams-1","Origin":"https://roxiestreams.su","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
 https://602.shadow-ran.online/tsn.m3u8
 
-#EXTINF:-1 tvg-name="Argentina vs Algeria - BBC (UK)" group-title="SOCCER - Argentina vs Algeria",Argentina vs Algeria - BBC (UK)
-#EXTGRP:SOCCER - Argentina vs Algeria
-#EXTDESC:Argentina vs Algeria
-#EXTVLCOPT:http-referrer=https://roxiestreams.su/soccer-streams-1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.su%2Fsoccer-streams-1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
-#EXTHTTP:{"Referer":"https://roxiestreams.su/soccer-streams-1","Origin":"https://roxiestreams.su","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
-https://601.shadow-ran.online/bbc.m3u8
-
-#EXTINF:-1 tvg-name="Argentina vs Algeria - FOX (FHD)" group-title="SOCCER - Argentina vs Algeria",Argentina vs Algeria - FOX (FHD)
-#EXTGRP:SOCCER - Argentina vs Algeria
-#EXTDESC:Argentina vs Algeria
+#EXTINF:-1 tvg-name="Ghana vs Panama - FOX (FHD)" group-title="SOCCER - Ghana vs Panama",Ghana vs Panama - FOX (FHD)
+#EXTGRP:SOCCER - Ghana vs Panama
+#EXTDESC:Ghana vs Panama
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/soccer-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.su%2Fsoccer-streams-1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
 #EXTHTTP:{"Referer":"https://roxiestreams.su/soccer-streams-1","Origin":"https://roxiestreams.su","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
 https://602.shadow-ran.online/fox.m3u8
 
-#EXTINF:-1 tvg-name="Argentina vs Algeria - TELEMUNDO" group-title="SOCCER - Argentina vs Algeria",Argentina vs Algeria - TELEMUNDO
-#EXTGRP:SOCCER - Argentina vs Algeria
-#EXTDESC:Argentina vs Algeria
+#EXTINF:-1 tvg-name="Ghana vs Panama - TYC" group-title="SOCCER - Ghana vs Panama",Ghana vs Panama - TYC
+#EXTGRP:SOCCER - Ghana vs Panama
+#EXTDESC:Ghana vs Panama
+#EXTVLCOPT:http-referrer=https://roxiestreams.su/soccer-streams-1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.su%2Fsoccer-streams-1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
+#EXTHTTP:{"Referer":"https://roxiestreams.su/soccer-streams-1","Origin":"https://roxiestreams.su","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
+https://601.shadow-ran.online/tyc.m3u8
+
+#EXTINF:-1 tvg-name="Ghana vs Panama - TELEMUNDO" group-title="SOCCER - Ghana vs Panama",Ghana vs Panama - TELEMUNDO
+#EXTGRP:SOCCER - Ghana vs Panama
+#EXTDESC:Ghana vs Panama
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/soccer-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.su%2Fsoccer-streams-1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
 #EXTHTTP:{"Referer":"https://roxiestreams.su/soccer-streams-1","Origin":"https://roxiestreams.su","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
 https://daffodil.shadow-ran.online/tele.m3u8
 
-#EXTINF:-1 tvg-name="Argentina vs Algeria - العربية" group-title="SOCCER - Argentina vs Algeria",Argentina vs Algeria - العربية
-#EXTGRP:SOCCER - Argentina vs Algeria
-#EXTDESC:Argentina vs Algeria
+#EXTINF:-1 tvg-name="Ghana vs Panama - العربية" group-title="SOCCER - Ghana vs Panama",Ghana vs Panama - العربية
+#EXTGRP:SOCCER - Ghana vs Panama
+#EXTDESC:Ghana vs Panama
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/soccer-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.su%2Fsoccer-streams-1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
 #EXTHTTP:{"Referer":"https://roxiestreams.su/soccer-streams-1","Origin":"https://roxiestreams.su","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
 https://601.shadow-ran.online/bein.m3u8
 
-#EXTINF:-1 tvg-name="Argentina vs Algeria - fox.m3u8" group-title="SOCCER - Argentina vs Algeria",Argentina vs Algeria - fox.m3u8
-#EXTGRP:SOCCER - Argentina vs Algeria
-#EXTDESC:Argentina vs Algeria
+#EXTINF:-1 tvg-name="Ghana vs Panama - fox.m3u8" group-title="SOCCER - Ghana vs Panama",Ghana vs Panama - fox.m3u8
+#EXTGRP:SOCCER - Ghana vs Panama
+#EXTDESC:Ghana vs Panama
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/soccer-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.su%2Fsoccer-streams-1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
 #EXTHTTP:{"Referer":"https://roxiestreams.su/soccer-streams-1","Origin":"https://roxiestreams.su","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
 https://601.shadow-ran.online/fox.m3u8
+
+#EXTINF:-1 tvg-name="Uzbekistan vs Colombia - BBC (UK)" group-title="SOCCER - Uzbekistan vs Colombia",Uzbekistan vs Colombia - BBC (UK)
+#EXTGRP:SOCCER - Uzbekistan vs Colombia
+#EXTDESC:Uzbekistan vs Colombia
+#EXTVLCOPT:http-referrer=https://roxiestreams.su/soccer-streams-2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.su%2Fsoccer-streams-2&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
+#EXTHTTP:{"Referer":"https://roxiestreams.su/soccer-streams-2","Origin":"https://roxiestreams.su","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
+https://601.shadow-ran.online/bbc.m3u8
 
 #EXTINF:-1 tvg-name="Miami Marlins vs Philadelphia Phillies - Stream 1" group-title="MLB - Miami Marlins vs Philadelphia Phillies",Miami Marlins vs Philadelphia Phillies - Stream 1
 #EXTGRP:MLB - Miami Marlins vs Philadelphia Phillies
@@ -272,7 +281,7 @@ https://daffodil.shadow-ran.online/nhl.m3u8
 #EXTHTTP:{"Referer":"https://roxiestreams.su/wwe-streams","Origin":"https://roxiestreams.su","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
 https://601.shadow-ran.online/wwe.m3u8
 
-#EXTINF:-1 tvg-name="WWE Smackdown - Stream 2" group-title="FIGHTING - WWE Smackdown",WWE Smackdown - Stream 2
+#EXTINF:-1 tvg-name="WWE Smackdown - wwe.m3u8" group-title="FIGHTING - WWE Smackdown",WWE Smackdown - wwe.m3u8
 #EXTGRP:FIGHTING - WWE Smackdown
 #EXTDESC:WWE Smackdown
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/wwe-streams
@@ -416,7 +425,7 @@ https://601.formaturamaxi.com.br/mlb15.m3u8
 #EXTHTTP:{"Referer":"https://roxiestreams.su/wwe-streams","Origin":"https://roxiestreams.su","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
 https://601.shadow-ran.online/wwe.m3u8
 
-#EXTINF:-1 tvg-name="WWE Smackdown - Stream 2" group-title="WWE - WWE Smackdown",WWE Smackdown - Stream 2
+#EXTINF:-1 tvg-name="WWE Smackdown - wwe.m3u8" group-title="WWE - WWE Smackdown",WWE Smackdown - wwe.m3u8
 #EXTGRP:WWE - WWE Smackdown
 #EXTDESC:WWE Smackdown
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/wwe-streams

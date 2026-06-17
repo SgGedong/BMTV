@@ -1,14 +1,14 @@
 {
-  "scraped_at": "2026-06-17T00:03:33+00:00",
+  "scraped_at": "2026-06-17T14:19:58+00:00",
   "base_url": "https://roxiestreams.su",
   "domains": [
     "shadow-ran.online"
   ],
   "events": [
     {
-      "name": "World Cup GROUP I",
+      "name": "World Cup",
       "page": "https://roxiestreams.su/soccer",
-      "start_time": "June 16, 2026 12:00 PM"
+      "start_time": "June 17, 2026 10:00 AM"
     },
     {
       "name": "WWE NXT",
@@ -19,11 +19,11 @@
   "events_by_sport": {
     "soccer": [
       {
-        "title": "Argentina vs Algeria",
+        "title": "Ghana vs Panama",
         "sport": "soccer",
         "matchup": {
-          "home": "Argentina",
-          "away": "Algeria"
+          "home": "Ghana",
+          "away": "Panama"
         },
         "page": "https://roxiestreams.su/soccer-streams-1",
         "streams": [
@@ -43,35 +43,12 @@
             },
             "drm_keys": null,
             "sport": "soccer",
-            "event_title": "Argentina vs Algeria",
+            "event_title": "Ghana vs Panama",
             "matchup": {
-              "home": "Argentina",
-              "away": "Algeria"
+              "home": "Ghana",
+              "away": "Panama"
             },
-            "display_name": "Argentina vs Algeria - TSN"
-          },
-          {
-            "label": "BBC (UK)",
-            "url": "https://601.shadow-ran.online/bbc.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.su/soccer-streams-1",
-            "cdn_domain": "shadow-ran.online",
-            "subdomain": "601",
-            "path": "bbc.m3u8",
-            "headers": {
-              "Referer": "https://roxiestreams.su/soccer-streams-1",
-              "Origin": "https://roxiestreams.su",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "soccer",
-            "event_title": "Argentina vs Algeria",
-            "matchup": {
-              "home": "Argentina",
-              "away": "Algeria"
-            },
-            "display_name": "Argentina vs Algeria - BBC (UK)"
+            "display_name": "Ghana vs Panama - TSN"
           },
           {
             "label": "FOX (FHD)",
@@ -89,12 +66,35 @@
             },
             "drm_keys": null,
             "sport": "soccer",
-            "event_title": "Argentina vs Algeria",
+            "event_title": "Ghana vs Panama",
             "matchup": {
-              "home": "Argentina",
-              "away": "Algeria"
+              "home": "Ghana",
+              "away": "Panama"
             },
-            "display_name": "Argentina vs Algeria - FOX (FHD)"
+            "display_name": "Ghana vs Panama - FOX (FHD)"
+          },
+          {
+            "label": "TYC",
+            "url": "https://601.shadow-ran.online/tyc.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.su/soccer-streams-1",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "601",
+            "path": "tyc.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.su/soccer-streams-1",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "Ghana vs Panama",
+            "matchup": {
+              "home": "Ghana",
+              "away": "Panama"
+            },
+            "display_name": "Ghana vs Panama - TYC"
           },
           {
             "label": "TELEMUNDO",
@@ -112,12 +112,12 @@
             },
             "drm_keys": null,
             "sport": "soccer",
-            "event_title": "Argentina vs Algeria",
+            "event_title": "Ghana vs Panama",
             "matchup": {
-              "home": "Argentina",
-              "away": "Algeria"
+              "home": "Ghana",
+              "away": "Panama"
             },
-            "display_name": "Argentina vs Algeria - TELEMUNDO"
+            "display_name": "Ghana vs Panama - TELEMUNDO"
           },
           {
             "label": "العربية",
@@ -135,12 +135,12 @@
             },
             "drm_keys": null,
             "sport": "soccer",
-            "event_title": "Argentina vs Algeria",
+            "event_title": "Ghana vs Panama",
             "matchup": {
-              "home": "Argentina",
-              "away": "Algeria"
+              "home": "Ghana",
+              "away": "Panama"
             },
-            "display_name": "Argentina vs Algeria - العربية"
+            "display_name": "Ghana vs Panama - العربية"
           },
           {
             "label": "fox.m3u8",
@@ -158,12 +158,46 @@
             },
             "drm_keys": null,
             "sport": "soccer",
-            "event_title": "Argentina vs Algeria",
+            "event_title": "Ghana vs Panama",
             "matchup": {
-              "home": "Argentina",
-              "away": "Algeria"
+              "home": "Ghana",
+              "away": "Panama"
             },
-            "display_name": "Argentina vs Algeria - fox.m3u8"
+            "display_name": "Ghana vs Panama - fox.m3u8"
+          }
+        ]
+      },
+      {
+        "title": "Uzbekistan vs Colombia",
+        "sport": "soccer",
+        "matchup": {
+          "home": "Uzbekistan",
+          "away": "Colombia"
+        },
+        "page": "https://roxiestreams.su/soccer-streams-2",
+        "streams": [
+          {
+            "label": "BBC (UK)",
+            "url": "https://601.shadow-ran.online/bbc.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.su/soccer-streams-2",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "601",
+            "path": "bbc.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.su/soccer-streams-2",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "Uzbekistan vs Colombia",
+            "matchup": {
+              "home": "Uzbekistan",
+              "away": "Colombia"
+            },
+            "display_name": "Uzbekistan vs Colombia - BBC (UK)"
           }
         ]
       }
@@ -886,7 +920,7 @@
             "display_name": "WWE Smackdown - Stream 1"
           },
           {
-            "label": "Stream 2",
+            "label": "wwe.m3u8",
             "url": "https://daffodil.shadow-ran.online/wwe.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/wwe-streams",
@@ -903,7 +937,7 @@
             "sport": "fighting",
             "event_title": "WWE Smackdown",
             "matchup": null,
-            "display_name": "WWE Smackdown - Stream 2"
+            "display_name": "WWE Smackdown - wwe.m3u8"
           }
         ]
       }
@@ -1209,7 +1243,7 @@
             "display_name": "WWE Smackdown - Stream 1"
           },
           {
-            "label": "Stream 2",
+            "label": "wwe.m3u8",
             "url": "https://daffodil.shadow-ran.online/wwe.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/wwe-streams",
@@ -1226,7 +1260,7 @@
             "sport": "wwe",
             "event_title": "WWE Smackdown",
             "matchup": null,
-            "display_name": "WWE Smackdown - Stream 2"
+            "display_name": "WWE Smackdown - wwe.m3u8"
           }
         ]
       }
@@ -1250,10 +1284,10 @@
         "Motorsports",
         "Stream Request (Discord)",
         "MultiView (NEW)",
-        "France vs Senegal",
-        "Iraq vs Norway",
-        "Argentina vs Algeria",
-        "Austria vs Jordan",
+        "Portugal vs Congo DR",
+        "England vs Croatia",
+        "Ghana vs Panama",
+        "Uzbekistan vs Colombia",
         "Stream Request (Discord)"
       ],
       "links": [
@@ -1298,19 +1332,19 @@
           "url": "https://roxiestreams.su/multiview"
         },
         {
-          "label": "France vs Senegal",
+          "label": "Portugal vs Congo DR",
           "url": "https://roxiestreams.su/soccer-streams-1"
         },
         {
-          "label": "Iraq vs Norway",
+          "label": "England vs Croatia",
           "url": "https://roxiestreams.su/soccer-streams-1"
         },
         {
-          "label": "Argentina vs Algeria",
+          "label": "Ghana vs Panama",
           "url": "https://roxiestreams.su/soccer-streams-1"
         },
         {
-          "label": "Austria vs Jordan",
+          "label": "Uzbekistan vs Colombia",
           "url": "https://roxiestreams.su/soccer-streams-2"
         },
         {
@@ -1335,8 +1369,8 @@
         "Stream Request (Discord)",
         "MultiView (NEW)",
         "TSN",
-        "BBC (UK)",
         "FOX (FHD)",
+        "TYC",
         "TELEMUNDO",
         "PC ONLY (DIRECT)",
         "Tele (Peacock)",
@@ -1412,6 +1446,7 @@
         "TELEMUNDO",
         "PC ONLY (DIRECT)",
         "Tele (Peacock)",
+        "العربية",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -3022,7 +3057,6 @@
         "Stream Request (Discord)",
         "MultiView (NEW)",
         "Stream 1",
-        "Stream 2",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -3299,35 +3333,12 @@
           },
           "drm_keys": null,
           "sport": "soccer",
-          "event_title": "Argentina vs Algeria",
+          "event_title": "Ghana vs Panama",
           "matchup": {
-            "home": "Argentina",
-            "away": "Algeria"
+            "home": "Ghana",
+            "away": "Panama"
           },
-          "display_name": "Argentina vs Algeria - TSN"
-        },
-        {
-          "label": "BBC (UK)",
-          "url": "https://601.shadow-ran.online/bbc.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.su/soccer-streams-1",
-          "cdn_domain": "shadow-ran.online",
-          "subdomain": "601",
-          "path": "bbc.m3u8",
-          "headers": {
-            "Referer": "https://roxiestreams.su/soccer-streams-1",
-            "Origin": "https://roxiestreams.su",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "soccer",
-          "event_title": "Argentina vs Algeria",
-          "matchup": {
-            "home": "Argentina",
-            "away": "Algeria"
-          },
-          "display_name": "Argentina vs Algeria - BBC (UK)"
+          "display_name": "Ghana vs Panama - TSN"
         },
         {
           "label": "FOX (FHD)",
@@ -3345,12 +3356,35 @@
           },
           "drm_keys": null,
           "sport": "soccer",
-          "event_title": "Argentina vs Algeria",
+          "event_title": "Ghana vs Panama",
           "matchup": {
-            "home": "Argentina",
-            "away": "Algeria"
+            "home": "Ghana",
+            "away": "Panama"
           },
-          "display_name": "Argentina vs Algeria - FOX (FHD)"
+          "display_name": "Ghana vs Panama - FOX (FHD)"
+        },
+        {
+          "label": "TYC",
+          "url": "https://601.shadow-ran.online/tyc.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.su/soccer-streams-1",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "601",
+          "path": "tyc.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.su/soccer-streams-1",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "Ghana vs Panama",
+          "matchup": {
+            "home": "Ghana",
+            "away": "Panama"
+          },
+          "display_name": "Ghana vs Panama - TYC"
         },
         {
           "label": "TELEMUNDO",
@@ -3368,12 +3402,12 @@
           },
           "drm_keys": null,
           "sport": "soccer",
-          "event_title": "Argentina vs Algeria",
+          "event_title": "Ghana vs Panama",
           "matchup": {
-            "home": "Argentina",
-            "away": "Algeria"
+            "home": "Ghana",
+            "away": "Panama"
           },
-          "display_name": "Argentina vs Algeria - TELEMUNDO"
+          "display_name": "Ghana vs Panama - TELEMUNDO"
         },
         {
           "label": "العربية",
@@ -3391,12 +3425,12 @@
           },
           "drm_keys": null,
           "sport": "soccer",
-          "event_title": "Argentina vs Algeria",
+          "event_title": "Ghana vs Panama",
           "matchup": {
-            "home": "Argentina",
-            "away": "Algeria"
+            "home": "Ghana",
+            "away": "Panama"
           },
-          "display_name": "Argentina vs Algeria - العربية"
+          "display_name": "Ghana vs Panama - العربية"
         },
         {
           "label": "fox.m3u8",
@@ -3414,12 +3448,35 @@
           },
           "drm_keys": null,
           "sport": "soccer",
-          "event_title": "Argentina vs Algeria",
+          "event_title": "Ghana vs Panama",
           "matchup": {
-            "home": "Argentina",
-            "away": "Algeria"
+            "home": "Ghana",
+            "away": "Panama"
           },
-          "display_name": "Argentina vs Algeria - fox.m3u8"
+          "display_name": "Ghana vs Panama - fox.m3u8"
+        },
+        {
+          "label": "BBC (UK)",
+          "url": "https://601.shadow-ran.online/bbc.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.su/soccer-streams-2",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "601",
+          "path": "bbc.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.su/soccer-streams-2",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "Uzbekistan vs Colombia",
+          "matchup": {
+            "home": "Uzbekistan",
+            "away": "Colombia"
+          },
+          "display_name": "Uzbekistan vs Colombia - BBC (UK)"
         }
       ]
     },
@@ -3972,7 +4029,7 @@
           "display_name": "WWE Smackdown - Stream 1"
         },
         {
-          "label": "Stream 2",
+          "label": "wwe.m3u8",
           "url": "https://daffodil.shadow-ran.online/wwe.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/wwe-streams",
@@ -3989,7 +4046,7 @@
           "sport": "fighting",
           "event_title": "WWE Smackdown",
           "matchup": null,
-          "display_name": "WWE Smackdown - Stream 2"
+          "display_name": "WWE Smackdown - wwe.m3u8"
         }
       ]
     },
@@ -4283,7 +4340,7 @@
           "display_name": "WWE Smackdown - Stream 1"
         },
         {
-          "label": "Stream 2",
+          "label": "wwe.m3u8",
           "url": "https://daffodil.shadow-ran.online/wwe.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/wwe-streams",
@@ -4300,12 +4357,12 @@
           "sport": "wwe",
           "event_title": "WWE Smackdown",
           "matchup": null,
-          "display_name": "WWE Smackdown - Stream 2"
+          "display_name": "WWE Smackdown - wwe.m3u8"
         }
       ]
     }
   },
-  "stream_count": 47,
+  "stream_count": 48,
   "notes": [
     "Playlist header tags are player hints. Browser CORS requires a server-side proxy."
   ]
