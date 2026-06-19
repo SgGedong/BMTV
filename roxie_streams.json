@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-06-19T22:01:47+00:00",
+  "scraped_at": "2026-06-19T23:56:15+00:00",
   "base_url": "https://roxiestreams.su",
   "domains": [
     "shadow-ran.online"
@@ -29,11 +29,11 @@
         "streams": [
           {
             "label": "TSN",
-            "url": "https://ataide0.shadow-ran.online/tsn.m3u8",
+            "url": "https://602.shadow-ran.online/tsn.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-1",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "ataide0",
+            "subdomain": "602",
             "path": "tsn.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/soccer-streams-1",
@@ -49,29 +49,6 @@
               "away": "Haiti"
             },
             "display_name": "Brazil vs Haiti - TSN"
-          },
-          {
-            "label": "BBC (UK)",
-            "url": "https://601.shadow-ran.online/bbc.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.su/soccer-streams-1",
-            "cdn_domain": "shadow-ran.online",
-            "subdomain": "601",
-            "path": "bbc.m3u8",
-            "headers": {
-              "Referer": "https://roxiestreams.su/soccer-streams-1",
-              "Origin": "https://roxiestreams.su",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "soccer",
-            "event_title": "Brazil vs Haiti",
-            "matchup": {
-              "home": "Brazil",
-              "away": "Haiti"
-            },
-            "display_name": "Brazil vs Haiti - BBC (UK)"
           },
           {
             "label": "FOX",
@@ -141,40 +118,6 @@
               "away": "Haiti"
             },
             "display_name": "Brazil vs Haiti - العربية"
-          }
-        ]
-      },
-      {
-        "title": "Turkey vs Paraguay",
-        "sport": "soccer",
-        "matchup": {
-          "home": "Turkey",
-          "away": "Paraguay"
-        },
-        "page": "https://roxiestreams.su/soccer-streams-2",
-        "streams": [
-          {
-            "label": "TSN",
-            "url": "https://602.shadow-ran.online/tsn.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.su/soccer-streams-2",
-            "cdn_domain": "shadow-ran.online",
-            "subdomain": "602",
-            "path": "tsn.m3u8",
-            "headers": {
-              "Referer": "https://roxiestreams.su/soccer-streams-2",
-              "Origin": "https://roxiestreams.su",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "soccer",
-            "event_title": "Turkey vs Paraguay",
-            "matchup": {
-              "home": "Turkey",
-              "away": "Paraguay"
-            },
-            "display_name": "Turkey vs Paraguay - TSN"
           }
         ]
       }
@@ -866,7 +809,7 @@
             "display_name": "WWE Smackdown - Stream 1"
           },
           {
-            "label": "wwe.m3u8",
+            "label": "Stream 2",
             "url": "https://daffodil.shadow-ran.online/wwe.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/wwe-streams",
@@ -883,7 +826,7 @@
             "sport": "fighting",
             "event_title": "WWE Smackdown",
             "matchup": null,
-            "display_name": "WWE Smackdown - wwe.m3u8"
+            "display_name": "WWE Smackdown - Stream 2"
           }
         ]
       }
@@ -1172,7 +1115,7 @@
             "display_name": "WWE Smackdown - Stream 1"
           },
           {
-            "label": "wwe.m3u8",
+            "label": "Stream 2",
             "url": "https://daffodil.shadow-ran.online/wwe.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/wwe-streams",
@@ -1189,7 +1132,7 @@
             "sport": "wwe",
             "event_title": "WWE Smackdown",
             "matchup": null,
-            "display_name": "WWE Smackdown - wwe.m3u8"
+            "display_name": "WWE Smackdown - Stream 2"
           }
         ]
       }
@@ -1298,7 +1241,6 @@
         "Stream Request (Discord)",
         "MultiView (NEW)",
         "TSN",
-        "BBC (UK)",
         "FOX",
         "TELEMUNDO",
         "PC ONLY (DIRECT)",
@@ -2909,6 +2851,7 @@
         "Stream Request (Discord)",
         "MultiView (NEW)",
         "Stream 1",
+        "Stream 2",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -3181,11 +3124,11 @@
       "streams": [
         {
           "label": "TSN",
-          "url": "https://ataide0.shadow-ran.online/tsn.m3u8",
+          "url": "https://602.shadow-ran.online/tsn.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-1",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "ataide0",
+          "subdomain": "602",
           "path": "tsn.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/soccer-streams-1",
@@ -3201,29 +3144,6 @@
             "away": "Haiti"
           },
           "display_name": "Brazil vs Haiti - TSN"
-        },
-        {
-          "label": "BBC (UK)",
-          "url": "https://601.shadow-ran.online/bbc.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.su/soccer-streams-1",
-          "cdn_domain": "shadow-ran.online",
-          "subdomain": "601",
-          "path": "bbc.m3u8",
-          "headers": {
-            "Referer": "https://roxiestreams.su/soccer-streams-1",
-            "Origin": "https://roxiestreams.su",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "soccer",
-          "event_title": "Brazil vs Haiti",
-          "matchup": {
-            "home": "Brazil",
-            "away": "Haiti"
-          },
-          "display_name": "Brazil vs Haiti - BBC (UK)"
         },
         {
           "label": "FOX",
@@ -3293,29 +3213,6 @@
             "away": "Haiti"
           },
           "display_name": "Brazil vs Haiti - العربية"
-        },
-        {
-          "label": "TSN",
-          "url": "https://602.shadow-ran.online/tsn.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.su/soccer-streams-2",
-          "cdn_domain": "shadow-ran.online",
-          "subdomain": "602",
-          "path": "tsn.m3u8",
-          "headers": {
-            "Referer": "https://roxiestreams.su/soccer-streams-2",
-            "Origin": "https://roxiestreams.su",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "soccer",
-          "event_title": "Turkey vs Paraguay",
-          "matchup": {
-            "home": "Turkey",
-            "away": "Paraguay"
-          },
-          "display_name": "Turkey vs Paraguay - TSN"
         }
       ]
     },
@@ -3847,7 +3744,7 @@
           "display_name": "WWE Smackdown - Stream 1"
         },
         {
-          "label": "wwe.m3u8",
+          "label": "Stream 2",
           "url": "https://daffodil.shadow-ran.online/wwe.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/wwe-streams",
@@ -3864,7 +3761,7 @@
           "sport": "fighting",
           "event_title": "WWE Smackdown",
           "matchup": null,
-          "display_name": "WWE Smackdown - wwe.m3u8"
+          "display_name": "WWE Smackdown - Stream 2"
         }
       ]
     },
@@ -4141,7 +4038,7 @@
           "display_name": "WWE Smackdown - Stream 1"
         },
         {
-          "label": "wwe.m3u8",
+          "label": "Stream 2",
           "url": "https://daffodil.shadow-ran.online/wwe.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/wwe-streams",
@@ -4158,12 +4055,12 @@
           "sport": "wwe",
           "event_title": "WWE Smackdown",
           "matchup": null,
-          "display_name": "WWE Smackdown - wwe.m3u8"
+          "display_name": "WWE Smackdown - Stream 2"
         }
       ]
     }
   },
-  "stream_count": 45,
+  "stream_count": 43,
   "notes": [
     "Playlist header tags are player hints. Browser CORS requires a server-side proxy."
   ]
