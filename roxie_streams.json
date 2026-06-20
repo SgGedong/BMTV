@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-06-20T09:55:37+00:00",
+  "scraped_at": "2026-06-20T11:49:22+00:00",
   "base_url": "https://roxiestreams.su",
   "domains": [
     "shadow-ran.online"
@@ -56,12 +56,35 @@
             "display_name": "Germany vs Ivory Coast - TSN"
           },
           {
-            "label": "FOX (FHD)",
-            "url": "https://ataide0.shadow-ran.online/fox.m3u8",
+            "label": "BBC (UK)",
+            "url": "https://601.shadow-ran.online/bbc.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-1",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "ataide0",
+            "subdomain": "601",
+            "path": "bbc.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.su/soccer-streams-1",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "Germany vs Ivory Coast",
+            "matchup": {
+              "home": "Germany",
+              "away": "Ivory Coast"
+            },
+            "display_name": "Germany vs Ivory Coast - BBC (UK)"
+          },
+          {
+            "label": "FOX (FHD)",
+            "url": "https://602.shadow-ran.online/fox.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.su/soccer-streams-1",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "602",
             "path": "fox.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/soccer-streams-1",
@@ -123,6 +146,40 @@
               "away": "Ivory Coast"
             },
             "display_name": "Germany vs Ivory Coast - العربية"
+          }
+        ]
+      },
+      {
+        "title": "Almería vs Malaga",
+        "sport": "soccer",
+        "matchup": {
+          "home": "Almería",
+          "away": "Malaga"
+        },
+        "page": "https://roxiestreams.su/soccer-streams-2",
+        "streams": [
+          {
+            "label": "FS1",
+            "url": "https://ataide0.shadow-ran.online/fox.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.su/soccer-streams-2",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "ataide0",
+            "path": "fox.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.su/soccer-streams-2",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "Almería vs Malaga",
+            "matchup": {
+              "home": "Almería",
+              "away": "Malaga"
+            },
+            "display_name": "Almería vs Malaga - FS1"
           }
         ]
       },
@@ -1396,6 +1453,7 @@
         "Stream Request (Discord)",
         "MultiView (NEW)",
         "TSN",
+        "BBC (UK)",
         "FOX (FHD)",
         "TELEMUNDO",
         "PC ONLY (DIRECT)",
@@ -3525,12 +3583,35 @@
           "display_name": "Germany vs Ivory Coast - TSN"
         },
         {
-          "label": "FOX (FHD)",
-          "url": "https://ataide0.shadow-ran.online/fox.m3u8",
+          "label": "BBC (UK)",
+          "url": "https://601.shadow-ran.online/bbc.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-1",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "ataide0",
+          "subdomain": "601",
+          "path": "bbc.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.su/soccer-streams-1",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "Germany vs Ivory Coast",
+          "matchup": {
+            "home": "Germany",
+            "away": "Ivory Coast"
+          },
+          "display_name": "Germany vs Ivory Coast - BBC (UK)"
+        },
+        {
+          "label": "FOX (FHD)",
+          "url": "https://602.shadow-ran.online/fox.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.su/soccer-streams-1",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "602",
           "path": "fox.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/soccer-streams-1",
@@ -3592,6 +3673,29 @@
             "away": "Ivory Coast"
           },
           "display_name": "Germany vs Ivory Coast - العربية"
+        },
+        {
+          "label": "FS1",
+          "url": "https://ataide0.shadow-ran.online/fox.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.su/soccer-streams-2",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "ataide0",
+          "path": "fox.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.su/soccer-streams-2",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "Almería vs Malaga",
+          "matchup": {
+            "home": "Almería",
+            "away": "Malaga"
+          },
+          "display_name": "Almería vs Malaga - FS1"
         },
         {
           "label": "FOX",
@@ -4564,7 +4668,7 @@
       ]
     }
   },
-  "stream_count": 48,
+  "stream_count": 50,
   "notes": [
     "Playlist header tags are player hints. Browser CORS requires a server-side proxy."
   ]

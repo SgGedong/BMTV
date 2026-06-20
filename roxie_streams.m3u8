@@ -1,5 +1,5 @@
 #EXTM3U
-# RoxieStreams Playlist - generated 2026-06-20T09:55:37+00:00
+# RoxieStreams Playlist - generated 2026-06-20T11:49:22+00:00
 # Source: https://roxiestreams.su
 
 #EXTINF:-1 tvg-name="Germany vs Ivory Coast - TSN" group-title="SOCCER - Germany vs Ivory Coast",Germany vs Ivory Coast - TSN
@@ -11,6 +11,15 @@
 #EXTHTTP:{"Referer":"https://roxiestreams.su/soccer-streams-1","Origin":"https://roxiestreams.su","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
 https://ataide0.shadow-ran.online/tsn.m3u8
 
+#EXTINF:-1 tvg-name="Germany vs Ivory Coast - BBC (UK)" group-title="SOCCER - Germany vs Ivory Coast",Germany vs Ivory Coast - BBC (UK)
+#EXTGRP:SOCCER - Germany vs Ivory Coast
+#EXTDESC:Germany vs Ivory Coast
+#EXTVLCOPT:http-referrer=https://roxiestreams.su/soccer-streams-1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.su%2Fsoccer-streams-1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
+#EXTHTTP:{"Referer":"https://roxiestreams.su/soccer-streams-1","Origin":"https://roxiestreams.su","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
+https://601.shadow-ran.online/bbc.m3u8
+
 #EXTINF:-1 tvg-name="Germany vs Ivory Coast - FOX (FHD)" group-title="SOCCER - Germany vs Ivory Coast",Germany vs Ivory Coast - FOX (FHD)
 #EXTGRP:SOCCER - Germany vs Ivory Coast
 #EXTDESC:Germany vs Ivory Coast
@@ -18,7 +27,7 @@ https://ataide0.shadow-ran.online/tsn.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.su%2Fsoccer-streams-1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
 #EXTHTTP:{"Referer":"https://roxiestreams.su/soccer-streams-1","Origin":"https://roxiestreams.su","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
-https://ataide0.shadow-ran.online/fox.m3u8
+https://602.shadow-ran.online/fox.m3u8
 
 #EXTINF:-1 tvg-name="Germany vs Ivory Coast - TELEMUNDO" group-title="SOCCER - Germany vs Ivory Coast",Germany vs Ivory Coast - TELEMUNDO
 #EXTGRP:SOCCER - Germany vs Ivory Coast
@@ -37,6 +46,15 @@ https://daffodil.shadow-ran.online/tele.m3u8
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.su%2Fsoccer-streams-1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
 #EXTHTTP:{"Referer":"https://roxiestreams.su/soccer-streams-1","Origin":"https://roxiestreams.su","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
 https://601.shadow-ran.online/bein.m3u8
+
+#EXTINF:-1 tvg-name="Almería vs Malaga - FS1" group-title="SOCCER - Almería vs Malaga",Almería vs Malaga - FS1
+#EXTGRP:SOCCER - Almería vs Malaga
+#EXTDESC:Almería vs Malaga
+#EXTVLCOPT:http-referrer=https://roxiestreams.su/soccer-streams-2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.su%2Fsoccer-streams-2&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
+#EXTHTTP:{"Referer":"https://roxiestreams.su/soccer-streams-2","Origin":"https://roxiestreams.su","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
+https://ataide0.shadow-ran.online/fox.m3u8
 
 #EXTINF:-1 tvg-name="Tunisia vs Japan - FOX" group-title="SOCCER - Tunisia vs Japan",Tunisia vs Japan - FOX
 #EXTGRP:SOCCER - Tunisia vs Japan
