@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-06-27T14:15:54+00:00",
+  "scraped_at": "2026-06-27T14:20:44+00:00",
   "base_url": "https://roxiestreams.su",
   "domains": [
     "shadow-ran.online"
@@ -1143,11 +1143,11 @@
         "streams": [
           {
             "label": "Stream 1 (PARA)",
-            "url": "https://602.shadow-ran.online/happybirthdayabb.m3u8",
+            "url": "https://ataide0.shadow-ran.online/happybirthdayabb.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/ufc",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "602",
+            "subdomain": "ataide0",
             "path": "happybirthdayabb.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/ufc",
@@ -1165,30 +1165,7 @@
             "display_name": "UFC FN: Fiziev vs. Torres - Stream 1 (PARA)"
           },
           {
-            "label": "Stream 2 (SN)",
-            "url": "https://602.shadow-ran.online/sn.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.su/ufc",
-            "cdn_domain": "shadow-ran.online",
-            "subdomain": "602",
-            "path": "sn.m3u8",
-            "headers": {
-              "Referer": "https://roxiestreams.su/ufc",
-              "Origin": "https://roxiestreams.su",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "ufc",
-            "event_title": "UFC FN: Fiziev vs. Torres",
-            "matchup": {
-              "home": "UFC FN: Fiziev",
-              "away": "Torres"
-            },
-            "display_name": "UFC FN: Fiziev vs. Torres - Stream 2 (SN)"
-          },
-          {
-            "label": "Stream 3 (TNT)",
+            "label": "Stream 2 (TNT)",
             "url": "https://602.shadow-ran.online/tnt.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/ufc",
@@ -1208,7 +1185,7 @@
               "home": "UFC FN: Fiziev",
               "away": "Torres"
             },
-            "display_name": "UFC FN: Fiziev vs. Torres - Stream 3 (TNT)"
+            "display_name": "UFC FN: Fiziev vs. Torres - Stream 2 (TNT)"
           }
         ]
       }
@@ -3555,8 +3532,7 @@
         "Stream Request (Discord)",
         "MultiView (NEW)",
         "Stream 1 (PARA)",
-        "Stream 2 (SN)",
-        "Stream 3 (TNT)",
+        "Stream 2 (TNT)",
         "PC ONLY (DIRECT)",
         "Switch to Chatango",
         "Stream Request (Discord)"
@@ -4536,11 +4512,11 @@
       "streams": [
         {
           "label": "Stream 1 (PARA)",
-          "url": "https://602.shadow-ran.online/happybirthdayabb.m3u8",
+          "url": "https://ataide0.shadow-ran.online/happybirthdayabb.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/ufc",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "602",
+          "subdomain": "ataide0",
           "path": "happybirthdayabb.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/ufc",
@@ -4558,30 +4534,7 @@
           "display_name": "UFC FN: Fiziev vs. Torres - Stream 1 (PARA)"
         },
         {
-          "label": "Stream 2 (SN)",
-          "url": "https://602.shadow-ran.online/sn.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.su/ufc",
-          "cdn_domain": "shadow-ran.online",
-          "subdomain": "602",
-          "path": "sn.m3u8",
-          "headers": {
-            "Referer": "https://roxiestreams.su/ufc",
-            "Origin": "https://roxiestreams.su",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "ufc",
-          "event_title": "UFC FN: Fiziev vs. Torres",
-          "matchup": {
-            "home": "UFC FN: Fiziev",
-            "away": "Torres"
-          },
-          "display_name": "UFC FN: Fiziev vs. Torres - Stream 2 (SN)"
-        },
-        {
-          "label": "Stream 3 (TNT)",
+          "label": "Stream 2 (TNT)",
           "url": "https://602.shadow-ran.online/tnt.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/ufc",
@@ -4601,7 +4554,7 @@
             "home": "UFC FN: Fiziev",
             "away": "Torres"
           },
-          "display_name": "UFC FN: Fiziev vs. Torres - Stream 3 (TNT)"
+          "display_name": "UFC FN: Fiziev vs. Torres - Stream 2 (TNT)"
         }
       ]
     },
@@ -4706,7 +4659,7 @@
       ]
     }
   },
-  "stream_count": 46,
+  "stream_count": 45,
   "notes": [
     "Playlist header tags are player hints. Browser CORS requires a server-side proxy."
   ]
