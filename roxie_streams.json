@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-06-28T07:09:58+00:00",
+  "scraped_at": "2026-06-28T09:47:47+00:00",
   "base_url": "https://roxiestreams.su",
   "domains": [
     "shadow-ran.online"
@@ -8,22 +8,22 @@
     {
       "name": "MotoGP - Grand Prix",
       "page": "https://roxiestreams.su/motogp",
-      "start_time": "June 27, 2026 5:00 AM"
+      "start_time": "June 28, 2026 5:00 AM"
     },
     {
       "name": "Formula 1 - Grand Prix",
       "page": "https://roxiestreams.su/f1",
-      "start_time": "June 27, 2026 6:00 AM"
+      "start_time": "June 28, 2026 6:00 AM"
     },
     {
       "name": "World Cup - Rd of 32",
       "page": "https://roxiestreams.su/soccer-streams-1",
-      "start_time": "June 27, 2026 12:00 PM"
+      "start_time": "June 28, 2026 12:00 PM"
     },
     {
       "name": "NASCAR Cup Series - Race",
       "page": "https://roxiestreams.su/nascar",
-      "start_time": "June 27, 2026 12:50 PM"
+      "start_time": "June 28, 2026 12:50 PM"
     }
   ],
   "events_by_sport": {
@@ -843,7 +843,7 @@
             "display_name": "Zuffa Boxing 8: De Los Santos vs. Valenzuela - Stream 1"
           },
           {
-            "label": "Stream 2",
+            "label": "ppv.m3u8",
             "url": "https://daffodil.shadow-ran.online/ppv.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/ppv-streams-1",
@@ -863,7 +863,7 @@
               "home": "Zuffa Boxing 8: De Los Santos",
               "away": "Valenzuela"
             },
-            "display_name": "Zuffa Boxing 8: De Los Santos vs. Valenzuela - Stream 2"
+            "display_name": "Zuffa Boxing 8: De Los Santos vs. Valenzuela - ppv.m3u8"
           }
         ]
       }
@@ -928,6 +928,26 @@
             "display_name": "MotoGP - Grand Prix - Stream 1"
           },
           {
+            "label": "Stream 2",
+            "url": "https://daffodil.shadow-ran.online/ncaa5.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.su/motogp",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "daffodil",
+            "path": "ncaa5.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.su/motogp",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "motogp",
+            "event_title": "MotoGP - Grand Prix",
+            "matchup": null,
+            "display_name": "MotoGP - Grand Prix - Stream 2"
+          },
+          {
             "label": "tnt2.m3u8",
             "url": "https://daffodil.shadow-ran.online/tnt2.m3u8",
             "type": "m3u8",
@@ -958,7 +978,7 @@
         "page": "https://roxiestreams.su/f1",
         "streams": [
           {
-            "label": "Stream 1",
+            "label": "Sky Sports",
             "url": "https://602.shadow-ran.online/f1.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/f1",
@@ -975,16 +995,16 @@
             "sport": "f1",
             "event_title": "Formula 1 - Grand Prix",
             "matchup": null,
-            "display_name": "Formula 1 - Grand Prix - Stream 1"
+            "display_name": "Formula 1 - Grand Prix - Sky Sports"
           },
           {
-            "label": "Stream 2",
-            "url": "https://daffodil.shadow-ran.online/main.m3u8",
+            "label": "F1TV",
+            "url": "https://daffodil.shadow-ran.online/f1tv.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/f1",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "daffodil",
-            "path": "main.m3u8",
+            "path": "f1tv.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/f1",
               "Origin": "https://roxiestreams.su",
@@ -995,7 +1015,27 @@
             "sport": "f1",
             "event_title": "Formula 1 - Grand Prix",
             "matchup": null,
-            "display_name": "Formula 1 - Grand Prix - Stream 2"
+            "display_name": "Formula 1 - Grand Prix - F1TV"
+          },
+          {
+            "label": "TSN",
+            "url": "https://daffodil.shadow-ran.online/tsn.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.su/f1",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "daffodil",
+            "path": "tsn.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.su/f1",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "f1",
+            "event_title": "Formula 1 - Grand Prix",
+            "matchup": null,
+            "display_name": "Formula 1 - Grand Prix - TSN"
           },
           {
             "label": "f1.m3u8",
@@ -1029,7 +1069,7 @@
         "streams": [
           {
             "label": "Direct Link",
-            "url": "https://602.formaturamaxi.com.br/nas.m3u8",
+            "url": "https://daffodil.formaturamaxi.com.br/tsn.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/nascar",
             "headers": {
@@ -2764,7 +2804,6 @@
         "Stream Request (Discord)",
         "MultiView (NEW)",
         "Stream 1",
-        "Stream 2",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -3057,6 +3096,7 @@
         "Stream Request (Discord)",
         "MultiView (NEW)",
         "Stream 1",
+        "Stream 2",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -3122,8 +3162,9 @@
         "Motorsports",
         "Stream Request (Discord)",
         "MultiView (NEW)",
-        "Stream 1",
-        "Stream 2",
+        "Sky Sports",
+        "F1TV",
+        "TSN",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -3898,7 +3939,7 @@
           "display_name": "Zuffa Boxing 8: De Los Santos vs. Valenzuela - Stream 1"
         },
         {
-          "label": "Stream 2",
+          "label": "ppv.m3u8",
           "url": "https://daffodil.shadow-ran.online/ppv.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/ppv-streams-1",
@@ -3918,7 +3959,7 @@
             "home": "Zuffa Boxing 8: De Los Santos",
             "away": "Valenzuela"
           },
-          "display_name": "Zuffa Boxing 8: De Los Santos vs. Valenzuela - Stream 2"
+          "display_name": "Zuffa Boxing 8: De Los Santos vs. Valenzuela - ppv.m3u8"
         }
       ]
     },
@@ -3987,6 +4028,26 @@
           "display_name": "MotoGP - Grand Prix - Stream 1"
         },
         {
+          "label": "Stream 2",
+          "url": "https://daffodil.shadow-ran.online/ncaa5.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.su/motogp",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "daffodil",
+          "path": "ncaa5.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.su/motogp",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "motogp",
+          "event_title": "MotoGP - Grand Prix",
+          "matchup": null,
+          "display_name": "MotoGP - Grand Prix - Stream 2"
+        },
+        {
           "label": "tnt2.m3u8",
           "url": "https://daffodil.shadow-ran.online/tnt2.m3u8",
           "type": "m3u8",
@@ -4014,7 +4075,7 @@
       ],
       "streams": [
         {
-          "label": "Stream 1",
+          "label": "Sky Sports",
           "url": "https://602.shadow-ran.online/f1.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/f1",
@@ -4031,16 +4092,16 @@
           "sport": "f1",
           "event_title": "Formula 1 - Grand Prix",
           "matchup": null,
-          "display_name": "Formula 1 - Grand Prix - Stream 1"
+          "display_name": "Formula 1 - Grand Prix - Sky Sports"
         },
         {
-          "label": "Stream 2",
-          "url": "https://daffodil.shadow-ran.online/main.m3u8",
+          "label": "F1TV",
+          "url": "https://daffodil.shadow-ran.online/f1tv.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/f1",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "daffodil",
-          "path": "main.m3u8",
+          "path": "f1tv.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/f1",
             "Origin": "https://roxiestreams.su",
@@ -4051,7 +4112,27 @@
           "sport": "f1",
           "event_title": "Formula 1 - Grand Prix",
           "matchup": null,
-          "display_name": "Formula 1 - Grand Prix - Stream 2"
+          "display_name": "Formula 1 - Grand Prix - F1TV"
+        },
+        {
+          "label": "TSN",
+          "url": "https://daffodil.shadow-ran.online/tsn.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.su/f1",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "daffodil",
+          "path": "tsn.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.su/f1",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "f1",
+          "event_title": "Formula 1 - Grand Prix",
+          "matchup": null,
+          "display_name": "Formula 1 - Grand Prix - TSN"
         },
         {
           "label": "f1.m3u8",
@@ -4082,7 +4163,7 @@
       "streams": [
         {
           "label": "Direct Link",
-          "url": "https://602.formaturamaxi.com.br/nas.m3u8",
+          "url": "https://daffodil.formaturamaxi.com.br/tsn.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/nascar",
           "headers": {
@@ -4117,7 +4198,7 @@
       ]
     }
   },
-  "stream_count": 37,
+  "stream_count": 39,
   "notes": [
     "Playlist header tags are player hints. Browser CORS requires a server-side proxy."
   ]
