@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-06-28T18:49:24+00:00",
+  "scraped_at": "2026-06-28T20:03:18+00:00",
   "base_url": "https://roxiestreams.su",
   "domains": [
     "shadow-ran.online"
@@ -914,6 +914,54 @@
             "display_name": "TNA Slammiversary - ppv2.m3u8"
           }
         ]
+      },
+      {
+        "title": "WWE NXT: The Great American Bash",
+        "sport": "fighting",
+        "matchup": null,
+        "page": "https://roxiestreams.su/wwe-streams",
+        "streams": [
+          {
+            "label": "Stream 1",
+            "url": "https://602.shadow-ran.online/wwe.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.su/wwe-streams",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "602",
+            "path": "wwe.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.su/wwe-streams",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "fighting",
+            "event_title": "WWE NXT: The Great American Bash",
+            "matchup": null,
+            "display_name": "WWE NXT: The Great American Bash - Stream 1"
+          },
+          {
+            "label": "wwe.m3u8",
+            "url": "https://daffodil.shadow-ran.online/wwe.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.su/wwe-streams",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "daffodil",
+            "path": "wwe.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.su/wwe-streams",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "fighting",
+            "event_title": "WWE NXT: The Great American Bash",
+            "matchup": null,
+            "display_name": "WWE NXT: The Great American Bash - wwe.m3u8"
+          }
+        ]
       }
     ],
     "motorsports": [],
@@ -1154,7 +1202,7 @@
           },
           {
             "label": "Direct Link",
-            "url": "https://out-of-touch.b-cdn.net/out/v2/e794ba061906debb8f564ddeeaac2cf0/index.m3u8",
+            "url": "https://out-of-touch.b-cdn.net/out/v2/95780e3db403b88783afd6a7100e204d/index.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/nascar",
             "headers": {
@@ -2804,6 +2852,7 @@
         "MultiView (NEW)",
         "TNA Slammiversary",
         "Zuffa Boxing 8: De Los Santos vs. Valenzuela",
+        "WWE NXT: The Great American Bash",
         "AEW Forbidden Door",
         "Stream Request (Discord)"
       ],
@@ -2855,6 +2904,10 @@
         {
           "label": "Zuffa Boxing 8: De Los Santos vs. Valenzuela",
           "url": "https://roxiestreams.su/ppv-streams-1"
+        },
+        {
+          "label": "WWE NXT: The Great American Bash",
+          "url": "https://roxiestreams.su/wwe-streams"
         },
         {
           "label": "AEW Forbidden Door",
@@ -2934,6 +2987,72 @@
     },
     "https://roxiestreams.su/ppv-streams-2": {
       "url": "https://roxiestreams.su/ppv-streams-2",
+      "title": "Roxiestreams - Watch Live Sports, F1, UFC, NFL, TV",
+      "headings": [],
+      "controls": [
+        "RoxieStreams",
+        "Soccer (WC 2026)",
+        "MLB",
+        "NBA",
+        "NFL",
+        "NHL",
+        "Fighting",
+        "Motorsports",
+        "Stream Request (Discord)",
+        "MultiView (NEW)",
+        "Stream 1",
+        "Switch to Chatango",
+        "Stream Request (Discord)"
+      ],
+      "links": [
+        {
+          "label": "RoxieStreams",
+          "url": "https://roxiestreams.su/"
+        },
+        {
+          "label": "Soccer (WC 2026)",
+          "url": "https://roxiestreams.su/soccer"
+        },
+        {
+          "label": "MLB",
+          "url": "https://roxiestreams.su/mlb"
+        },
+        {
+          "label": "NBA",
+          "url": "https://roxiestreams.su/nba"
+        },
+        {
+          "label": "NFL",
+          "url": "https://roxiestreams.su/nfl"
+        },
+        {
+          "label": "NHL",
+          "url": "https://roxiestreams.su/nhl"
+        },
+        {
+          "label": "Fighting",
+          "url": "https://roxiestreams.su/fighting"
+        },
+        {
+          "label": "Motorsports",
+          "url": "https://roxiestreams.su/motorsports"
+        },
+        {
+          "label": "Stream Request (Discord)",
+          "url": "https://discord.gg/JhkVmejRmn"
+        },
+        {
+          "label": "MultiView (NEW)",
+          "url": "https://roxiestreams.su/multiview"
+        },
+        {
+          "label": "Stream Request (Discord)",
+          "url": "https://discord.gg/JhkVmejRmn"
+        }
+      ]
+    },
+    "https://roxiestreams.su/wwe-streams": {
+      "url": "https://roxiestreams.su/wwe-streams",
       "title": "Roxiestreams - Watch Live Sports, F1, UFC, NFL, TV",
       "headings": [],
       "controls": [
@@ -4058,7 +4177,8 @@
       "pages": [
         "https://roxiestreams.su/fighting",
         "https://roxiestreams.su/ppv-streams-1",
-        "https://roxiestreams.su/ppv-streams-2"
+        "https://roxiestreams.su/ppv-streams-2",
+        "https://roxiestreams.su/wwe-streams"
       ],
       "streams": [
         {
@@ -4146,6 +4266,46 @@
           "event_title": "TNA Slammiversary",
           "matchup": null,
           "display_name": "TNA Slammiversary - ppv2.m3u8"
+        },
+        {
+          "label": "Stream 1",
+          "url": "https://602.shadow-ran.online/wwe.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.su/wwe-streams",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "602",
+          "path": "wwe.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.su/wwe-streams",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "fighting",
+          "event_title": "WWE NXT: The Great American Bash",
+          "matchup": null,
+          "display_name": "WWE NXT: The Great American Bash - Stream 1"
+        },
+        {
+          "label": "wwe.m3u8",
+          "url": "https://daffodil.shadow-ran.online/wwe.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.su/wwe-streams",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "daffodil",
+          "path": "wwe.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.su/wwe-streams",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "fighting",
+          "event_title": "WWE NXT: The Great American Bash",
+          "matchup": null,
+          "display_name": "WWE NXT: The Great American Bash - wwe.m3u8"
         }
       ]
     },
@@ -4386,7 +4546,7 @@
         },
         {
           "label": "Direct Link",
-          "url": "https://out-of-touch.b-cdn.net/out/v2/e794ba061906debb8f564ddeeaac2cf0/index.m3u8",
+          "url": "https://out-of-touch.b-cdn.net/out/v2/95780e3db403b88783afd6a7100e204d/index.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/nascar",
           "headers": {
@@ -4404,7 +4564,7 @@
       ]
     }
   },
-  "stream_count": 42,
+  "stream_count": 44,
   "notes": [
     "Playlist header tags are player hints. Browser CORS requires a server-side proxy."
   ]
