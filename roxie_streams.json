@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-06-28T21:17:21+00:00",
+  "scraped_at": "2026-06-28T22:31:44+00:00",
   "base_url": "https://roxiestreams.su",
   "domains": [
     "shadow-ran.online"
@@ -974,6 +974,34 @@
         "streams": [
           {
             "label": "Stream 1",
+            "url": "https://602.shadow-ran.online/aew.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.su/aew",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "602",
+            "path": "aew.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.su/aew",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "aew",
+            "event_title": "Stream 1",
+            "matchup": null,
+            "display_name": "Stream 1"
+          }
+        ]
+      },
+      {
+        "title": "Stream 2",
+        "sport": "aew",
+        "matchup": null,
+        "page": "https://roxiestreams.su/aew",
+        "streams": [
+          {
+            "label": "Stream 2",
             "url": "https://daffodil.shadow-ran.online/aew.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/aew",
@@ -988,9 +1016,9 @@
             },
             "drm_keys": null,
             "sport": "aew",
-            "event_title": "Stream 1",
+            "event_title": "Stream 2",
             "matchup": null,
-            "display_name": "Stream 1"
+            "display_name": "Stream 2"
           }
         ]
       }
@@ -3230,6 +3258,7 @@
         "Stream Request (Discord)",
         "MultiView (NEW)",
         "Stream 1",
+        "Stream 2",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -4323,6 +4352,26 @@
       "streams": [
         {
           "label": "Stream 1",
+          "url": "https://602.shadow-ran.online/aew.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.su/aew",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "602",
+          "path": "aew.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.su/aew",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "aew",
+          "event_title": "Stream 1",
+          "matchup": null,
+          "display_name": "Stream 1"
+        },
+        {
+          "label": "Stream 2",
           "url": "https://daffodil.shadow-ran.online/aew.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/aew",
@@ -4337,9 +4386,9 @@
           },
           "drm_keys": null,
           "sport": "aew",
-          "event_title": "Stream 1",
+          "event_title": "Stream 2",
           "matchup": null,
-          "display_name": "Stream 1"
+          "display_name": "Stream 2"
         }
       ]
     },
@@ -4565,7 +4614,7 @@
       ]
     }
   },
-  "stream_count": 44,
+  "stream_count": 45,
   "notes": [
     "Playlist header tags are player hints. Browser CORS requires a server-side proxy."
   ]
