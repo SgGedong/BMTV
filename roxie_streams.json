@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-06-29T18:23:44+00:00",
+  "scraped_at": "2026-06-29T20:25:14+00:00",
   "base_url": "https://roxiestreams.su",
   "domains": [
     "shadow-ran.online"
@@ -121,11 +121,11 @@
           },
           {
             "label": "العربية",
-            "url": "https://ataide0.shadow-ran.online/bein.m3u8",
+            "url": "https://602.shadow-ran.online/bein.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-1",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "ataide0",
+            "subdomain": "602",
             "path": "bein.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/soccer-streams-1",
@@ -1000,7 +1000,7 @@
         "FOX (FHD)",
         "TELEMUNDO",
         "Tele (Peacock)",
-        "CTV PC DIRECT",
+        "PC ONLY (DIRECT)",
         "العربية",
         "TSN PC DIRECT VPN",
         "Switch to Chatango",
@@ -2855,11 +2855,11 @@
         },
         {
           "label": "العربية",
-          "url": "https://ataide0.shadow-ran.online/bein.m3u8",
+          "url": "https://602.shadow-ran.online/bein.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-1",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "ataide0",
+          "subdomain": "602",
           "path": "bein.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/soccer-streams-1",
