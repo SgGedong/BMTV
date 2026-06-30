@@ -1,46 +1,46 @@
 #EXTM3U
-# RoxieStreams Playlist - generated 2026-06-30T09:46:13+00:00
+# RoxieStreams Playlist - generated 2026-06-30T10:06:15+00:00
 # Source: https://roxiestreams.su
 
-#EXTINF:-1 tvg-name="Netherlands vs Morocco - TSN" group-title="SOCCER - Netherlands vs Morocco",Netherlands vs Morocco - TSN
-#EXTGRP:SOCCER - Netherlands vs Morocco
-#EXTDESC:Netherlands vs Morocco
+#EXTINF:-1 tvg-name="Mexico vs Ecuador - TSN" group-title="SOCCER - Mexico vs Ecuador",Mexico vs Ecuador - TSN
+#EXTGRP:SOCCER - Mexico vs Ecuador
+#EXTDESC:Mexico vs Ecuador
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/soccer-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.su%2Fsoccer-streams-1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
 #EXTHTTP:{"Referer":"https://roxiestreams.su/soccer-streams-1","Origin":"https://roxiestreams.su","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
 https://602.shadow-ran.online/tsn.m3u8
 
-#EXTINF:-1 tvg-name="Netherlands vs Morocco - FOX (ALT)" group-title="SOCCER - Netherlands vs Morocco",Netherlands vs Morocco - FOX (ALT)
-#EXTGRP:SOCCER - Netherlands vs Morocco
-#EXTDESC:Netherlands vs Morocco
+#EXTINF:-1 tvg-name="Mexico vs Ecuador - FOX (ALT)" group-title="SOCCER - Mexico vs Ecuador",Mexico vs Ecuador - FOX (ALT)
+#EXTGRP:SOCCER - Mexico vs Ecuador
+#EXTDESC:Mexico vs Ecuador
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/soccer-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.su%2Fsoccer-streams-1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
 #EXTHTTP:{"Referer":"https://roxiestreams.su/soccer-streams-1","Origin":"https://roxiestreams.su","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
 https://602.shadow-ran.online/foxalt.m3u8
 
-#EXTINF:-1 tvg-name="Netherlands vs Morocco - FOX (FHD)" group-title="SOCCER - Netherlands vs Morocco",Netherlands vs Morocco - FOX (FHD)
-#EXTGRP:SOCCER - Netherlands vs Morocco
-#EXTDESC:Netherlands vs Morocco
+#EXTINF:-1 tvg-name="Mexico vs Ecuador - FOX (FHD)" group-title="SOCCER - Mexico vs Ecuador",Mexico vs Ecuador - FOX (FHD)
+#EXTGRP:SOCCER - Mexico vs Ecuador
+#EXTDESC:Mexico vs Ecuador
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/soccer-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.su%2Fsoccer-streams-1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
 #EXTHTTP:{"Referer":"https://roxiestreams.su/soccer-streams-1","Origin":"https://roxiestreams.su","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
 https://602.shadow-ran.online/fox.m3u8
 
-#EXTINF:-1 tvg-name="Netherlands vs Morocco - TELEMUNDO" group-title="SOCCER - Netherlands vs Morocco",Netherlands vs Morocco - TELEMUNDO
-#EXTGRP:SOCCER - Netherlands vs Morocco
-#EXTDESC:Netherlands vs Morocco
+#EXTINF:-1 tvg-name="Mexico vs Ecuador - TELEMUNDO" group-title="SOCCER - Mexico vs Ecuador",Mexico vs Ecuador - TELEMUNDO
+#EXTGRP:SOCCER - Mexico vs Ecuador
+#EXTDESC:Mexico vs Ecuador
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/soccer-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.su%2Fsoccer-streams-1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
 #EXTHTTP:{"Referer":"https://roxiestreams.su/soccer-streams-1","Origin":"https://roxiestreams.su","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
 https://daffodil.shadow-ran.online/tele.m3u8
 
-#EXTINF:-1 tvg-name="Netherlands vs Morocco - العربية" group-title="SOCCER - Netherlands vs Morocco",Netherlands vs Morocco - العربية
-#EXTGRP:SOCCER - Netherlands vs Morocco
-#EXTDESC:Netherlands vs Morocco
+#EXTINF:-1 tvg-name="Mexico vs Ecuador - العربية" group-title="SOCCER - Mexico vs Ecuador",Mexico vs Ecuador - العربية
+#EXTGRP:SOCCER - Mexico vs Ecuador
+#EXTDESC:Mexico vs Ecuador
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/soccer-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.su%2Fsoccer-streams-1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36

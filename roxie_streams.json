@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-06-30T09:46:13+00:00",
+  "scraped_at": "2026-06-30T10:06:15+00:00",
   "base_url": "https://roxiestreams.su",
   "domains": [
     "shadow-ran.online"
@@ -8,22 +8,22 @@
     {
       "name": "World Cup",
       "page": "https://roxiestreams.su/soccer-streams-1",
-      "start_time": "June 29, 2026 10:00 AM"
+      "start_time": "June 30, 2026 10:00 AM"
     },
     {
-      "name": "WWE RAW",
+      "name": "WWE NXT",
       "page": "https://roxiestreams.su/wwe-streams",
-      "start_time": "June 29, 2026 3:00 PM"
+      "start_time": "June 30, 2026 5:00 PM"
     }
   ],
   "events_by_sport": {
     "soccer": [
       {
-        "title": "Netherlands vs Morocco",
+        "title": "Mexico vs Ecuador",
         "sport": "soccer",
         "matchup": {
-          "home": "Netherlands",
-          "away": "Morocco"
+          "home": "Mexico",
+          "away": "Ecuador"
         },
         "page": "https://roxiestreams.su/soccer-streams-1",
         "streams": [
@@ -43,12 +43,12 @@
             },
             "drm_keys": null,
             "sport": "soccer",
-            "event_title": "Netherlands vs Morocco",
+            "event_title": "Mexico vs Ecuador",
             "matchup": {
-              "home": "Netherlands",
-              "away": "Morocco"
+              "home": "Mexico",
+              "away": "Ecuador"
             },
-            "display_name": "Netherlands vs Morocco - TSN"
+            "display_name": "Mexico vs Ecuador - TSN"
           },
           {
             "label": "FOX (ALT)",
@@ -66,12 +66,12 @@
             },
             "drm_keys": null,
             "sport": "soccer",
-            "event_title": "Netherlands vs Morocco",
+            "event_title": "Mexico vs Ecuador",
             "matchup": {
-              "home": "Netherlands",
-              "away": "Morocco"
+              "home": "Mexico",
+              "away": "Ecuador"
             },
-            "display_name": "Netherlands vs Morocco - FOX (ALT)"
+            "display_name": "Mexico vs Ecuador - FOX (ALT)"
           },
           {
             "label": "FOX (FHD)",
@@ -89,12 +89,12 @@
             },
             "drm_keys": null,
             "sport": "soccer",
-            "event_title": "Netherlands vs Morocco",
+            "event_title": "Mexico vs Ecuador",
             "matchup": {
-              "home": "Netherlands",
-              "away": "Morocco"
+              "home": "Mexico",
+              "away": "Ecuador"
             },
-            "display_name": "Netherlands vs Morocco - FOX (FHD)"
+            "display_name": "Mexico vs Ecuador - FOX (FHD)"
           },
           {
             "label": "TELEMUNDO",
@@ -112,12 +112,12 @@
             },
             "drm_keys": null,
             "sport": "soccer",
-            "event_title": "Netherlands vs Morocco",
+            "event_title": "Mexico vs Ecuador",
             "matchup": {
-              "home": "Netherlands",
-              "away": "Morocco"
+              "home": "Mexico",
+              "away": "Ecuador"
             },
-            "display_name": "Netherlands vs Morocco - TELEMUNDO"
+            "display_name": "Mexico vs Ecuador - TELEMUNDO"
           },
           {
             "label": "العربية",
@@ -135,12 +135,12 @@
             },
             "drm_keys": null,
             "sport": "soccer",
-            "event_title": "Netherlands vs Morocco",
+            "event_title": "Mexico vs Ecuador",
             "matchup": {
-              "home": "Netherlands",
-              "away": "Morocco"
+              "home": "Mexico",
+              "away": "Ecuador"
             },
-            "display_name": "Netherlands vs Morocco - العربية"
+            "display_name": "Mexico vs Ecuador - العربية"
           }
         ]
       }
@@ -978,9 +978,9 @@
         "Motorsports",
         "Stream Request (Discord)",
         "MultiView (NEW)",
-        "Brazil vs Japan",
-        "Germany vs Paraguay",
-        "Netherlands vs Morocco",
+        "Norway vs Ivory Coast",
+        "France vs Sweden",
+        "Mexico vs Ecuador",
         "Stream Request (Discord)"
       ],
       "links": [
@@ -1025,15 +1025,15 @@
           "url": "https://roxiestreams.su/multiview"
         },
         {
-          "label": "Brazil vs Japan",
+          "label": "Norway vs Ivory Coast",
           "url": "https://roxiestreams.su/soccer-streams-1"
         },
         {
-          "label": "Germany vs Paraguay",
+          "label": "France vs Sweden",
           "url": "https://roxiestreams.su/soccer-streams-1"
         },
         {
-          "label": "Netherlands vs Morocco",
+          "label": "Mexico vs Ecuador",
           "url": "https://roxiestreams.su/soccer-streams-1"
         },
         {
@@ -2600,7 +2600,6 @@
         "Motorsports",
         "Stream Request (Discord)",
         "MultiView (NEW)",
-        "WWE RAW",
         "WWE NXT",
         "AEW",
         "Stream Request (Discord)"
@@ -2645,10 +2644,6 @@
         {
           "label": "MultiView (NEW)",
           "url": "https://roxiestreams.su/multiview"
-        },
-        {
-          "label": "WWE RAW",
-          "url": "https://roxiestreams.su/wwe-streams"
         },
         {
           "label": "WWE NXT",
@@ -2982,12 +2977,12 @@
           },
           "drm_keys": null,
           "sport": "soccer",
-          "event_title": "Netherlands vs Morocco",
+          "event_title": "Mexico vs Ecuador",
           "matchup": {
-            "home": "Netherlands",
-            "away": "Morocco"
+            "home": "Mexico",
+            "away": "Ecuador"
           },
-          "display_name": "Netherlands vs Morocco - TSN"
+          "display_name": "Mexico vs Ecuador - TSN"
         },
         {
           "label": "FOX (ALT)",
@@ -3005,12 +3000,12 @@
           },
           "drm_keys": null,
           "sport": "soccer",
-          "event_title": "Netherlands vs Morocco",
+          "event_title": "Mexico vs Ecuador",
           "matchup": {
-            "home": "Netherlands",
-            "away": "Morocco"
+            "home": "Mexico",
+            "away": "Ecuador"
           },
-          "display_name": "Netherlands vs Morocco - FOX (ALT)"
+          "display_name": "Mexico vs Ecuador - FOX (ALT)"
         },
         {
           "label": "FOX (FHD)",
@@ -3028,12 +3023,12 @@
           },
           "drm_keys": null,
           "sport": "soccer",
-          "event_title": "Netherlands vs Morocco",
+          "event_title": "Mexico vs Ecuador",
           "matchup": {
-            "home": "Netherlands",
-            "away": "Morocco"
+            "home": "Mexico",
+            "away": "Ecuador"
           },
-          "display_name": "Netherlands vs Morocco - FOX (FHD)"
+          "display_name": "Mexico vs Ecuador - FOX (FHD)"
         },
         {
           "label": "TELEMUNDO",
@@ -3051,12 +3046,12 @@
           },
           "drm_keys": null,
           "sport": "soccer",
-          "event_title": "Netherlands vs Morocco",
+          "event_title": "Mexico vs Ecuador",
           "matchup": {
-            "home": "Netherlands",
-            "away": "Morocco"
+            "home": "Mexico",
+            "away": "Ecuador"
           },
-          "display_name": "Netherlands vs Morocco - TELEMUNDO"
+          "display_name": "Mexico vs Ecuador - TELEMUNDO"
         },
         {
           "label": "العربية",
@@ -3074,12 +3069,12 @@
           },
           "drm_keys": null,
           "sport": "soccer",
-          "event_title": "Netherlands vs Morocco",
+          "event_title": "Mexico vs Ecuador",
           "matchup": {
-            "home": "Netherlands",
-            "away": "Morocco"
+            "home": "Mexico",
+            "away": "Ecuador"
           },
-          "display_name": "Netherlands vs Morocco - العربية"
+          "display_name": "Mexico vs Ecuador - العربية"
         }
       ]
     },
