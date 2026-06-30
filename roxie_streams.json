@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-06-30T15:14:46+00:00",
+  "scraped_at": "2026-06-30T16:05:55+00:00",
   "base_url": "https://roxiestreams.su",
   "domains": [
     "shadow-ran.online"
@@ -29,11 +29,11 @@
         "streams": [
           {
             "label": "TSN",
-            "url": "https://602.shadow-ran.online/tsn.m3u8",
+            "url": "https://ataide0.shadow-ran.online/tsn.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-1",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "602",
+            "subdomain": "ataide0",
             "path": "tsn.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/soccer-streams-1",
@@ -121,12 +121,12 @@
           },
           {
             "label": "العربية",
-            "url": "https://602.shadow-ran.online/bein.m3u8",
+            "url": "https://ataide0.shadow-ran.online/bein1.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-1",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "602",
-            "path": "bein.m3u8",
+            "subdomain": "ataide0",
+            "path": "bein1.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/soccer-streams-1",
               "Origin": "https://roxiestreams.su",
@@ -2963,11 +2963,11 @@
       "streams": [
         {
           "label": "TSN",
-          "url": "https://602.shadow-ran.online/tsn.m3u8",
+          "url": "https://ataide0.shadow-ran.online/tsn.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-1",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "602",
+          "subdomain": "ataide0",
           "path": "tsn.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/soccer-streams-1",
@@ -3055,12 +3055,12 @@
         },
         {
           "label": "العربية",
-          "url": "https://602.shadow-ran.online/bein.m3u8",
+          "url": "https://ataide0.shadow-ran.online/bein1.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-1",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "602",
-          "path": "bein.m3u8",
+          "subdomain": "ataide0",
+          "path": "bein1.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/soccer-streams-1",
             "Origin": "https://roxiestreams.su",
