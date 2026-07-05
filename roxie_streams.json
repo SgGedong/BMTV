@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-04T23:36:24+00:00",
+  "scraped_at": "2026-07-05T05:12:36+00:00",
   "base_url": "https://roxiestreams.su",
   "domains": [
     "shadow-ran.online"
@@ -923,6 +923,29 @@
             "display_name": "Mason vs. Bell: The Fight - Stream 1"
           },
           {
+            "label": "Stream 2",
+            "url": "https://tedesco.shadow-ran.online/dazn.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.su/ppv-streams-1",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "tedesco",
+            "path": "dazn.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.su/ppv-streams-1",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "fighting",
+            "event_title": "Mason vs. Bell: The Fight",
+            "matchup": {
+              "home": "Mason",
+              "away": "Bell: The Fight"
+            },
+            "display_name": "Mason vs. Bell: The Fight - Stream 2"
+          },
+          {
             "label": "ppv.m3u8",
             "url": "https://daffodil.shadow-ran.online/ppv.m3u8",
             "type": "m3u8",
@@ -1147,6 +1170,29 @@
             "display_name": "Mason vs. Bell: The Fight - Stream 1"
           },
           {
+            "label": "Stream 2",
+            "url": "https://tedesco.shadow-ran.online/dazn.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.su/ppv-streams-1",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "tedesco",
+            "path": "dazn.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.su/ppv-streams-1",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "ppv",
+            "event_title": "Mason vs. Bell: The Fight",
+            "matchup": {
+              "home": "Mason",
+              "away": "Bell: The Fight"
+            },
+            "display_name": "Mason vs. Bell: The Fight - Stream 2"
+          },
+          {
             "label": "ppv.m3u8",
             "url": "https://daffodil.shadow-ran.online/ppv.m3u8",
             "type": "m3u8",
@@ -1273,6 +1319,7 @@
         "PC ONLY (DIRECT)",
         "العربية",
         "TSN PC DIRECT VPN",
+        "WCTV PC DIRECT",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -2963,6 +3010,7 @@
         "Stream Request (Discord)",
         "MultiView (NEW)",
         "Stream 1",
+        "Stream 2",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -4104,6 +4152,29 @@
           "display_name": "Mason vs. Bell: The Fight - Stream 1"
         },
         {
+          "label": "Stream 2",
+          "url": "https://tedesco.shadow-ran.online/dazn.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.su/ppv-streams-1",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "tedesco",
+          "path": "dazn.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.su/ppv-streams-1",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "fighting",
+          "event_title": "Mason vs. Bell: The Fight",
+          "matchup": {
+            "home": "Mason",
+            "away": "Bell: The Fight"
+          },
+          "display_name": "Mason vs. Bell: The Fight - Stream 2"
+        },
+        {
           "label": "ppv.m3u8",
           "url": "https://daffodil.shadow-ran.online/ppv.m3u8",
           "type": "m3u8",
@@ -4307,6 +4378,29 @@
           "display_name": "Mason vs. Bell: The Fight - Stream 1"
         },
         {
+          "label": "Stream 2",
+          "url": "https://tedesco.shadow-ran.online/dazn.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.su/ppv-streams-1",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "tedesco",
+          "path": "dazn.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.su/ppv-streams-1",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "ppv",
+          "event_title": "Mason vs. Bell: The Fight",
+          "matchup": {
+            "home": "Mason",
+            "away": "Bell: The Fight"
+          },
+          "display_name": "Mason vs. Bell: The Fight - Stream 2"
+        },
+        {
           "label": "ppv.m3u8",
           "url": "https://daffodil.shadow-ran.online/ppv.m3u8",
           "type": "m3u8",
@@ -4332,7 +4426,7 @@
       ]
     }
   },
-  "stream_count": 40,
+  "stream_count": 42,
   "notes": [
     "Playlist header tags are player hints. Browser CORS requires a server-side proxy."
   ]
