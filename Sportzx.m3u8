@@ -1321,3 +1321,9 @@ http://198.195.239.50:8095/tsports/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="canadavsmorocco2100somoytvhd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Canada vs Morocco 21:00 (SOMOY TV HD)
 http://198.195.239.50:8095/somoyTv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="bucksvsbrooklynnets2000hdserver" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Nba",Bucks vs Brooklyn Nets 20:00 (HD SERVER)
+https://instreams.pro/US/NBA1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="lakersvsmiamiheat2130hdserver" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Nba",Lakers vs Miami Heat 21:30 (HD SERVER)
+https://instreams.pro/US/NBA2/tracks-v1a1/mono.m3u8
