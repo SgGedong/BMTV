@@ -1,34 +1,29 @@
 {
-  "scraped_at": "2026-07-05T08:20:18+00:00",
+  "scraped_at": "2026-07-05T10:05:43+00:00",
   "base_url": "https://roxiestreams.su",
   "domains": [
     "shadow-ran.online"
   ],
   "events": [
     {
-      "name": "Formula 1",
+      "name": "Formula 1 - British Grand Prix",
       "page": "https://roxiestreams.su/f1",
-      "start_time": "July 4, 2026 4:30 AM"
+      "start_time": "July 5, 2026 7:00 AM"
     },
     {
-      "name": "AMA Motocross",
-      "page": "https://roxiestreams.su/supercross",
-      "start_time": "July 4, 2026 7:00 AM"
+      "name": "NBA Summer League",
+      "page": "https://roxiestreams.su/nba",
+      "start_time": "July 5, 2026 12:00 PM"
     },
     {
       "name": "World Cup",
       "page": "https://roxiestreams.su/soccer-streams-1",
-      "start_time": "July 4, 2026 10:00 AM"
+      "start_time": "July 5, 2026 1:00 PM"
     },
     {
-      "name": "NBA Summer League",
-      "page": "https://roxiestreams.su/nba-streams-1",
-      "start_time": "July 4, 2026 12:00 PM"
-    },
-    {
-      "name": "Mason vs. Bell",
-      "page": "https://roxiestreams.su/ppv-streams-1",
-      "start_time": "July 4, 2026 4:00 PM"
+      "name": "NASCAR Cup Series - Race",
+      "page": "https://roxiestreams.su/nascar",
+      "start_time": "July 5, 2026 3:10 PM"
     }
   ],
   "events_by_sport": {
@@ -704,11 +699,11 @@
     ],
     "nba": [
       {
-        "title": "Atlanta Hawks vs Utah Jazz",
+        "title": "San Antonio Spurs vs Golden State Warriors",
         "sport": "nba",
         "matchup": {
-          "home": "Atlanta Hawks",
-          "away": "Utah Jazz"
+          "home": "San Antonio Spurs",
+          "away": "Golden State Warriors"
         },
         "page": "https://roxiestreams.su/nba-streams-1",
         "streams": [
@@ -728,12 +723,12 @@
             },
             "drm_keys": null,
             "sport": "nba",
-            "event_title": "Atlanta Hawks vs Utah Jazz",
+            "event_title": "San Antonio Spurs vs Golden State Warriors",
             "matchup": {
-              "home": "Atlanta Hawks",
-              "away": "Utah Jazz"
+              "home": "San Antonio Spurs",
+              "away": "Golden State Warriors"
             },
-            "display_name": "Atlanta Hawks vs Utah Jazz - Stream 1"
+            "display_name": "San Antonio Spurs vs Golden State Warriors - Stream 1"
           },
           {
             "label": "nba.m3u8",
@@ -751,21 +746,21 @@
             },
             "drm_keys": null,
             "sport": "nba",
-            "event_title": "Atlanta Hawks vs Utah Jazz",
+            "event_title": "San Antonio Spurs vs Golden State Warriors",
             "matchup": {
-              "home": "Atlanta Hawks",
-              "away": "Utah Jazz"
+              "home": "San Antonio Spurs",
+              "away": "Golden State Warriors"
             },
-            "display_name": "Atlanta Hawks vs Utah Jazz - nba.m3u8"
+            "display_name": "San Antonio Spurs vs Golden State Warriors - nba.m3u8"
           }
         ]
       },
       {
-        "title": "Brooklyn Nets vs Sacramento Kings",
+        "title": "Miami Heat vs Los Angeles Lakers",
         "sport": "nba",
         "matchup": {
-          "home": "Brooklyn Nets",
-          "away": "Sacramento Kings"
+          "home": "Miami Heat",
+          "away": "Los Angeles Lakers"
         },
         "page": "https://roxiestreams.su/nba-streams-2",
         "streams": [
@@ -785,12 +780,12 @@
             },
             "drm_keys": null,
             "sport": "nba",
-            "event_title": "Brooklyn Nets vs Sacramento Kings",
+            "event_title": "Miami Heat vs Los Angeles Lakers",
             "matchup": {
-              "home": "Brooklyn Nets",
-              "away": "Sacramento Kings"
+              "home": "Miami Heat",
+              "away": "Los Angeles Lakers"
             },
-            "display_name": "Brooklyn Nets vs Sacramento Kings - Stream 1"
+            "display_name": "Miami Heat vs Los Angeles Lakers - Stream 1"
           },
           {
             "label": "nba2.m3u8",
@@ -808,12 +803,12 @@
             },
             "drm_keys": null,
             "sport": "nba",
-            "event_title": "Brooklyn Nets vs Sacramento Kings",
+            "event_title": "Miami Heat vs Los Angeles Lakers",
             "matchup": {
-              "home": "Brooklyn Nets",
-              "away": "Sacramento Kings"
+              "home": "Miami Heat",
+              "away": "Los Angeles Lakers"
             },
-            "display_name": "Brooklyn Nets vs Sacramento Kings - nba2.m3u8"
+            "display_name": "Miami Heat vs Los Angeles Lakers - nba2.m3u8"
           }
         ]
       }
@@ -1061,13 +1056,13 @@
     "multiview": [],
     "f1": [
       {
-        "title": "Formula 1",
+        "title": "Formula 1 - British Grand Prix",
         "sport": "f1",
         "matchup": null,
         "page": "https://roxiestreams.su/f1",
         "streams": [
           {
-            "label": "Stream 1",
+            "label": "Sky Sports",
             "url": "https://admin.shadow-ran.online/f1.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/f1",
@@ -1082,9 +1077,49 @@
             },
             "drm_keys": null,
             "sport": "f1",
-            "event_title": "Formula 1",
+            "event_title": "Formula 1 - British Grand Prix",
             "matchup": null,
-            "display_name": "Formula 1 - Stream 1"
+            "display_name": "Formula 1 - British Grand Prix - Sky Sports"
+          },
+          {
+            "label": "F1 TV",
+            "url": "https://tedesco.shadow-ran.online/f1.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.su/f1",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "tedesco",
+            "path": "f1.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.su/f1",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "f1",
+            "event_title": "Formula 1 - British Grand Prix",
+            "matchup": null,
+            "display_name": "Formula 1 - British Grand Prix - F1 TV"
+          },
+          {
+            "label": "TSN",
+            "url": "https://tedesco.shadow-ran.online/tsn.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.su/f1",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "tedesco",
+            "path": "tsn.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.su/f1",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "f1",
+            "event_title": "Formula 1 - British Grand Prix",
+            "matchup": null,
+            "display_name": "Formula 1 - British Grand Prix - TSN"
           },
           {
             "label": "f1.m3u8",
@@ -1102,118 +1137,53 @@
             },
             "drm_keys": null,
             "sport": "f1",
-            "event_title": "Formula 1",
+            "event_title": "Formula 1 - British Grand Prix",
             "matchup": null,
-            "display_name": "Formula 1 - f1.m3u8"
+            "display_name": "Formula 1 - British Grand Prix - f1.m3u8"
           }
         ]
       }
     ],
-    "supercross": [
+    "nascar": [
       {
-        "title": "AMA Motocross",
-        "sport": "supercross",
+        "title": "NASCAR Cup Series - Race",
+        "sport": "nascar",
         "matchup": null,
-        "page": "https://roxiestreams.su/supercross",
+        "page": "https://roxiestreams.su/nascar",
         "streams": [
           {
             "label": "Direct Link",
-            "url": "https://admin.formaturamaxi.com.br/sx.m3u8",
+            "url": "https://tedesco.formaturamaxi.com.br/tsn.m3u8",
             "type": "m3u8",
-            "source_page": "https://roxiestreams.su/supercross",
+            "source_page": "https://roxiestreams.su/nascar",
             "headers": {
-              "Referer": "https://roxiestreams.su/supercross",
+              "Referer": "https://roxiestreams.su/nascar",
               "Origin": "https://roxiestreams.su",
               "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
               "Accept": "*/*"
             },
             "drm_keys": null,
-            "sport": "supercross",
-            "event_title": "AMA Motocross",
+            "sport": "nascar",
+            "event_title": "NASCAR Cup Series - Race",
             "matchup": null,
-            "display_name": "AMA Motocross"
-          }
-        ]
-      }
-    ],
-    "ppv": [
-      {
-        "title": "Mason vs. Bell: The Fight",
-        "sport": "ppv",
-        "matchup": {
-          "home": "Mason",
-          "away": "Bell: The Fight"
-        },
-        "page": "https://roxiestreams.su/ppv-streams-1",
-        "streams": [
-          {
-            "label": "Stream 1",
-            "url": "https://admin.shadow-ran.online/ppv.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.su/ppv-streams-1",
-            "cdn_domain": "shadow-ran.online",
-            "subdomain": "admin",
-            "path": "ppv.m3u8",
-            "headers": {
-              "Referer": "https://roxiestreams.su/ppv-streams-1",
-              "Origin": "https://roxiestreams.su",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "ppv",
-            "event_title": "Mason vs. Bell: The Fight",
-            "matchup": {
-              "home": "Mason",
-              "away": "Bell: The Fight"
-            },
-            "display_name": "Mason vs. Bell: The Fight - Stream 1"
+            "display_name": "NASCAR Cup Series - Race"
           },
           {
-            "label": "Stream 2",
-            "url": "https://tedesco.shadow-ran.online/dazn.m3u8",
+            "label": "Direct Link",
+            "url": "https://out-of-touch.b-cdn.net/out/v2/8fb73e443bc4390c16de753221ca86e1/index.m3u8",
             "type": "m3u8",
-            "source_page": "https://roxiestreams.su/ppv-streams-1",
-            "cdn_domain": "shadow-ran.online",
-            "subdomain": "tedesco",
-            "path": "dazn.m3u8",
+            "source_page": "https://roxiestreams.su/nascar",
             "headers": {
-              "Referer": "https://roxiestreams.su/ppv-streams-1",
+              "Referer": "https://roxiestreams.su/nascar",
               "Origin": "https://roxiestreams.su",
               "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
               "Accept": "*/*"
             },
             "drm_keys": null,
-            "sport": "ppv",
-            "event_title": "Mason vs. Bell: The Fight",
-            "matchup": {
-              "home": "Mason",
-              "away": "Bell: The Fight"
-            },
-            "display_name": "Mason vs. Bell: The Fight - Stream 2"
-          },
-          {
-            "label": "ppv.m3u8",
-            "url": "https://daffodil.shadow-ran.online/ppv.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.su/ppv-streams-1",
-            "cdn_domain": "shadow-ran.online",
-            "subdomain": "daffodil",
-            "path": "ppv.m3u8",
-            "headers": {
-              "Referer": "https://roxiestreams.su/ppv-streams-1",
-              "Origin": "https://roxiestreams.su",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "ppv",
-            "event_title": "Mason vs. Bell: The Fight",
-            "matchup": {
-              "home": "Mason",
-              "away": "Bell: The Fight"
-            },
-            "display_name": "Mason vs. Bell: The Fight - ppv.m3u8"
+            "sport": "nascar",
+            "event_title": "NASCAR Cup Series - Race",
+            "matchup": null,
+            "display_name": "NASCAR Cup Series - Race"
           }
         ]
       }
@@ -2518,10 +2488,10 @@
         "Motorsports",
         "Stream Request (Discord)",
         "MultiView (NEW)",
-        "Memphis Grizzlies vs Oklahoma City Thunder",
-        "Milwaukee Bucks vs Golden State Warriors",
-        "Atlanta Hawks vs Utah Jazz",
-        "Brooklyn Nets vs Sacramento Kings",
+        "Brooklyn Nets vs Milwaukee Bucks",
+        "Miami Heat vs Los Angeles Lakers",
+        "Golden State Warriors vs Sacramento Kings",
+        "San Antonio Spurs vs Golden State Warriors",
         "Stream Request (Discord)"
       ],
       "links": [
@@ -2566,20 +2536,20 @@
           "url": "https://roxiestreams.su/multiview"
         },
         {
-          "label": "Memphis Grizzlies vs Oklahoma City Thunder",
+          "label": "Brooklyn Nets vs Milwaukee Bucks",
           "url": "https://roxiestreams.su/nba-streams-1"
         },
         {
-          "label": "Milwaukee Bucks vs Golden State Warriors",
+          "label": "Miami Heat vs Los Angeles Lakers",
           "url": "https://roxiestreams.su/nba-streams-2"
         },
         {
-          "label": "Atlanta Hawks vs Utah Jazz",
+          "label": "Golden State Warriors vs Sacramento Kings",
           "url": "https://roxiestreams.su/nba-streams-1"
         },
         {
-          "label": "Brooklyn Nets vs Sacramento Kings",
-          "url": "https://roxiestreams.su/nba-streams-2"
+          "label": "San Antonio Spurs vs Golden State Warriors",
+          "url": "https://roxiestreams.su/nba-streams-1"
         },
         {
           "label": "Stream Request (Discord)",
@@ -3078,13 +3048,11 @@
         "Motorsports",
         "Stream Request (Discord)",
         "MultiView (NEW)",
-        "INDY NXT - Coverage",
-        "AMA Motocross - Qualifying",
-        "Indycar Series - Free Practice",
-        "Formula 1 - Qualifying",
-        "AMA Motocross - Race",
-        "NASCAR O'Reilly Auto Parts Series - Race",
-        "8 Hours of Suzuka",
+        "MXGP (MX2) - Coverage",
+        "MXGP - Coverage",
+        "Formula 1 - British Grand Prix",
+        "Indycar Series - Honda Indy 200",
+        "NASCAR Cup Series - Race",
         "Stream Request (Discord)"
       ],
       "links": [
@@ -3129,32 +3097,24 @@
           "url": "https://roxiestreams.su/multiview"
         },
         {
-          "label": "INDY NXT - Coverage",
-          "url": "https://roxiestreams.su/indycar"
+          "label": "MXGP (MX2) - Coverage",
+          "url": "https://roxiestreams.su/mxgp"
         },
         {
-          "label": "AMA Motocross - Qualifying",
-          "url": "https://roxiestreams.su/supercross"
+          "label": "MXGP - Coverage",
+          "url": "https://roxiestreams.su/mxgp"
         },
         {
-          "label": "Indycar Series - Free Practice",
-          "url": "https://roxiestreams.su/indycar"
-        },
-        {
-          "label": "Formula 1 - Qualifying",
+          "label": "Formula 1 - British Grand Prix",
           "url": "https://roxiestreams.su/f1"
         },
         {
-          "label": "AMA Motocross - Race",
-          "url": "https://roxiestreams.su/supercross"
+          "label": "Indycar Series - Honda Indy 200",
+          "url": "https://roxiestreams.su/indycar"
         },
         {
-          "label": "NASCAR O'Reilly Auto Parts Series - Race",
+          "label": "NASCAR Cup Series - Race",
           "url": "https://roxiestreams.su/nascar"
-        },
-        {
-          "label": "8 Hours of Suzuka",
-          "url": "https://roxiestreams.su/wec"
         },
         {
           "label": "Stream Request (Discord)",
@@ -3308,7 +3268,9 @@
         "Motorsports",
         "Stream Request (Discord)",
         "MultiView (NEW)",
-        "Stream 1",
+        "Sky Sports",
+        "F1 TV",
+        "TSN",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -3359,8 +3321,8 @@
         }
       ]
     },
-    "https://roxiestreams.su/supercross": {
-      "url": "https://roxiestreams.su/supercross",
+    "https://roxiestreams.su/nascar": {
+      "url": "https://roxiestreams.su/nascar",
       "title": "Roxiestreams - Watch Live Sports, F1, UFC, NFL, TV",
       "headings": [],
       "controls": [
@@ -3375,6 +3337,7 @@
         "Stream Request (Discord)",
         "MultiView (NEW)",
         "Stream 1",
+        "Stream 2 (International)",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -3970,12 +3933,12 @@
           },
           "drm_keys": null,
           "sport": "nba",
-          "event_title": "Atlanta Hawks vs Utah Jazz",
+          "event_title": "San Antonio Spurs vs Golden State Warriors",
           "matchup": {
-            "home": "Atlanta Hawks",
-            "away": "Utah Jazz"
+            "home": "San Antonio Spurs",
+            "away": "Golden State Warriors"
           },
-          "display_name": "Atlanta Hawks vs Utah Jazz - Stream 1"
+          "display_name": "San Antonio Spurs vs Golden State Warriors - Stream 1"
         },
         {
           "label": "nba.m3u8",
@@ -3993,12 +3956,12 @@
           },
           "drm_keys": null,
           "sport": "nba",
-          "event_title": "Atlanta Hawks vs Utah Jazz",
+          "event_title": "San Antonio Spurs vs Golden State Warriors",
           "matchup": {
-            "home": "Atlanta Hawks",
-            "away": "Utah Jazz"
+            "home": "San Antonio Spurs",
+            "away": "Golden State Warriors"
           },
-          "display_name": "Atlanta Hawks vs Utah Jazz - nba.m3u8"
+          "display_name": "San Antonio Spurs vs Golden State Warriors - nba.m3u8"
         },
         {
           "label": "Stream 1",
@@ -4016,12 +3979,12 @@
           },
           "drm_keys": null,
           "sport": "nba",
-          "event_title": "Brooklyn Nets vs Sacramento Kings",
+          "event_title": "Miami Heat vs Los Angeles Lakers",
           "matchup": {
-            "home": "Brooklyn Nets",
-            "away": "Sacramento Kings"
+            "home": "Miami Heat",
+            "away": "Los Angeles Lakers"
           },
-          "display_name": "Brooklyn Nets vs Sacramento Kings - Stream 1"
+          "display_name": "Miami Heat vs Los Angeles Lakers - Stream 1"
         },
         {
           "label": "nba2.m3u8",
@@ -4039,12 +4002,12 @@
           },
           "drm_keys": null,
           "sport": "nba",
-          "event_title": "Brooklyn Nets vs Sacramento Kings",
+          "event_title": "Miami Heat vs Los Angeles Lakers",
           "matchup": {
-            "home": "Brooklyn Nets",
-            "away": "Sacramento Kings"
+            "home": "Miami Heat",
+            "away": "Los Angeles Lakers"
           },
-          "display_name": "Brooklyn Nets vs Sacramento Kings - nba2.m3u8"
+          "display_name": "Miami Heat vs Los Angeles Lakers - nba2.m3u8"
         }
       ]
     },
@@ -4284,7 +4247,7 @@
       ],
       "streams": [
         {
-          "label": "Stream 1",
+          "label": "Sky Sports",
           "url": "https://admin.shadow-ran.online/f1.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/f1",
@@ -4299,9 +4262,49 @@
           },
           "drm_keys": null,
           "sport": "f1",
-          "event_title": "Formula 1",
+          "event_title": "Formula 1 - British Grand Prix",
           "matchup": null,
-          "display_name": "Formula 1 - Stream 1"
+          "display_name": "Formula 1 - British Grand Prix - Sky Sports"
+        },
+        {
+          "label": "F1 TV",
+          "url": "https://tedesco.shadow-ran.online/f1.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.su/f1",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "tedesco",
+          "path": "f1.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.su/f1",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "f1",
+          "event_title": "Formula 1 - British Grand Prix",
+          "matchup": null,
+          "display_name": "Formula 1 - British Grand Prix - F1 TV"
+        },
+        {
+          "label": "TSN",
+          "url": "https://tedesco.shadow-ran.online/tsn.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.su/f1",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "tedesco",
+          "path": "tsn.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.su/f1",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "f1",
+          "event_title": "Formula 1 - British Grand Prix",
+          "matchup": null,
+          "display_name": "Formula 1 - British Grand Prix - TSN"
         },
         {
           "label": "f1.m3u8",
@@ -4319,109 +4322,50 @@
           },
           "drm_keys": null,
           "sport": "f1",
-          "event_title": "Formula 1",
+          "event_title": "Formula 1 - British Grand Prix",
           "matchup": null,
-          "display_name": "Formula 1 - f1.m3u8"
+          "display_name": "Formula 1 - British Grand Prix - f1.m3u8"
         }
       ]
     },
-    "supercross": {
+    "nascar": {
       "pages": [
-        "https://roxiestreams.su/supercross"
+        "https://roxiestreams.su/nascar"
       ],
       "streams": [
         {
           "label": "Direct Link",
-          "url": "https://admin.formaturamaxi.com.br/sx.m3u8",
+          "url": "https://tedesco.formaturamaxi.com.br/tsn.m3u8",
           "type": "m3u8",
-          "source_page": "https://roxiestreams.su/supercross",
+          "source_page": "https://roxiestreams.su/nascar",
           "headers": {
-            "Referer": "https://roxiestreams.su/supercross",
+            "Referer": "https://roxiestreams.su/nascar",
             "Origin": "https://roxiestreams.su",
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
             "Accept": "*/*"
           },
           "drm_keys": null,
-          "sport": "supercross",
-          "event_title": "AMA Motocross",
+          "sport": "nascar",
+          "event_title": "NASCAR Cup Series - Race",
           "matchup": null,
-          "display_name": "AMA Motocross"
-        }
-      ]
-    },
-    "ppv": {
-      "pages": [
-        "https://roxiestreams.su/ppv-streams-1"
-      ],
-      "streams": [
-        {
-          "label": "Stream 1",
-          "url": "https://admin.shadow-ran.online/ppv.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.su/ppv-streams-1",
-          "cdn_domain": "shadow-ran.online",
-          "subdomain": "admin",
-          "path": "ppv.m3u8",
-          "headers": {
-            "Referer": "https://roxiestreams.su/ppv-streams-1",
-            "Origin": "https://roxiestreams.su",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "ppv",
-          "event_title": "Mason vs. Bell: The Fight",
-          "matchup": {
-            "home": "Mason",
-            "away": "Bell: The Fight"
-          },
-          "display_name": "Mason vs. Bell: The Fight - Stream 1"
+          "display_name": "NASCAR Cup Series - Race"
         },
         {
-          "label": "Stream 2",
-          "url": "https://tedesco.shadow-ran.online/dazn.m3u8",
+          "label": "Direct Link",
+          "url": "https://out-of-touch.b-cdn.net/out/v2/8fb73e443bc4390c16de753221ca86e1/index.m3u8",
           "type": "m3u8",
-          "source_page": "https://roxiestreams.su/ppv-streams-1",
-          "cdn_domain": "shadow-ran.online",
-          "subdomain": "tedesco",
-          "path": "dazn.m3u8",
+          "source_page": "https://roxiestreams.su/nascar",
           "headers": {
-            "Referer": "https://roxiestreams.su/ppv-streams-1",
+            "Referer": "https://roxiestreams.su/nascar",
             "Origin": "https://roxiestreams.su",
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
             "Accept": "*/*"
           },
           "drm_keys": null,
-          "sport": "ppv",
-          "event_title": "Mason vs. Bell: The Fight",
-          "matchup": {
-            "home": "Mason",
-            "away": "Bell: The Fight"
-          },
-          "display_name": "Mason vs. Bell: The Fight - Stream 2"
-        },
-        {
-          "label": "ppv.m3u8",
-          "url": "https://daffodil.shadow-ran.online/ppv.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.su/ppv-streams-1",
-          "cdn_domain": "shadow-ran.online",
-          "subdomain": "daffodil",
-          "path": "ppv.m3u8",
-          "headers": {
-            "Referer": "https://roxiestreams.su/ppv-streams-1",
-            "Origin": "https://roxiestreams.su",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "ppv",
-          "event_title": "Mason vs. Bell: The Fight",
-          "matchup": {
-            "home": "Mason",
-            "away": "Bell: The Fight"
-          },
-          "display_name": "Mason vs. Bell: The Fight - ppv.m3u8"
+          "sport": "nascar",
+          "event_title": "NASCAR Cup Series - Race",
+          "matchup": null,
+          "display_name": "NASCAR Cup Series - Race"
         }
       ]
     }
