@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-06T23:51:14+00:00",
+  "scraped_at": "2026-07-07T01:28:10+00:00",
   "base_url": "https://roxiestreams.su",
   "domains": [
     "shadow-ran.online"
@@ -751,11 +751,11 @@
           },
           {
             "label": "Stream 2",
-            "url": "https://tedesco.shadow-ran.online/wwe2.m3u8",
+            "url": "https://snowcone.shadow-ran.online/wwe2.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/wwe-streams",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "tedesco",
+            "subdomain": "snowcone",
             "path": "wwe2.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/wwe-streams",
@@ -909,11 +909,11 @@
           },
           {
             "label": "Stream 2",
-            "url": "https://tedesco.shadow-ran.online/wwe2.m3u8",
+            "url": "https://snowcone.shadow-ran.online/wwe2.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/wwe-streams",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "tedesco",
+            "subdomain": "snowcone",
             "path": "wwe2.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/wwe-streams",
@@ -1051,7 +1051,6 @@
         "Tele (Peacock)",
         "العربية",
         "TSN PC DIRECT VPN",
-        "TSN (ALT)",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -3222,11 +3221,11 @@
         },
         {
           "label": "Stream 2",
-          "url": "https://tedesco.shadow-ran.online/wwe2.m3u8",
+          "url": "https://snowcone.shadow-ran.online/wwe2.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/wwe-streams",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "tedesco",
+          "subdomain": "snowcone",
           "path": "wwe2.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/wwe-streams",
@@ -3368,11 +3367,11 @@
         },
         {
           "label": "Stream 2",
-          "url": "https://tedesco.shadow-ran.online/wwe2.m3u8",
+          "url": "https://snowcone.shadow-ran.online/wwe2.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/wwe-streams",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "tedesco",
+          "subdomain": "snowcone",
           "path": "wwe2.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/wwe-streams",

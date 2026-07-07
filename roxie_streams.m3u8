@@ -1,5 +1,5 @@
 #EXTM3U
-# RoxieStreams Playlist - generated 2026-07-06T23:51:14+00:00
+# RoxieStreams Playlist - generated 2026-07-07T01:28:10+00:00
 # Source: https://roxiestreams.su
 
 #EXTINF:-1 tvg-name="USA vs Belgium - TSN" group-title="SOCCER - USA vs Belgium",USA vs Belgium - TSN
@@ -243,7 +243,7 @@ https://admin.shadow-ran.online/wwe.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.su%2Fwwe-streams&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
 #EXTHTTP:{"Referer":"https://roxiestreams.su/wwe-streams","Origin":"https://roxiestreams.su","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
-https://tedesco.shadow-ran.online/wwe2.m3u8
+https://snowcone.shadow-ran.online/wwe2.m3u8
 
 #EXTINF:-1 tvg-name="WWE RAW - wwe.m3u8" group-title="FIGHTING - WWE RAW",WWE RAW - wwe.m3u8
 #EXTGRP:FIGHTING - WWE RAW
@@ -297,7 +297,7 @@ https://admin.shadow-ran.online/wwe.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.su%2Fwwe-streams&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
 #EXTHTTP:{"Referer":"https://roxiestreams.su/wwe-streams","Origin":"https://roxiestreams.su","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
-https://tedesco.shadow-ran.online/wwe2.m3u8
+https://snowcone.shadow-ran.online/wwe2.m3u8
 
 #EXTINF:-1 tvg-name="WWE RAW - wwe.m3u8" group-title="WWE - WWE RAW",WWE RAW - wwe.m3u8
 #EXTGRP:WWE - WWE RAW
