@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-07T16:30:59+00:00",
+  "scraped_at": "2026-07-07T18:34:31+00:00",
   "base_url": "https://roxiestreams.su",
   "domains": [
     "shadow-ran.online"
@@ -33,10 +33,13 @@
         "page": "https://roxiestreams.su/soccer-streams-1",
         "streams": [
           {
-            "label": "Direct Link",
-            "url": "https://customer-k7esp6o17le0nad2.cloudflarestream.com/58f0abcd2c9a20f0b9fd1772d4af823f/manifest/video.m3u8",
+            "label": "TSN",
+            "url": "https://snowcone.shadow-ran.online/tsn.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-1",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "snowcone",
+            "path": "tsn.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/soccer-streams-1",
               "Origin": "https://roxiestreams.su",
@@ -50,15 +53,15 @@
               "home": "Switzerland",
               "away": "Colombia"
             },
-            "display_name": "Switzerland vs Colombia"
+            "display_name": "Switzerland vs Colombia - TSN"
           },
           {
             "label": "FOX (ALT)",
-            "url": "https://snowcone.shadow-ran.online/foxalt.m3u8",
+            "url": "https://admin.shadow-ran.online/foxalt.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-1",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "snowcone",
+            "subdomain": "admin",
             "path": "foxalt.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/soccer-streams-1",
@@ -122,7 +125,7 @@
             "display_name": "Switzerland vs Colombia - TELEMUNDO"
           },
           {
-            "label": "???????",
+            "label": "العربية",
             "url": "https://admin.shadow-ran.online/bein1.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-1",
@@ -142,7 +145,7 @@
               "home": "Switzerland",
               "away": "Colombia"
             },
-            "display_name": "Switzerland vs Colombia - ???????"
+            "display_name": "Switzerland vs Colombia - العربية"
           }
         ]
       },
@@ -157,12 +160,12 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://tedesco.shadow-ran.online/fla.m3u8",
+            "url": "https://tedesco.shadow-ran.online/celtic.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-2",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "tedesco",
-            "path": "fla.m3u8",
+            "path": "celtic.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/soccer-streams-2",
               "Origin": "https://roxiestreams.su",
@@ -179,13 +182,13 @@
             "display_name": "Shelbourne vs Celtic - Stream 1"
           },
           {
-            "label": "fla.m3u8",
-            "url": "https://daffodil.shadow-ran.online/fla.m3u8",
+            "label": "celic.m3u8",
+            "url": "https://daffodil.shadow-ran.online/celic.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-2",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "daffodil",
-            "path": "fla.m3u8",
+            "path": "celic.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/soccer-streams-2",
               "Origin": "https://roxiestreams.su",
@@ -199,7 +202,7 @@
               "home": "Shelbourne",
               "away": "Celtic"
             },
-            "display_name": "Shelbourne vs Celtic - fla.m3u8"
+            "display_name": "Shelbourne vs Celtic - celic.m3u8"
           }
         ]
       }
@@ -1229,9 +1232,9 @@
         "FOX (ALT)",
         "FOX (FHD)",
         "TELEMUNDO",
-        "Tele (Peacock)",
         "PC ONLY (DIRECT)",
-        "???????",
+        "Tele (Peacock)",
+        "العربية",
         "TSN PC DIRECT VPN",
         "Switch to Chatango",
         "Stream Request (Discord)"
@@ -3267,10 +3270,13 @@
       ],
       "streams": [
         {
-          "label": "Direct Link",
-          "url": "https://customer-k7esp6o17le0nad2.cloudflarestream.com/58f0abcd2c9a20f0b9fd1772d4af823f/manifest/video.m3u8",
+          "label": "TSN",
+          "url": "https://snowcone.shadow-ran.online/tsn.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-1",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "snowcone",
+          "path": "tsn.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/soccer-streams-1",
             "Origin": "https://roxiestreams.su",
@@ -3284,15 +3290,15 @@
             "home": "Switzerland",
             "away": "Colombia"
           },
-          "display_name": "Switzerland vs Colombia"
+          "display_name": "Switzerland vs Colombia - TSN"
         },
         {
           "label": "FOX (ALT)",
-          "url": "https://snowcone.shadow-ran.online/foxalt.m3u8",
+          "url": "https://admin.shadow-ran.online/foxalt.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-1",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "snowcone",
+          "subdomain": "admin",
           "path": "foxalt.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/soccer-streams-1",
@@ -3356,7 +3362,7 @@
           "display_name": "Switzerland vs Colombia - TELEMUNDO"
         },
         {
-          "label": "???????",
+          "label": "العربية",
           "url": "https://admin.shadow-ran.online/bein1.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-1",
@@ -3376,16 +3382,16 @@
             "home": "Switzerland",
             "away": "Colombia"
           },
-          "display_name": "Switzerland vs Colombia - ???????"
+          "display_name": "Switzerland vs Colombia - العربية"
         },
         {
           "label": "Stream 1",
-          "url": "https://tedesco.shadow-ran.online/fla.m3u8",
+          "url": "https://tedesco.shadow-ran.online/celtic.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-2",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "tedesco",
-          "path": "fla.m3u8",
+          "path": "celtic.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/soccer-streams-2",
             "Origin": "https://roxiestreams.su",
@@ -3402,13 +3408,13 @@
           "display_name": "Shelbourne vs Celtic - Stream 1"
         },
         {
-          "label": "fla.m3u8",
-          "url": "https://daffodil.shadow-ran.online/fla.m3u8",
+          "label": "celic.m3u8",
+          "url": "https://daffodil.shadow-ran.online/celic.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-2",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "daffodil",
-          "path": "fla.m3u8",
+          "path": "celic.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/soccer-streams-2",
             "Origin": "https://roxiestreams.su",
@@ -3422,7 +3428,7 @@
             "home": "Shelbourne",
             "away": "Celtic"
           },
-          "display_name": "Shelbourne vs Celtic - fla.m3u8"
+          "display_name": "Shelbourne vs Celtic - celic.m3u8"
         }
       ]
     },

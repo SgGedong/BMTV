@@ -1,15 +1,15 @@
 #EXTM3U
-# RoxieStreams Playlist - generated 2026-07-07T16:30:59+00:00
+# RoxieStreams Playlist - generated 2026-07-07T18:34:31+00:00
 # Source: https://roxiestreams.su
 
-#EXTINF:-1 tvg-name="Switzerland vs Colombia" group-title="SOCCER - Switzerland vs Colombia",Switzerland vs Colombia
+#EXTINF:-1 tvg-name="Switzerland vs Colombia - TSN" group-title="SOCCER - Switzerland vs Colombia",Switzerland vs Colombia - TSN
 #EXTGRP:SOCCER - Switzerland vs Colombia
 #EXTDESC:Switzerland vs Colombia
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/soccer-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.su%2Fsoccer-streams-1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
 #EXTHTTP:{"Referer":"https://roxiestreams.su/soccer-streams-1","Origin":"https://roxiestreams.su","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
-https://customer-k7esp6o17le0nad2.cloudflarestream.com/58f0abcd2c9a20f0b9fd1772d4af823f/manifest/video.m3u8
+https://snowcone.shadow-ran.online/tsn.m3u8
 
 #EXTINF:-1 tvg-name="Switzerland vs Colombia - FOX (ALT)" group-title="SOCCER - Switzerland vs Colombia",Switzerland vs Colombia - FOX (ALT)
 #EXTGRP:SOCCER - Switzerland vs Colombia
@@ -18,7 +18,7 @@ https://customer-k7esp6o17le0nad2.cloudflarestream.com/58f0abcd2c9a20f0b9fd1772d
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.su%2Fsoccer-streams-1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
 #EXTHTTP:{"Referer":"https://roxiestreams.su/soccer-streams-1","Origin":"https://roxiestreams.su","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
-https://snowcone.shadow-ran.online/foxalt.m3u8
+https://admin.shadow-ran.online/foxalt.m3u8
 
 #EXTINF:-1 tvg-name="Switzerland vs Colombia - FOX (FHD)" group-title="SOCCER - Switzerland vs Colombia",Switzerland vs Colombia - FOX (FHD)
 #EXTGRP:SOCCER - Switzerland vs Colombia
@@ -38,7 +38,7 @@ https://admin.shadow-ran.online/fox.m3u8
 #EXTHTTP:{"Referer":"https://roxiestreams.su/soccer-streams-1","Origin":"https://roxiestreams.su","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
 https://tedesco.shadow-ran.online/tele.m3u8
 
-#EXTINF:-1 tvg-name="Switzerland vs Colombia - ???????" group-title="SOCCER - Switzerland vs Colombia",Switzerland vs Colombia - ???????
+#EXTINF:-1 tvg-name="Switzerland vs Colombia - العربية" group-title="SOCCER - Switzerland vs Colombia",Switzerland vs Colombia - العربية
 #EXTGRP:SOCCER - Switzerland vs Colombia
 #EXTDESC:Switzerland vs Colombia
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/soccer-streams-1
@@ -54,16 +54,16 @@ https://admin.shadow-ran.online/bein1.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.su%2Fsoccer-streams-2&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
 #EXTHTTP:{"Referer":"https://roxiestreams.su/soccer-streams-2","Origin":"https://roxiestreams.su","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
-https://tedesco.shadow-ran.online/fla.m3u8
+https://tedesco.shadow-ran.online/celtic.m3u8
 
-#EXTINF:-1 tvg-name="Shelbourne vs Celtic - fla.m3u8" group-title="SOCCER - Shelbourne vs Celtic",Shelbourne vs Celtic - fla.m3u8
+#EXTINF:-1 tvg-name="Shelbourne vs Celtic - celic.m3u8" group-title="SOCCER - Shelbourne vs Celtic",Shelbourne vs Celtic - celic.m3u8
 #EXTGRP:SOCCER - Shelbourne vs Celtic
 #EXTDESC:Shelbourne vs Celtic
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/soccer-streams-2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.su%2Fsoccer-streams-2&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
 #EXTHTTP:{"Referer":"https://roxiestreams.su/soccer-streams-2","Origin":"https://roxiestreams.su","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
-https://daffodil.shadow-ran.online/fla.m3u8
+https://daffodil.shadow-ran.online/celic.m3u8
 
 #EXTINF:-1 tvg-name="Milwaukee Brewers vs St. Louis Cardinals - Stream 1" group-title="MLB - Milwaukee Brewers vs St. Louis Cardinals",Milwaukee Brewers vs St. Louis Cardinals - Stream 1
 #EXTGRP:MLB - Milwaukee Brewers vs St. Louis Cardinals
