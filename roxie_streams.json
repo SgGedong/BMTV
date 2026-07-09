@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-09T17:29:24+00:00",
+  "scraped_at": "2026-07-09T19:09:23+00:00",
   "base_url": "https://roxiestreams.su",
   "domains": [
     "shadow-ran.online"
@@ -28,13 +28,82 @@
         "page": "https://roxiestreams.su/soccer-streams-1",
         "streams": [
           {
-            "label": "Stream 1",
-            "url": "https://tedesco.shadow-ran.online/sportv.m3u8",
+            "label": "TSN",
+            "url": "https://admin2.shadow-ran.online/tsn.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.su/soccer-streams-1",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "admin2",
+            "path": "tsn.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.su/soccer-streams-1",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "Spain vs Belgium",
+            "matchup": {
+              "home": "Spain",
+              "away": "Belgium"
+            },
+            "display_name": "Spain vs Belgium - TSN"
+          },
+          {
+            "label": "FOX (ALT)",
+            "url": "https://admin.shadow-ran.online/foxalt.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.su/soccer-streams-1",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "admin",
+            "path": "foxalt.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.su/soccer-streams-1",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "Spain vs Belgium",
+            "matchup": {
+              "home": "Spain",
+              "away": "Belgium"
+            },
+            "display_name": "Spain vs Belgium - FOX (ALT)"
+          },
+          {
+            "label": "FOX (FHD)",
+            "url": "https://admin.shadow-ran.online/fox.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.su/soccer-streams-1",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "admin",
+            "path": "fox.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.su/soccer-streams-1",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "Spain vs Belgium",
+            "matchup": {
+              "home": "Spain",
+              "away": "Belgium"
+            },
+            "display_name": "Spain vs Belgium - FOX (FHD)"
+          },
+          {
+            "label": "TELEMUNDO",
+            "url": "https://tedesco.shadow-ran.online/tele.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-1",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "tedesco",
-            "path": "sportv.m3u8",
+            "path": "tele.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/soccer-streams-1",
               "Origin": "https://roxiestreams.su",
@@ -48,16 +117,16 @@
               "home": "Spain",
               "away": "Belgium"
             },
-            "display_name": "Spain vs Belgium - Stream 1"
+            "display_name": "Spain vs Belgium - TELEMUNDO"
           },
           {
-            "label": "sportv.m3u8",
-            "url": "https://daffodil.shadow-ran.online/sportv.m3u8",
+            "label": "العربية",
+            "url": "https://snowcone.shadow-ran.online/bein1.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-1",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "daffodil",
-            "path": "sportv.m3u8",
+            "subdomain": "snowcone",
+            "path": "bein1.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/soccer-streams-1",
               "Origin": "https://roxiestreams.su",
@@ -71,7 +140,7 @@
               "home": "Spain",
               "away": "Belgium"
             },
-            "display_name": "Spain vs Belgium - sportv.m3u8"
+            "display_name": "Spain vs Belgium - العربية"
           }
         ]
       }
@@ -1086,7 +1155,14 @@
         "Motorsports",
         "Stream Request (Discord)",
         "MultiView (NEW)",
-        "Stream 1",
+        "TSN",
+        "FOX (ALT)",
+        "FOX (FHD)",
+        "TELEMUNDO",
+        "PC ONLY (DIRECT)",
+        "Tele (Peacock)",
+        "العربية",
+        "TSN PC DIRECT VPN",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -3129,13 +3205,82 @@
       ],
       "streams": [
         {
-          "label": "Stream 1",
-          "url": "https://tedesco.shadow-ran.online/sportv.m3u8",
+          "label": "TSN",
+          "url": "https://admin2.shadow-ran.online/tsn.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.su/soccer-streams-1",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "admin2",
+          "path": "tsn.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.su/soccer-streams-1",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "Spain vs Belgium",
+          "matchup": {
+            "home": "Spain",
+            "away": "Belgium"
+          },
+          "display_name": "Spain vs Belgium - TSN"
+        },
+        {
+          "label": "FOX (ALT)",
+          "url": "https://admin.shadow-ran.online/foxalt.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.su/soccer-streams-1",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "admin",
+          "path": "foxalt.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.su/soccer-streams-1",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "Spain vs Belgium",
+          "matchup": {
+            "home": "Spain",
+            "away": "Belgium"
+          },
+          "display_name": "Spain vs Belgium - FOX (ALT)"
+        },
+        {
+          "label": "FOX (FHD)",
+          "url": "https://admin.shadow-ran.online/fox.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.su/soccer-streams-1",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "admin",
+          "path": "fox.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.su/soccer-streams-1",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "Spain vs Belgium",
+          "matchup": {
+            "home": "Spain",
+            "away": "Belgium"
+          },
+          "display_name": "Spain vs Belgium - FOX (FHD)"
+        },
+        {
+          "label": "TELEMUNDO",
+          "url": "https://tedesco.shadow-ran.online/tele.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-1",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "tedesco",
-          "path": "sportv.m3u8",
+          "path": "tele.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/soccer-streams-1",
             "Origin": "https://roxiestreams.su",
@@ -3149,16 +3294,16 @@
             "home": "Spain",
             "away": "Belgium"
           },
-          "display_name": "Spain vs Belgium - Stream 1"
+          "display_name": "Spain vs Belgium - TELEMUNDO"
         },
         {
-          "label": "sportv.m3u8",
-          "url": "https://daffodil.shadow-ran.online/sportv.m3u8",
+          "label": "العربية",
+          "url": "https://snowcone.shadow-ran.online/bein1.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-1",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "daffodil",
-          "path": "sportv.m3u8",
+          "subdomain": "snowcone",
+          "path": "bein1.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/soccer-streams-1",
             "Origin": "https://roxiestreams.su",
@@ -3172,7 +3317,7 @@
             "home": "Spain",
             "away": "Belgium"
           },
-          "display_name": "Spain vs Belgium - sportv.m3u8"
+          "display_name": "Spain vs Belgium - العربية"
         }
       ]
     },
@@ -3932,7 +4077,7 @@
       "streams": []
     }
   },
-  "stream_count": 34,
+  "stream_count": 37,
   "notes": [
     "Playlist header tags are player hints. Browser CORS requires a server-side proxy."
   ]
