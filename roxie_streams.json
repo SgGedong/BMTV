@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-08T22:32:30+00:00",
+  "scraped_at": "2026-07-09T01:20:25+00:00",
   "base_url": "https://roxiestreams.su",
   "domains": [
     "shadow-ran.online"
@@ -86,12 +86,12 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://tedesco.shadow-ran.online/celtic.m3u8",
+            "url": "https://admin.shadow-ran.online/cabj.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-2",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "tedesco",
-            "path": "celtic.m3u8",
+            "subdomain": "admin",
+            "path": "cabj.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/soccer-streams-2",
               "Origin": "https://roxiestreams.su",
@@ -108,13 +108,13 @@
             "display_name": "Boca Juniors vs Athletico-PR - Stream 1"
           },
           {
-            "label": "celic.m3u8",
-            "url": "https://daffodil.shadow-ran.online/celic.m3u8",
+            "label": "cabj.m3u8",
+            "url": "https://daffodil.shadow-ran.online/cabj.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-2",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "daffodil",
-            "path": "celic.m3u8",
+            "path": "cabj.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/soccer-streams-2",
               "Origin": "https://roxiestreams.su",
@@ -128,7 +128,7 @@
               "home": "Boca Juniors",
               "away": "Athletico-PR"
             },
-            "display_name": "Boca Juniors vs Athletico-PR - celic.m3u8"
+            "display_name": "Boca Juniors vs Athletico-PR - cabj.m3u8"
           }
         ]
       }
@@ -2897,12 +2897,12 @@
         },
         {
           "label": "Stream 1",
-          "url": "https://tedesco.shadow-ran.online/celtic.m3u8",
+          "url": "https://admin.shadow-ran.online/cabj.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-2",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "tedesco",
-          "path": "celtic.m3u8",
+          "subdomain": "admin",
+          "path": "cabj.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/soccer-streams-2",
             "Origin": "https://roxiestreams.su",
@@ -2919,13 +2919,13 @@
           "display_name": "Boca Juniors vs Athletico-PR - Stream 1"
         },
         {
-          "label": "celic.m3u8",
-          "url": "https://daffodil.shadow-ran.online/celic.m3u8",
+          "label": "cabj.m3u8",
+          "url": "https://daffodil.shadow-ran.online/cabj.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-2",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "daffodil",
-          "path": "celic.m3u8",
+          "path": "cabj.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/soccer-streams-2",
             "Origin": "https://roxiestreams.su",
@@ -2939,7 +2939,7 @@
             "home": "Boca Juniors",
             "away": "Athletico-PR"
           },
-          "display_name": "Boca Juniors vs Athletico-PR - celic.m3u8"
+          "display_name": "Boca Juniors vs Athletico-PR - cabj.m3u8"
         }
       ]
     },
