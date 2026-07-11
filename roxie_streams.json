@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-11T08:42:22+00:00",
+  "scraped_at": "2026-07-11T09:30:22+00:00",
   "base_url": "https://roxiestreams.su",
   "domains": [
     "shadow-ran.online"
@@ -160,12 +160,12 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://admin.shadow-ran.online/cabj.m3u8",
+            "url": "https://tedesco.shadow-ran.online/sportv.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-2",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "admin",
-            "path": "cabj.m3u8",
+            "subdomain": "tedesco",
+            "path": "sportv.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/soccer-streams-2",
               "Origin": "https://roxiestreams.su",
@@ -182,13 +182,13 @@
             "display_name": "Benfica vs Flamengo - Stream 1"
           },
           {
-            "label": "cabj.m3u8",
-            "url": "https://daffodil.shadow-ran.online/cabj.m3u8",
+            "label": "sportv.m3u8",
+            "url": "https://daffodil.shadow-ran.online/sportv.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-2",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "daffodil",
-            "path": "cabj.m3u8",
+            "path": "sportv.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/soccer-streams-2",
               "Origin": "https://roxiestreams.su",
@@ -202,7 +202,7 @@
               "home": "Benfica",
               "away": "Flamengo"
             },
-            "display_name": "Benfica vs Flamengo - cabj.m3u8"
+            "display_name": "Benfica vs Flamengo - sportv.m3u8"
           }
         ]
       }
@@ -3025,9 +3025,9 @@
         "Motorsports",
         "Stream Request (Discord)",
         "MultiView (NEW)",
-        "Gassiev vs. Kadiru",
         "Sturm vs. Stein",
         "Dvalishvili vs. Cejudo (RAF)",
+        "Gassiev vs. Kadiru",
         "UFC 329: Mcgregor vs Holloway 2",
         "Stream Request (Discord)"
       ],
@@ -3073,16 +3073,16 @@
           "url": "https://roxiestreams.su/multiview"
         },
         {
-          "label": "Gassiev vs. Kadiru",
-          "url": "https://roxiestreams.su/ppv-streams-1"
-        },
-        {
           "label": "Sturm vs. Stein",
           "url": "https://roxiestreams.su/ppv-streams-2"
         },
         {
           "label": "Dvalishvili vs. Cejudo (RAF)",
           "url": "https://roxiestreams.su/ppv-streams-3"
+        },
+        {
+          "label": "Gassiev vs. Kadiru",
+          "url": "https://roxiestreams.su/ppv-streams-1"
         },
         {
           "label": "UFC 329: Mcgregor vs Holloway 2",
@@ -3717,12 +3717,12 @@
         },
         {
           "label": "Stream 1",
-          "url": "https://admin.shadow-ran.online/cabj.m3u8",
+          "url": "https://tedesco.shadow-ran.online/sportv.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-2",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "admin",
-          "path": "cabj.m3u8",
+          "subdomain": "tedesco",
+          "path": "sportv.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/soccer-streams-2",
             "Origin": "https://roxiestreams.su",
@@ -3739,13 +3739,13 @@
           "display_name": "Benfica vs Flamengo - Stream 1"
         },
         {
-          "label": "cabj.m3u8",
-          "url": "https://daffodil.shadow-ran.online/cabj.m3u8",
+          "label": "sportv.m3u8",
+          "url": "https://daffodil.shadow-ran.online/sportv.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-2",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "daffodil",
-          "path": "cabj.m3u8",
+          "path": "sportv.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/soccer-streams-2",
             "Origin": "https://roxiestreams.su",
@@ -3759,7 +3759,7 @@
             "home": "Benfica",
             "away": "Flamengo"
           },
-          "display_name": "Benfica vs Flamengo - cabj.m3u8"
+          "display_name": "Benfica vs Flamengo - sportv.m3u8"
         }
       ]
     },
