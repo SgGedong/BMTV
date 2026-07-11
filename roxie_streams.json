@@ -1,24 +1,34 @@
 {
-  "scraped_at": "2026-07-11T15:44:47+00:00",
+  "scraped_at": "2026-07-11T16:42:58+00:00",
   "base_url": "https://roxiestreams.su",
   "domains": [
     "shadow-ran.online"
   ],
   "events": [
     {
-      "name": "World Cup (Spain vs Belgium)",
-      "page": "https://roxiestreams.su/soccer-streams-1",
-      "start_time": "July 10, 2026 12:00 PM"
+      "name": "Dvalishvili vs. Cejudo (RAF)",
+      "page": "https://roxiestreams.su/ppv-streams-3",
+      "start_time": "July 11, 2026 9:00 AM"
+    },
+    {
+      "name": "AMA Motocross - Race",
+      "page": "https://roxiestreams.su/supercross",
+      "start_time": "July 11, 2026 10:00 AM"
     },
     {
       "name": "NBA Summer League",
       "page": "https://roxiestreams.su/nba",
-      "start_time": "July 10, 2026 1:00 PM"
+      "start_time": "July 11, 2026 1:00 PM"
     },
     {
-      "name": "WWE Smackdown",
-      "page": "https://roxiestreams.su/wwe-streams",
-      "start_time": "July 10, 2026 5:00 PM"
+      "name": "World Cup Quarter Finals",
+      "page": "https://roxiestreams.su/soccer-streams-1",
+      "start_time": "July 11, 2026 2:00 PM"
+    },
+    {
+      "name": "UFC 329: Mcgregor vs Holloway 2",
+      "page": "https://roxiestreams.su/ufc",
+      "start_time": "July 11, 2026 2:00 PM"
     }
   ],
   "events_by_sport": {
@@ -1158,72 +1168,193 @@
       }
     ],
     "multiview": [],
-    "wwe": [
+    "ppv": [
       {
-        "title": "WWE Smackdown",
-        "sport": "wwe",
-        "matchup": null,
-        "page": "https://roxiestreams.su/wwe-streams",
+        "title": "Dvalishvili vs. Cejudo (RAF)",
+        "sport": "ppv",
+        "matchup": {
+          "home": "Dvalishvili",
+          "away": "Cejudo (RAF)"
+        },
+        "page": "https://roxiestreams.su/ppv-streams-3",
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://admin.shadow-ran.online/wwe.m3u8",
+            "url": "https://admin.shadow-ran.online/ppv3.m3u8",
             "type": "m3u8",
-            "source_page": "https://roxiestreams.su/wwe-streams",
+            "source_page": "https://roxiestreams.su/ppv-streams-3",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "admin",
-            "path": "wwe.m3u8",
+            "path": "ppv3.m3u8",
             "headers": {
-              "Referer": "https://roxiestreams.su/wwe-streams",
+              "Referer": "https://roxiestreams.su/ppv-streams-3",
               "Origin": "https://roxiestreams.su",
               "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
               "Accept": "*/*"
             },
             "drm_keys": null,
-            "sport": "wwe",
-            "event_title": "WWE Smackdown",
+            "sport": "ppv",
+            "event_title": "Dvalishvili vs. Cejudo (RAF)",
+            "matchup": {
+              "home": "Dvalishvili",
+              "away": "Cejudo (RAF)"
+            },
+            "display_name": "Dvalishvili vs. Cejudo (RAF) - Stream 1"
+          },
+          {
+            "label": "ppv3.m3u8",
+            "url": "https://daffodil.shadow-ran.online/ppv3.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.su/ppv-streams-3",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "daffodil",
+            "path": "ppv3.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.su/ppv-streams-3",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "ppv",
+            "event_title": "Dvalishvili vs. Cejudo (RAF)",
+            "matchup": {
+              "home": "Dvalishvili",
+              "away": "Cejudo (RAF)"
+            },
+            "display_name": "Dvalishvili vs. Cejudo (RAF) - ppv3.m3u8"
+          }
+        ]
+      }
+    ],
+    "supercross": [
+      {
+        "title": "AMA Motocross - Race",
+        "sport": "supercross",
+        "matchup": null,
+        "page": "https://roxiestreams.su/supercross",
+        "streams": [
+          {
+            "label": "Direct Link",
+            "url": "https://admin.formaturamaxi.com.br/sx.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.su/supercross",
+            "headers": {
+              "Referer": "https://roxiestreams.su/supercross",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "supercross",
+            "event_title": "AMA Motocross - Race",
             "matchup": null,
-            "display_name": "WWE Smackdown - Stream 1"
+            "display_name": "AMA Motocross - Race"
+          }
+        ]
+      }
+    ],
+    "ufc": [
+      {
+        "title": "UFC 329: Mcgregor vs Holloway 2",
+        "sport": "ufc",
+        "matchup": {
+          "home": "UFC 329: Mcgregor",
+          "away": "Holloway 2"
+        },
+        "page": "https://roxiestreams.su/ufc",
+        "streams": [
+          {
+            "label": "Stream 1",
+            "url": "https://admin.shadow-ran.online/happybirthdayabb.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.su/ufc",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "admin",
+            "path": "happybirthdayabb.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.su/ufc",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "ufc",
+            "event_title": "UFC 329: Mcgregor vs Holloway 2",
+            "matchup": {
+              "home": "UFC 329: Mcgregor",
+              "away": "Holloway 2"
+            },
+            "display_name": "UFC 329: Mcgregor vs Holloway 2 - Stream 1"
           },
           {
             "label": "Stream 2",
-            "url": "https://tedesco.shadow-ran.online/wwe.m3u8",
+            "url": "https://ataide0.shadow-ran.online/ufc.m3u8",
             "type": "m3u8",
-            "source_page": "https://roxiestreams.su/wwe-streams",
+            "source_page": "https://roxiestreams.su/ufc",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "tedesco",
-            "path": "wwe.m3u8",
+            "subdomain": "ataide0",
+            "path": "ufc.m3u8",
             "headers": {
-              "Referer": "https://roxiestreams.su/wwe-streams",
+              "Referer": "https://roxiestreams.su/ufc",
               "Origin": "https://roxiestreams.su",
               "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
               "Accept": "*/*"
             },
             "drm_keys": null,
-            "sport": "wwe",
-            "event_title": "WWE Smackdown",
-            "matchup": null,
-            "display_name": "WWE Smackdown - Stream 2"
+            "sport": "ufc",
+            "event_title": "UFC 329: Mcgregor vs Holloway 2",
+            "matchup": {
+              "home": "UFC 329: Mcgregor",
+              "away": "Holloway 2"
+            },
+            "display_name": "UFC 329: Mcgregor vs Holloway 2 - Stream 2"
           },
           {
-            "label": "wwe.m3u8",
-            "url": "https://daffodil.shadow-ran.online/wwe.m3u8",
+            "label": "Stream 3 (TNT)",
+            "url": "https://admin.shadow-ran.online/tnt.m3u8",
             "type": "m3u8",
-            "source_page": "https://roxiestreams.su/wwe-streams",
+            "source_page": "https://roxiestreams.su/ufc",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "daffodil",
-            "path": "wwe.m3u8",
+            "subdomain": "admin",
+            "path": "tnt.m3u8",
             "headers": {
-              "Referer": "https://roxiestreams.su/wwe-streams",
+              "Referer": "https://roxiestreams.su/ufc",
               "Origin": "https://roxiestreams.su",
               "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
               "Accept": "*/*"
             },
             "drm_keys": null,
-            "sport": "wwe",
-            "event_title": "WWE Smackdown",
-            "matchup": null,
-            "display_name": "WWE Smackdown - wwe.m3u8"
+            "sport": "ufc",
+            "event_title": "UFC 329: Mcgregor vs Holloway 2",
+            "matchup": {
+              "home": "UFC 329: Mcgregor",
+              "away": "Holloway 2"
+            },
+            "display_name": "UFC 329: Mcgregor vs Holloway 2 - Stream 3 (TNT)"
+          },
+          {
+            "label": "happybirthdayabb.m3u8",
+            "url": "https://daffodil.shadow-ran.online/happybirthdayabb.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.su/ufc",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "daffodil",
+            "path": "happybirthdayabb.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.su/ufc",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "ufc",
+            "event_title": "UFC 329: Mcgregor vs Holloway 2",
+            "matchup": {
+              "home": "UFC 329: Mcgregor",
+              "away": "Holloway 2"
+            },
+            "display_name": "UFC 329: Mcgregor vs Holloway 2 - happybirthdayabb.m3u8"
           }
         ]
       }
@@ -3524,8 +3655,74 @@
         }
       ]
     },
-    "https://roxiestreams.su/wwe-streams": {
-      "url": "https://roxiestreams.su/wwe-streams",
+    "https://roxiestreams.su/supercross": {
+      "url": "https://roxiestreams.su/supercross",
+      "title": "Roxiestreams - Watch Live Sports, F1, UFC, NFL, TV",
+      "headings": [],
+      "controls": [
+        "RoxieStreams",
+        "Soccer (WC 2026)",
+        "MLB",
+        "NBA",
+        "NFL",
+        "NHL",
+        "Fighting",
+        "Motorsports",
+        "Stream Request (Discord)",
+        "MultiView (NEW)",
+        "Stream 1",
+        "Switch to Chatango",
+        "Stream Request (Discord)"
+      ],
+      "links": [
+        {
+          "label": "RoxieStreams",
+          "url": "https://roxiestreams.su/"
+        },
+        {
+          "label": "Soccer (WC 2026)",
+          "url": "https://roxiestreams.su/soccer"
+        },
+        {
+          "label": "MLB",
+          "url": "https://roxiestreams.su/mlb"
+        },
+        {
+          "label": "NBA",
+          "url": "https://roxiestreams.su/nba"
+        },
+        {
+          "label": "NFL",
+          "url": "https://roxiestreams.su/nfl"
+        },
+        {
+          "label": "NHL",
+          "url": "https://roxiestreams.su/nhl"
+        },
+        {
+          "label": "Fighting",
+          "url": "https://roxiestreams.su/fighting"
+        },
+        {
+          "label": "Motorsports",
+          "url": "https://roxiestreams.su/motorsports"
+        },
+        {
+          "label": "Stream Request (Discord)",
+          "url": "https://discord.gg/JhkVmejRmn"
+        },
+        {
+          "label": "MultiView (NEW)",
+          "url": "https://roxiestreams.su/multiview"
+        },
+        {
+          "label": "Stream Request (Discord)",
+          "url": "https://discord.gg/JhkVmejRmn"
+        }
+      ]
+    },
+    "https://roxiestreams.su/ufc": {
+      "url": "https://roxiestreams.su/ufc",
       "title": "Roxiestreams - Watch Live Sports, F1, UFC, NFL, TV",
       "headings": [],
       "controls": [
@@ -3541,6 +3738,7 @@
         "MultiView (NEW)",
         "Stream 1",
         "Stream 2",
+        "Stream 3 (TNT)",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -4542,75 +4740,184 @@
       ],
       "streams": []
     },
-    "wwe": {
+    "ppv": {
       "pages": [
-        "https://roxiestreams.su/wwe-streams"
+        "https://roxiestreams.su/ppv-streams-3"
       ],
       "streams": [
         {
           "label": "Stream 1",
-          "url": "https://admin.shadow-ran.online/wwe.m3u8",
+          "url": "https://admin.shadow-ran.online/ppv3.m3u8",
           "type": "m3u8",
-          "source_page": "https://roxiestreams.su/wwe-streams",
+          "source_page": "https://roxiestreams.su/ppv-streams-3",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "admin",
-          "path": "wwe.m3u8",
+          "path": "ppv3.m3u8",
           "headers": {
-            "Referer": "https://roxiestreams.su/wwe-streams",
+            "Referer": "https://roxiestreams.su/ppv-streams-3",
             "Origin": "https://roxiestreams.su",
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
             "Accept": "*/*"
           },
           "drm_keys": null,
-          "sport": "wwe",
-          "event_title": "WWE Smackdown",
+          "sport": "ppv",
+          "event_title": "Dvalishvili vs. Cejudo (RAF)",
+          "matchup": {
+            "home": "Dvalishvili",
+            "away": "Cejudo (RAF)"
+          },
+          "display_name": "Dvalishvili vs. Cejudo (RAF) - Stream 1"
+        },
+        {
+          "label": "ppv3.m3u8",
+          "url": "https://daffodil.shadow-ran.online/ppv3.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.su/ppv-streams-3",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "daffodil",
+          "path": "ppv3.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.su/ppv-streams-3",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "ppv",
+          "event_title": "Dvalishvili vs. Cejudo (RAF)",
+          "matchup": {
+            "home": "Dvalishvili",
+            "away": "Cejudo (RAF)"
+          },
+          "display_name": "Dvalishvili vs. Cejudo (RAF) - ppv3.m3u8"
+        }
+      ]
+    },
+    "supercross": {
+      "pages": [
+        "https://roxiestreams.su/supercross"
+      ],
+      "streams": [
+        {
+          "label": "Direct Link",
+          "url": "https://admin.formaturamaxi.com.br/sx.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.su/supercross",
+          "headers": {
+            "Referer": "https://roxiestreams.su/supercross",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "supercross",
+          "event_title": "AMA Motocross - Race",
           "matchup": null,
-          "display_name": "WWE Smackdown - Stream 1"
+          "display_name": "AMA Motocross - Race"
+        }
+      ]
+    },
+    "ufc": {
+      "pages": [
+        "https://roxiestreams.su/ufc"
+      ],
+      "streams": [
+        {
+          "label": "Stream 1",
+          "url": "https://admin.shadow-ran.online/happybirthdayabb.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.su/ufc",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "admin",
+          "path": "happybirthdayabb.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.su/ufc",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "ufc",
+          "event_title": "UFC 329: Mcgregor vs Holloway 2",
+          "matchup": {
+            "home": "UFC 329: Mcgregor",
+            "away": "Holloway 2"
+          },
+          "display_name": "UFC 329: Mcgregor vs Holloway 2 - Stream 1"
         },
         {
           "label": "Stream 2",
-          "url": "https://tedesco.shadow-ran.online/wwe.m3u8",
+          "url": "https://ataide0.shadow-ran.online/ufc.m3u8",
           "type": "m3u8",
-          "source_page": "https://roxiestreams.su/wwe-streams",
+          "source_page": "https://roxiestreams.su/ufc",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "tedesco",
-          "path": "wwe.m3u8",
+          "subdomain": "ataide0",
+          "path": "ufc.m3u8",
           "headers": {
-            "Referer": "https://roxiestreams.su/wwe-streams",
+            "Referer": "https://roxiestreams.su/ufc",
             "Origin": "https://roxiestreams.su",
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
             "Accept": "*/*"
           },
           "drm_keys": null,
-          "sport": "wwe",
-          "event_title": "WWE Smackdown",
-          "matchup": null,
-          "display_name": "WWE Smackdown - Stream 2"
+          "sport": "ufc",
+          "event_title": "UFC 329: Mcgregor vs Holloway 2",
+          "matchup": {
+            "home": "UFC 329: Mcgregor",
+            "away": "Holloway 2"
+          },
+          "display_name": "UFC 329: Mcgregor vs Holloway 2 - Stream 2"
         },
         {
-          "label": "wwe.m3u8",
-          "url": "https://daffodil.shadow-ran.online/wwe.m3u8",
+          "label": "Stream 3 (TNT)",
+          "url": "https://admin.shadow-ran.online/tnt.m3u8",
           "type": "m3u8",
-          "source_page": "https://roxiestreams.su/wwe-streams",
+          "source_page": "https://roxiestreams.su/ufc",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "daffodil",
-          "path": "wwe.m3u8",
+          "subdomain": "admin",
+          "path": "tnt.m3u8",
           "headers": {
-            "Referer": "https://roxiestreams.su/wwe-streams",
+            "Referer": "https://roxiestreams.su/ufc",
             "Origin": "https://roxiestreams.su",
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
             "Accept": "*/*"
           },
           "drm_keys": null,
-          "sport": "wwe",
-          "event_title": "WWE Smackdown",
-          "matchup": null,
-          "display_name": "WWE Smackdown - wwe.m3u8"
+          "sport": "ufc",
+          "event_title": "UFC 329: Mcgregor vs Holloway 2",
+          "matchup": {
+            "home": "UFC 329: Mcgregor",
+            "away": "Holloway 2"
+          },
+          "display_name": "UFC 329: Mcgregor vs Holloway 2 - Stream 3 (TNT)"
+        },
+        {
+          "label": "happybirthdayabb.m3u8",
+          "url": "https://daffodil.shadow-ran.online/happybirthdayabb.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.su/ufc",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "daffodil",
+          "path": "happybirthdayabb.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.su/ufc",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "ufc",
+          "event_title": "UFC 329: Mcgregor vs Holloway 2",
+          "matchup": {
+            "home": "UFC 329: Mcgregor",
+            "away": "Holloway 2"
+          },
+          "display_name": "UFC 329: Mcgregor vs Holloway 2 - happybirthdayabb.m3u8"
         }
       ]
     }
   },
-  "stream_count": 43,
+  "stream_count": 47,
   "notes": [
     "Playlist header tags are player hints. Browser CORS requires a server-side proxy."
   ]
