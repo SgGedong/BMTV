@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-12T23:54:00+00:00",
+  "scraped_at": "2026-07-13T01:26:35+00:00",
   "base_url": "https://roxiestreams.su",
   "domains": [
     "shadow-ran.online"
@@ -3386,10 +3386,7 @@
         "Motorsports",
         "Stream Request (Discord)",
         "MultiView (NEW)",
-        "MotoGP - Coverage",
-        "MotoGP - Germany Grand Prix",
-        "WEC - Sao Paulo Race (6 HRS)",
-        "NASCAR Cup Series - Race",
+        "High Limit Raching",
         "Stream Request (Discord)"
       ],
       "links": [
@@ -3434,20 +3431,8 @@
           "url": "https://roxiestreams.su/multiview"
         },
         {
-          "label": "MotoGP - Coverage",
-          "url": "https://roxiestreams.su/motogp"
-        },
-        {
-          "label": "MotoGP - Germany Grand Prix",
-          "url": "https://roxiestreams.su/motogp"
-        },
-        {
-          "label": "WEC - Sao Paulo Race (6 HRS)",
-          "url": "https://roxiestreams.su/wec"
-        },
-        {
-          "label": "NASCAR Cup Series - Race",
-          "url": "https://roxiestreams.su/nascar"
+          "label": "High Limit Raching",
+          "url": "https://roxiestreams.su/floracing-1"
         },
         {
           "label": "Stream Request (Discord)",
