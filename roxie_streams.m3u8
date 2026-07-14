@@ -1,5 +1,5 @@
 #EXTM3U
-# RoxieStreams Playlist - generated 2026-07-14T17:13:55+00:00
+# RoxieStreams Playlist - generated 2026-07-14T18:18:48+00:00
 # Source: https://roxiestreams.su
 
 #EXTINF:-1 tvg-name="France vs Spain - TSN" group-title="SOCCER - France vs Spain",France vs Spain - TSN
@@ -18,7 +18,7 @@ https://admin2.shadow-ran.online/tsn.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.su%2Fsoccer-streams-1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
 #EXTHTTP:{"Referer":"https://roxiestreams.su/soccer-streams-1","Origin":"https://roxiestreams.su","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
-https://admin.shadow-ran.online/foxalt.m3u8
+https://admin2.shadow-ran.online/foxalt.m3u8
 
 #EXTINF:-1 tvg-name="France vs Spain - FOX (ALT)" group-title="SOCCER - France vs Spain",France vs Spain - FOX (ALT)
 #EXTGRP:SOCCER - France vs Spain
@@ -27,7 +27,7 @@ https://admin.shadow-ran.online/foxalt.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.su%2Fsoccer-streams-1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
 #EXTHTTP:{"Referer":"https://roxiestreams.su/soccer-streams-1","Origin":"https://roxiestreams.su","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
-https://admin.shadow-ran.online/fox.m3u8
+https://tedesco.shadow-ran.online/fox.m3u8
 
 #EXTINF:-1 tvg-name="France vs Spain - TELEMUNDO" group-title="SOCCER - France vs Spain",France vs Spain - TELEMUNDO
 #EXTGRP:SOCCER - France vs Spain
@@ -45,7 +45,7 @@ https://admin2.shadow-ran.online/tele.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.su%2Fsoccer-streams-1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
 #EXTHTTP:{"Referer":"https://roxiestreams.su/soccer-streams-1","Origin":"https://roxiestreams.su","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
-https://admin.shadow-ran.online/bein1.m3u8
+https://admin2.shadow-ran.online/bein1.m3u8
 
 #EXTINF:-1 tvg-name="Sporting CP vs Celtic - Stream 1" group-title="SOCCER - Sporting CP vs Celtic",Sporting CP vs Celtic - Stream 1
 #EXTGRP:SOCCER - Sporting CP vs Celtic
@@ -81,7 +81,7 @@ https://tedesco.shadow-ran.online/mlb.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.su%2Fmlb-streams-1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
 #EXTHTTP:{"Referer":"https://roxiestreams.su/mlb-streams-1","Origin":"https://roxiestreams.su","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
-https://admin2.shadow-ran.online/mlb.m3u8
+https://admin22.shadow-ran.online/mlb.m3u8
 
 #EXTINF:-1 tvg-name="MLB All Stars - mlb.m3u8" group-title="MLB - MLB All Stars",MLB All Stars - mlb.m3u8
 #EXTGRP:MLB - MLB All Stars
@@ -92,36 +92,36 @@ https://admin2.shadow-ran.online/mlb.m3u8
 #EXTHTTP:{"Referer":"https://roxiestreams.su/mlb-streams-1","Origin":"https://roxiestreams.su","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
 https://daffodil.shadow-ran.online/mlb.m3u8
 
-#EXTINF:-1 tvg-name="Minnesota Timberwolves vs Portland Trail Blazers - Stream 1" group-title="NBA - Minnesota Timberwolves vs Portland Trail Blazers",Minnesota Timberwolves vs Portland Trail Blazers - Stream 1
-#EXTGRP:NBA - Minnesota Timberwolves vs Portland Trail Blazers
-#EXTDESC:Minnesota Timberwolves vs Portland Trail Blazers
+#EXTINF:-1 tvg-name="Denver Nuggets vs Oklahoma City Thunder - Stream 1" group-title="NBA - Denver Nuggets vs Oklahoma City Thunder",Denver Nuggets vs Oklahoma City Thunder - Stream 1
+#EXTGRP:NBA - Denver Nuggets vs Oklahoma City Thunder
+#EXTDESC:Denver Nuggets vs Oklahoma City Thunder
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/nba-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.su%2Fnba-streams-1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
 #EXTHTTP:{"Referer":"https://roxiestreams.su/nba-streams-1","Origin":"https://roxiestreams.su","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
 https://tedesco.shadow-ran.online/nba.m3u8
 
-#EXTINF:-1 tvg-name="Minnesota Timberwolves vs Portland Trail Blazers - nba.m3u8" group-title="NBA - Minnesota Timberwolves vs Portland Trail Blazers",Minnesota Timberwolves vs Portland Trail Blazers - nba.m3u8
-#EXTGRP:NBA - Minnesota Timberwolves vs Portland Trail Blazers
-#EXTDESC:Minnesota Timberwolves vs Portland Trail Blazers
+#EXTINF:-1 tvg-name="Denver Nuggets vs Oklahoma City Thunder - nba.m3u8" group-title="NBA - Denver Nuggets vs Oklahoma City Thunder",Denver Nuggets vs Oklahoma City Thunder - nba.m3u8
+#EXTGRP:NBA - Denver Nuggets vs Oklahoma City Thunder
+#EXTDESC:Denver Nuggets vs Oklahoma City Thunder
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/nba-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.su%2Fnba-streams-1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
 #EXTHTTP:{"Referer":"https://roxiestreams.su/nba-streams-1","Origin":"https://roxiestreams.su","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
 https://daffodil.shadow-ran.online/nba.m3u8
 
-#EXTINF:-1 tvg-name="Chicago Bulls vs Utah Jazz - Stream 1" group-title="NBA - Chicago Bulls vs Utah Jazz",Chicago Bulls vs Utah Jazz - Stream 1
-#EXTGRP:NBA - Chicago Bulls vs Utah Jazz
-#EXTDESC:Chicago Bulls vs Utah Jazz
+#EXTINF:-1 tvg-name="Los Angeles Clippers vs Los Angeles Lakers - Stream 1" group-title="NBA - Los Angeles Clippers vs Los Angeles Lakers",Los Angeles Clippers vs Los Angeles Lakers - Stream 1
+#EXTGRP:NBA - Los Angeles Clippers vs Los Angeles Lakers
+#EXTDESC:Los Angeles Clippers vs Los Angeles Lakers
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/nba-streams-2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.su%2Fnba-streams-2&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
 #EXTHTTP:{"Referer":"https://roxiestreams.su/nba-streams-2","Origin":"https://roxiestreams.su","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
 https://tedesco.shadow-ran.online/nba2.m3u8
 
-#EXTINF:-1 tvg-name="Chicago Bulls vs Utah Jazz - nba2.m3u8" group-title="NBA - Chicago Bulls vs Utah Jazz",Chicago Bulls vs Utah Jazz - nba2.m3u8
-#EXTGRP:NBA - Chicago Bulls vs Utah Jazz
-#EXTDESC:Chicago Bulls vs Utah Jazz
+#EXTINF:-1 tvg-name="Los Angeles Clippers vs Los Angeles Lakers - nba2.m3u8" group-title="NBA - Los Angeles Clippers vs Los Angeles Lakers",Los Angeles Clippers vs Los Angeles Lakers - nba2.m3u8
+#EXTGRP:NBA - Los Angeles Clippers vs Los Angeles Lakers
+#EXTDESC:Los Angeles Clippers vs Los Angeles Lakers
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/nba-streams-2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.su%2Fnba-streams-2&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
@@ -135,7 +135,7 @@ https://daffodil.shadow-ran.online/nba2.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.su%2Fnhl-streams-1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
 #EXTHTTP:{"Referer":"https://roxiestreams.su/nhl-streams-1","Origin":"https://roxiestreams.su","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
-https://admin.shadow-ran.online/nhl.m3u8
+https://admin2.shadow-ran.online/nhl.m3u8
 
 #EXTINF:-1 tvg-name="NHL Draft 2026 - Stream 2" group-title="NHL - NHL Draft 2026",NHL Draft 2026 - Stream 2
 #EXTGRP:NHL - NHL Draft 2026
@@ -155,6 +155,24 @@ https://tedesco.shadow-ran.online/nhl.m3u8
 #EXTHTTP:{"Referer":"https://roxiestreams.su/nhl-streams-1","Origin":"https://roxiestreams.su","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
 https://daffodil.shadow-ran.online/nhl.m3u8
 
+#EXTINF:-1 tvg-name="Hardman vs Vaotuua (IBC) - Stream 1" group-title="FIGHTING - Hardman vs Vaotuua (IBC)",Hardman vs Vaotuua (IBC) - Stream 1
+#EXTGRP:FIGHTING - Hardman vs Vaotuua (IBC)
+#EXTDESC:Hardman vs Vaotuua (IBC)
+#EXTVLCOPT:http-referrer=https://roxiestreams.su/ppv-streams-1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.su%2Fppv-streams-1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
+#EXTHTTP:{"Referer":"https://roxiestreams.su/ppv-streams-1","Origin":"https://roxiestreams.su","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
+https://admin2.shadow-ran.online/ppv.m3u8
+
+#EXTINF:-1 tvg-name="Hardman vs Vaotuua (IBC) - ppv.m3u8" group-title="FIGHTING - Hardman vs Vaotuua (IBC)",Hardman vs Vaotuua (IBC) - ppv.m3u8
+#EXTGRP:FIGHTING - Hardman vs Vaotuua (IBC)
+#EXTDESC:Hardman vs Vaotuua (IBC)
+#EXTVLCOPT:http-referrer=https://roxiestreams.su/ppv-streams-1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.su%2Fppv-streams-1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
+#EXTHTTP:{"Referer":"https://roxiestreams.su/ppv-streams-1","Origin":"https://roxiestreams.su","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
+https://daffodil.shadow-ran.online/ppv.m3u8
+
 #EXTINF:-1 tvg-name="WWE Smackdown - Stream 1" group-title="FIGHTING - WWE Smackdown",WWE Smackdown - Stream 1
 #EXTGRP:FIGHTING - WWE Smackdown
 #EXTDESC:WWE Smackdown
@@ -162,7 +180,7 @@ https://daffodil.shadow-ran.online/nhl.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.su%2Fwwe-streams&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
 #EXTHTTP:{"Referer":"https://roxiestreams.su/wwe-streams","Origin":"https://roxiestreams.su","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
-https://admin2.shadow-ran.online/wwe.m3u8
+https://admin22.shadow-ran.online/wwe.m3u8
 
 #EXTINF:-1 tvg-name="WWE Smackdown - Stream 2" group-title="FIGHTING - WWE Smackdown",WWE Smackdown - Stream 2
 #EXTGRP:FIGHTING - WWE Smackdown
@@ -207,7 +225,7 @@ https://daffodil.shadow-ran.online/aew.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.su%2Fwwe-streams&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
 #EXTHTTP:{"Referer":"https://roxiestreams.su/wwe-streams","Origin":"https://roxiestreams.su","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
-https://admin2.shadow-ran.online/wwe.m3u8
+https://admin22.shadow-ran.online/wwe.m3u8
 
 #EXTINF:-1 tvg-name="WWE Smackdown - Stream 2" group-title="WWE - WWE Smackdown",WWE Smackdown - Stream 2
 #EXTGRP:WWE - WWE Smackdown
