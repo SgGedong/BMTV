@@ -1,5 +1,5 @@
 #EXTM3U
-# RoxieStreams Playlist - generated 2026-07-14T22:07:15+00:00
+# RoxieStreams Playlist - generated 2026-07-14T23:13:57+00:00
 # Source: https://roxiestreams.su
 
 #EXTINF:-1 tvg-name="France vs Spain - TSN" group-title="SOCCER - France vs Spain",France vs Spain - TSN
@@ -81,7 +81,7 @@ https://tedesco.shadow-ran.online/mlb.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.su%2Fmlb-streams-1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
 #EXTHTTP:{"Referer":"https://roxiestreams.su/mlb-streams-1","Origin":"https://roxiestreams.su","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
-https://admin22.shadow-ran.online/mlb.m3u8
+https://admin2.shadow-ran.online/foxalt.m3u8
 
 #EXTINF:-1 tvg-name="MLB All Stars - mlb.m3u8" group-title="MLB - MLB All Stars",MLB All Stars - mlb.m3u8
 #EXTGRP:MLB - MLB All Stars

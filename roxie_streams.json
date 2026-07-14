@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-14T22:07:15+00:00",
+  "scraped_at": "2026-07-14T23:13:57+00:00",
   "base_url": "https://roxiestreams.su",
   "domains": [
     "shadow-ran.online"
@@ -241,12 +241,12 @@
           },
           {
             "label": "Stream 2",
-            "url": "https://admin22.shadow-ran.online/mlb.m3u8",
+            "url": "https://admin2.shadow-ran.online/foxalt.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/mlb-streams-1",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "admin22",
-            "path": "mlb.m3u8",
+            "subdomain": "admin2",
+            "path": "foxalt.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/mlb-streams-1",
               "Origin": "https://roxiestreams.su",
@@ -2118,12 +2118,12 @@
         },
         {
           "label": "Stream 2",
-          "url": "https://admin22.shadow-ran.online/mlb.m3u8",
+          "url": "https://admin2.shadow-ran.online/foxalt.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/mlb-streams-1",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "admin22",
-          "path": "mlb.m3u8",
+          "subdomain": "admin2",
+          "path": "foxalt.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/mlb-streams-1",
             "Origin": "https://roxiestreams.su",
