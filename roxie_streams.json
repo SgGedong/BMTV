@@ -1,10 +1,15 @@
 {
-  "scraped_at": "2026-07-15T08:38:16+00:00",
+  "scraped_at": "2026-07-15T10:27:57+00:00",
   "base_url": "https://roxiestreams.su",
   "domains": [
     "shadow-ran.online"
   ],
   "events": [
+    {
+      "name": "HARDMAN VS VAOTUUA (IBC)",
+      "page": "https://roxiestreams.su/ppv-streams-1",
+      "start_time": "July 15, 2026 2:00 AM"
+    },
     {
       "name": "World Cup (Argentina vs England)",
       "page": "https://roxiestreams.su/soccer-streams-1",
@@ -403,6 +408,63 @@
             "display_name": "Washington Wizards vs Los Angeles Clippers - nba3.m3u8"
           }
         ]
+      },
+      {
+        "title": "Seattle Storm vs Chicago Sky",
+        "sport": "nba",
+        "matchup": {
+          "home": "Seattle Storm",
+          "away": "Chicago Sky"
+        },
+        "page": "https://roxiestreams.su/wnba-streams-1",
+        "streams": [
+          {
+            "label": "Stream 1",
+            "url": "https://admin2.shadow-ran.online/wnba.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.su/wnba-streams-1",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "admin2",
+            "path": "wnba.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.su/wnba-streams-1",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "nba",
+            "event_title": "Seattle Storm vs Chicago Sky",
+            "matchup": {
+              "home": "Seattle Storm",
+              "away": "Chicago Sky"
+            },
+            "display_name": "Seattle Storm vs Chicago Sky - Stream 1"
+          },
+          {
+            "label": "wnba.m3u8",
+            "url": "https://daffodil.shadow-ran.online/wnba.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.su/wnba-streams-1",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "daffodil",
+            "path": "wnba.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.su/wnba-streams-1",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "nba",
+            "event_title": "Seattle Storm vs Chicago Sky",
+            "matchup": {
+              "home": "Seattle Storm",
+              "away": "Chicago Sky"
+            },
+            "display_name": "Seattle Storm vs Chicago Sky - wnba.m3u8"
+          }
+        ]
       }
     ],
     "nfl": [],
@@ -634,7 +696,66 @@
         ]
       }
     ],
-    "multiview": []
+    "multiview": [],
+    "ppv": [
+      {
+        "title": "Hardman vs Vaotuua (IBC)",
+        "sport": "ppv",
+        "matchup": {
+          "home": "Hardman",
+          "away": "Vaotuua (IBC)"
+        },
+        "page": "https://roxiestreams.su/ppv-streams-1",
+        "streams": [
+          {
+            "label": "Stream 1",
+            "url": "https://admin2.shadow-ran.online/ppv.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.su/ppv-streams-1",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "admin2",
+            "path": "ppv.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.su/ppv-streams-1",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "ppv",
+            "event_title": "Hardman vs Vaotuua (IBC)",
+            "matchup": {
+              "home": "Hardman",
+              "away": "Vaotuua (IBC)"
+            },
+            "display_name": "Hardman vs Vaotuua (IBC) - Stream 1"
+          },
+          {
+            "label": "ppv.m3u8",
+            "url": "https://daffodil.shadow-ran.online/ppv.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.su/ppv-streams-1",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "daffodil",
+            "path": "ppv.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.su/ppv-streams-1",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "ppv",
+            "event_title": "Hardman vs Vaotuua (IBC)",
+            "matchup": {
+              "home": "Hardman",
+              "away": "Vaotuua (IBC)"
+            },
+            "display_name": "Hardman vs Vaotuua (IBC) - ppv.m3u8"
+          }
+        ]
+      }
+    ]
   },
   "pages": {
     "https://roxiestreams.su/soccer": {
@@ -923,7 +1044,8 @@
       "url": "https://roxiestreams.su/nba",
       "title": "Roxiestreams - Watch Live Sports, F1, UFC, NFL, TV",
       "headings": [
-        "Upcoming NBA Events"
+        "Upcoming NBA Events",
+        "WNBA Games"
       ],
       "controls": [
         "RoxieStreams",
@@ -940,6 +1062,9 @@
         "Phoenix Suns vs Detroit Pistons",
         "Boston Celtics vs Sacramento Kings",
         "Washington Wizards vs Los Angeles Clippers",
+        "Seattle Storm vs Chicago Sky",
+        "Los Angeles Sparks vs Minnesota Lynx",
+        "Golden State Valkyries vs Indiana Fever",
         "Stream Request (Discord)"
       ],
       "links": [
@@ -998,6 +1123,18 @@
         {
           "label": "Washington Wizards vs Los Angeles Clippers",
           "url": "https://roxiestreams.su/nba-streams-3"
+        },
+        {
+          "label": "Seattle Storm vs Chicago Sky",
+          "url": "https://roxiestreams.su/wnba-streams-1"
+        },
+        {
+          "label": "Los Angeles Sparks vs Minnesota Lynx",
+          "url": "https://roxiestreams.su/wnba-streams-2"
+        },
+        {
+          "label": "Golden State Valkyries vs Indiana Fever",
+          "url": "https://roxiestreams.su/wnba-streams-3"
         },
         {
           "label": "Stream Request (Discord)",
@@ -1139,6 +1276,204 @@
     },
     "https://roxiestreams.su/nba-streams-3": {
       "url": "https://roxiestreams.su/nba-streams-3",
+      "title": "Roxiestreams - Watch Live Sports, F1, UFC, NFL, TV",
+      "headings": [],
+      "controls": [
+        "RoxieStreams",
+        "Soccer (WC 2026)",
+        "MLB",
+        "NBA",
+        "NFL",
+        "NHL",
+        "Fighting",
+        "Motorsports",
+        "Stream Request (Discord)",
+        "MultiView (NEW)",
+        "Stream 1",
+        "Switch to Chatango",
+        "Stream Request (Discord)"
+      ],
+      "links": [
+        {
+          "label": "RoxieStreams",
+          "url": "https://roxiestreams.su/"
+        },
+        {
+          "label": "Soccer (WC 2026)",
+          "url": "https://roxiestreams.su/soccer"
+        },
+        {
+          "label": "MLB",
+          "url": "https://roxiestreams.su/mlb"
+        },
+        {
+          "label": "NBA",
+          "url": "https://roxiestreams.su/nba"
+        },
+        {
+          "label": "NFL",
+          "url": "https://roxiestreams.su/nfl"
+        },
+        {
+          "label": "NHL",
+          "url": "https://roxiestreams.su/nhl"
+        },
+        {
+          "label": "Fighting",
+          "url": "https://roxiestreams.su/fighting"
+        },
+        {
+          "label": "Motorsports",
+          "url": "https://roxiestreams.su/motorsports"
+        },
+        {
+          "label": "Stream Request (Discord)",
+          "url": "https://discord.gg/JhkVmejRmn"
+        },
+        {
+          "label": "MultiView (NEW)",
+          "url": "https://roxiestreams.su/multiview"
+        },
+        {
+          "label": "Stream Request (Discord)",
+          "url": "https://discord.gg/JhkVmejRmn"
+        }
+      ]
+    },
+    "https://roxiestreams.su/wnba-streams-1": {
+      "url": "https://roxiestreams.su/wnba-streams-1",
+      "title": "Roxiestreams - Watch Live Sports, F1, UFC, NFL, TV",
+      "headings": [],
+      "controls": [
+        "RoxieStreams",
+        "Soccer (WC 2026)",
+        "MLB",
+        "NBA",
+        "NFL",
+        "NHL",
+        "Fighting",
+        "Motorsports",
+        "Stream Request (Discord)",
+        "MultiView (NEW)",
+        "Stream 1",
+        "Switch to Chatango",
+        "Stream Request (Discord)"
+      ],
+      "links": [
+        {
+          "label": "RoxieStreams",
+          "url": "https://roxiestreams.su/"
+        },
+        {
+          "label": "Soccer (WC 2026)",
+          "url": "https://roxiestreams.su/soccer"
+        },
+        {
+          "label": "MLB",
+          "url": "https://roxiestreams.su/mlb"
+        },
+        {
+          "label": "NBA",
+          "url": "https://roxiestreams.su/nba"
+        },
+        {
+          "label": "NFL",
+          "url": "https://roxiestreams.su/nfl"
+        },
+        {
+          "label": "NHL",
+          "url": "https://roxiestreams.su/nhl"
+        },
+        {
+          "label": "Fighting",
+          "url": "https://roxiestreams.su/fighting"
+        },
+        {
+          "label": "Motorsports",
+          "url": "https://roxiestreams.su/motorsports"
+        },
+        {
+          "label": "Stream Request (Discord)",
+          "url": "https://discord.gg/JhkVmejRmn"
+        },
+        {
+          "label": "MultiView (NEW)",
+          "url": "https://roxiestreams.su/multiview"
+        },
+        {
+          "label": "Stream Request (Discord)",
+          "url": "https://discord.gg/JhkVmejRmn"
+        }
+      ]
+    },
+    "https://roxiestreams.su/wnba-streams-2": {
+      "url": "https://roxiestreams.su/wnba-streams-2",
+      "title": "Roxiestreams - Watch Live Sports, F1, UFC, NFL, TV",
+      "headings": [],
+      "controls": [
+        "RoxieStreams",
+        "Soccer (WC 2026)",
+        "MLB",
+        "NBA",
+        "NFL",
+        "NHL",
+        "Fighting",
+        "Motorsports",
+        "Stream Request (Discord)",
+        "MultiView (NEW)",
+        "Stream 1",
+        "Switch to Chatango",
+        "Stream Request (Discord)"
+      ],
+      "links": [
+        {
+          "label": "RoxieStreams",
+          "url": "https://roxiestreams.su/"
+        },
+        {
+          "label": "Soccer (WC 2026)",
+          "url": "https://roxiestreams.su/soccer"
+        },
+        {
+          "label": "MLB",
+          "url": "https://roxiestreams.su/mlb"
+        },
+        {
+          "label": "NBA",
+          "url": "https://roxiestreams.su/nba"
+        },
+        {
+          "label": "NFL",
+          "url": "https://roxiestreams.su/nfl"
+        },
+        {
+          "label": "NHL",
+          "url": "https://roxiestreams.su/nhl"
+        },
+        {
+          "label": "Fighting",
+          "url": "https://roxiestreams.su/fighting"
+        },
+        {
+          "label": "Motorsports",
+          "url": "https://roxiestreams.su/motorsports"
+        },
+        {
+          "label": "Stream Request (Discord)",
+          "url": "https://discord.gg/JhkVmejRmn"
+        },
+        {
+          "label": "MultiView (NEW)",
+          "url": "https://roxiestreams.su/multiview"
+        },
+        {
+          "label": "Stream Request (Discord)",
+          "url": "https://discord.gg/JhkVmejRmn"
+        }
+      ]
+    },
+    "https://roxiestreams.su/wnba-streams-3": {
+      "url": "https://roxiestreams.su/wnba-streams-3",
       "title": "Roxiestreams - Watch Live Sports, F1, UFC, NFL, TV",
       "headings": [],
       "controls": [
@@ -2028,7 +2363,10 @@
         "https://roxiestreams.su/nba",
         "https://roxiestreams.su/nba-streams-1",
         "https://roxiestreams.su/nba-streams-2",
-        "https://roxiestreams.su/nba-streams-3"
+        "https://roxiestreams.su/nba-streams-3",
+        "https://roxiestreams.su/wnba-streams-1",
+        "https://roxiestreams.su/wnba-streams-2",
+        "https://roxiestreams.su/wnba-streams-3"
       ],
       "streams": [
         {
@@ -2168,6 +2506,52 @@
             "away": "Los Angeles Clippers"
           },
           "display_name": "Washington Wizards vs Los Angeles Clippers - nba3.m3u8"
+        },
+        {
+          "label": "Stream 1",
+          "url": "https://admin2.shadow-ran.online/wnba.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.su/wnba-streams-1",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "admin2",
+          "path": "wnba.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.su/wnba-streams-1",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "nba",
+          "event_title": "Seattle Storm vs Chicago Sky",
+          "matchup": {
+            "home": "Seattle Storm",
+            "away": "Chicago Sky"
+          },
+          "display_name": "Seattle Storm vs Chicago Sky - Stream 1"
+        },
+        {
+          "label": "wnba.m3u8",
+          "url": "https://daffodil.shadow-ran.online/wnba.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.su/wnba-streams-1",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "daffodil",
+          "path": "wnba.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.su/wnba-streams-1",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "nba",
+          "event_title": "Seattle Storm vs Chicago Sky",
+          "matchup": {
+            "home": "Seattle Storm",
+            "away": "Chicago Sky"
+          },
+          "display_name": "Seattle Storm vs Chicago Sky - wnba.m3u8"
         }
       ]
     },
@@ -2398,9 +2782,62 @@
         "https://roxiestreams.su/multiview"
       ],
       "streams": []
+    },
+    "ppv": {
+      "pages": [
+        "https://roxiestreams.su/ppv-streams-1"
+      ],
+      "streams": [
+        {
+          "label": "Stream 1",
+          "url": "https://admin2.shadow-ran.online/ppv.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.su/ppv-streams-1",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "admin2",
+          "path": "ppv.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.su/ppv-streams-1",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "ppv",
+          "event_title": "Hardman vs Vaotuua (IBC)",
+          "matchup": {
+            "home": "Hardman",
+            "away": "Vaotuua (IBC)"
+          },
+          "display_name": "Hardman vs Vaotuua (IBC) - Stream 1"
+        },
+        {
+          "label": "ppv.m3u8",
+          "url": "https://daffodil.shadow-ran.online/ppv.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.su/ppv-streams-1",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "daffodil",
+          "path": "ppv.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.su/ppv-streams-1",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "ppv",
+          "event_title": "Hardman vs Vaotuua (IBC)",
+          "matchup": {
+            "home": "Hardman",
+            "away": "Vaotuua (IBC)"
+          },
+          "display_name": "Hardman vs Vaotuua (IBC) - ppv.m3u8"
+        }
+      ]
     }
   },
-  "stream_count": 23,
+  "stream_count": 27,
   "notes": [
     "Playlist header tags are player hints. Browser CORS requires a server-side proxy."
   ]
