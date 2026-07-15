@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-14T23:13:57+00:00",
+  "scraped_at": "2026-07-15T00:08:31+00:00",
   "base_url": "https://roxiestreams.su",
   "domains": [
     "shadow-ran.online"
@@ -221,26 +221,6 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://tedesco.shadow-ran.online/mlb.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.su/mlb-streams-1",
-            "cdn_domain": "shadow-ran.online",
-            "subdomain": "tedesco",
-            "path": "mlb.m3u8",
-            "headers": {
-              "Referer": "https://roxiestreams.su/mlb-streams-1",
-              "Origin": "https://roxiestreams.su",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "mlb",
-            "event_title": "MLB All Stars",
-            "matchup": null,
-            "display_name": "MLB All Stars - Stream 1"
-          },
-          {
-            "label": "Stream 2",
             "url": "https://admin2.shadow-ran.online/foxalt.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/mlb-streams-1",
@@ -257,15 +237,15 @@
             "sport": "mlb",
             "event_title": "MLB All Stars",
             "matchup": null,
-            "display_name": "MLB All Stars - Stream 2"
+            "display_name": "MLB All Stars - Stream 1"
           },
           {
-            "label": "mlb.m3u8",
-            "url": "https://daffodil.shadow-ran.online/mlb.m3u8",
+            "label": "Stream 2",
+            "url": "https://tedesco.shadow-ran.online/mlb.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/mlb-streams-1",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "daffodil",
+            "subdomain": "tedesco",
             "path": "mlb.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/mlb-streams-1",
@@ -277,7 +257,27 @@
             "sport": "mlb",
             "event_title": "MLB All Stars",
             "matchup": null,
-            "display_name": "MLB All Stars - mlb.m3u8"
+            "display_name": "MLB All Stars - Stream 2"
+          },
+          {
+            "label": "foxalt.m3u8",
+            "url": "https://daffodil.shadow-ran.online/foxalt.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.su/mlb-streams-1",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "daffodil",
+            "path": "foxalt.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.su/mlb-streams-1",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "mlb",
+            "event_title": "MLB All Stars",
+            "matchup": null,
+            "display_name": "MLB All Stars - foxalt.m3u8"
           }
         ]
       }
@@ -2098,26 +2098,6 @@
       "streams": [
         {
           "label": "Stream 1",
-          "url": "https://tedesco.shadow-ran.online/mlb.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.su/mlb-streams-1",
-          "cdn_domain": "shadow-ran.online",
-          "subdomain": "tedesco",
-          "path": "mlb.m3u8",
-          "headers": {
-            "Referer": "https://roxiestreams.su/mlb-streams-1",
-            "Origin": "https://roxiestreams.su",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "mlb",
-          "event_title": "MLB All Stars",
-          "matchup": null,
-          "display_name": "MLB All Stars - Stream 1"
-        },
-        {
-          "label": "Stream 2",
           "url": "https://admin2.shadow-ran.online/foxalt.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/mlb-streams-1",
@@ -2134,15 +2114,15 @@
           "sport": "mlb",
           "event_title": "MLB All Stars",
           "matchup": null,
-          "display_name": "MLB All Stars - Stream 2"
+          "display_name": "MLB All Stars - Stream 1"
         },
         {
-          "label": "mlb.m3u8",
-          "url": "https://daffodil.shadow-ran.online/mlb.m3u8",
+          "label": "Stream 2",
+          "url": "https://tedesco.shadow-ran.online/mlb.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/mlb-streams-1",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "daffodil",
+          "subdomain": "tedesco",
           "path": "mlb.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/mlb-streams-1",
@@ -2154,7 +2134,27 @@
           "sport": "mlb",
           "event_title": "MLB All Stars",
           "matchup": null,
-          "display_name": "MLB All Stars - mlb.m3u8"
+          "display_name": "MLB All Stars - Stream 2"
+        },
+        {
+          "label": "foxalt.m3u8",
+          "url": "https://daffodil.shadow-ran.online/foxalt.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.su/mlb-streams-1",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "daffodil",
+          "path": "foxalt.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.su/mlb-streams-1",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "mlb",
+          "event_title": "MLB All Stars",
+          "matchup": null,
+          "display_name": "MLB All Stars - foxalt.m3u8"
         }
       ]
     },
