@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-16T06:17:41+00:00",
+  "scraped_at": "2026-07-16T08:37:26+00:00",
   "base_url": "https://roxiestreams.su",
   "domains": [
     "shadow-ran.online"
@@ -153,11 +153,11 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://admin2.shadow-ran.online/tyc.m3u8",
+            "url": "https://tedesco.shadow-ran.online/tyc.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-3",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "admin2",
+            "subdomain": "tedesco",
             "path": "tyc.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/soccer-streams-3",
@@ -2411,11 +2411,11 @@
         },
         {
           "label": "Stream 1",
-          "url": "https://admin2.shadow-ran.online/tyc.m3u8",
+          "url": "https://tedesco.shadow-ran.online/tyc.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-3",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "admin2",
+          "subdomain": "tedesco",
           "path": "tyc.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/soccer-streams-3",
