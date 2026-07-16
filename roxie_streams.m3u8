@@ -1,5 +1,5 @@
 #EXTM3U
-# RoxieStreams Playlist - generated 2026-07-16T21:27:34+00:00
+# RoxieStreams Playlist - generated 2026-07-16T22:34:44+00:00
 # Source: https://roxiestreams.su
 
 #EXTINF:-1 tvg-name="Botafogo vs Santos - Stream 1" group-title="SOCCER - Botafogo vs Santos",Botafogo vs Santos - Stream 1
@@ -10,6 +10,15 @@
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.su%2Fsoccer-streams-1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
 #EXTHTTP:{"Referer":"https://roxiestreams.su/soccer-streams-1","Origin":"https://roxiestreams.su","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
 https://admin2.shadow-ran.online/fana.m3u8
+
+#EXTINF:-1 tvg-name="Botafogo vs Santos - Stream 2 (ENGLISH)" group-title="SOCCER - Botafogo vs Santos",Botafogo vs Santos - Stream 2 (ENGLISH)
+#EXTGRP:SOCCER - Botafogo vs Santos
+#EXTDESC:Botafogo vs Santos
+#EXTVLCOPT:http-referrer=https://roxiestreams.su/soccer-streams-1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.su%2Fsoccer-streams-1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
+#EXTHTTP:{"Referer":"https://roxiestreams.su/soccer-streams-1","Origin":"https://roxiestreams.su","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
+https://admin2.shadow-ran.online/fanaen.m3u8
 
 #EXTINF:-1 tvg-name="Botafogo vs Santos - fana.m3u8" group-title="SOCCER - Botafogo vs Santos",Botafogo vs Santos - fana.m3u8
 #EXTGRP:SOCCER - Botafogo vs Santos
@@ -72,25 +81,16 @@ https://admin2.shadow-ran.online/foxmx.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.su%2Fmlb-streams-1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
 #EXTHTTP:{"Referer":"https://roxiestreams.su/mlb-streams-1","Origin":"https://roxiestreams.su","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
-https://admin2.shadow-ran.online/foxalt.m3u8
+https://admin2.shadow-ran.online/mlb.m3u8
 
-#EXTINF:-1 tvg-name="New York Mets vs Philadelphia Phillies - Stream 2" group-title="MLB - New York Mets vs Philadelphia Phillies",New York Mets vs Philadelphia Phillies - Stream 2
+#EXTINF:-1 tvg-name="New York Mets vs Philadelphia Phillies - mlb.m3u8" group-title="MLB - New York Mets vs Philadelphia Phillies",New York Mets vs Philadelphia Phillies - mlb.m3u8
 #EXTGRP:MLB - New York Mets vs Philadelphia Phillies
 #EXTDESC:New York Mets vs Philadelphia Phillies
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/mlb-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.su%2Fmlb-streams-1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
 #EXTHTTP:{"Referer":"https://roxiestreams.su/mlb-streams-1","Origin":"https://roxiestreams.su","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
-https://tedesco.shadow-ran.online/mlb.m3u8
-
-#EXTINF:-1 tvg-name="New York Mets vs Philadelphia Phillies - foxalt.m3u8" group-title="MLB - New York Mets vs Philadelphia Phillies",New York Mets vs Philadelphia Phillies - foxalt.m3u8
-#EXTGRP:MLB - New York Mets vs Philadelphia Phillies
-#EXTDESC:New York Mets vs Philadelphia Phillies
-#EXTVLCOPT:http-referrer=https://roxiestreams.su/mlb-streams-1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.su%2Fmlb-streams-1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
-#EXTHTTP:{"Referer":"https://roxiestreams.su/mlb-streams-1","Origin":"https://roxiestreams.su","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
-https://daffodil.shadow-ran.online/foxalt.m3u8
+https://daffodil.shadow-ran.online/mlb.m3u8
 
 #EXTINF:-1 tvg-name="Brooklyn Nets vs Houston Rockets - Stream 1" group-title="NBA - Brooklyn Nets vs Houston Rockets",Brooklyn Nets vs Houston Rockets - Stream 1
 #EXTGRP:NBA - Brooklyn Nets vs Houston Rockets
@@ -135,7 +135,7 @@ https://daffodil.shadow-ran.online/nba2.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.su%2Fwnba-streams-1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
 #EXTHTTP:{"Referer":"https://roxiestreams.su/wnba-streams-1","Origin":"https://roxiestreams.su","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
-https://admin2.shadow-ran.online/wnba.m3u8
+https://tedesco.shadow-ran.online/wnba.m3u8
 
 #EXTINF:-1 tvg-name="Portland Fire vs Washington Mystics - wnba.m3u8" group-title="NBA - Portland Fire vs Washington Mystics",Portland Fire vs Washington Mystics - wnba.m3u8
 #EXTGRP:NBA - Portland Fire vs Washington Mystics
@@ -153,7 +153,7 @@ https://daffodil.shadow-ran.online/wnba.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.su%2Fwnba-streams-2&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
 #EXTHTTP:{"Referer":"https://roxiestreams.su/wnba-streams-2","Origin":"https://roxiestreams.su","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
-https://admin2.shadow-ran.online/wnba2.m3u8
+https://tedesco.shadow-ran.online/wnba2.m3u8
 
 #EXTINF:-1 tvg-name="New York Liberty vs Dallas Wings - wnba2.m3u8" group-title="NBA - New York Liberty vs Dallas Wings",New York Liberty vs Dallas Wings - wnba2.m3u8
 #EXTGRP:NBA - New York Liberty vs Dallas Wings

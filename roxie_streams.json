@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-16T21:27:34+00:00",
+  "scraped_at": "2026-07-16T22:34:44+00:00",
   "base_url": "https://roxiestreams.su",
   "domains": [
     "shadow-ran.online"
@@ -44,6 +44,29 @@
               "away": "Santos"
             },
             "display_name": "Botafogo vs Santos - Stream 1"
+          },
+          {
+            "label": "Stream 2 (ENGLISH)",
+            "url": "https://admin2.shadow-ran.online/fanaen.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.su/soccer-streams-1",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "admin2",
+            "path": "fanaen.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.su/soccer-streams-1",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "Botafogo vs Santos",
+            "matchup": {
+              "home": "Botafogo",
+              "away": "Santos"
+            },
+            "display_name": "Botafogo vs Santos - Stream 2 (ENGLISH)"
           },
           {
             "label": "fana.m3u8",
@@ -231,12 +254,12 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://admin2.shadow-ran.online/foxalt.m3u8",
+            "url": "https://admin2.shadow-ran.online/mlb.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/mlb-streams-1",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "admin2",
-            "path": "foxalt.m3u8",
+            "path": "mlb.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/mlb-streams-1",
               "Origin": "https://roxiestreams.su",
@@ -253,12 +276,12 @@
             "display_name": "New York Mets vs Philadelphia Phillies - Stream 1"
           },
           {
-            "label": "Stream 2",
-            "url": "https://tedesco.shadow-ran.online/mlb.m3u8",
+            "label": "mlb.m3u8",
+            "url": "https://daffodil.shadow-ran.online/mlb.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/mlb-streams-1",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "tedesco",
+            "subdomain": "daffodil",
             "path": "mlb.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/mlb-streams-1",
@@ -273,30 +296,7 @@
               "home": "New York Mets",
               "away": "Philadelphia Phillies"
             },
-            "display_name": "New York Mets vs Philadelphia Phillies - Stream 2"
-          },
-          {
-            "label": "foxalt.m3u8",
-            "url": "https://daffodil.shadow-ran.online/foxalt.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.su/mlb-streams-1",
-            "cdn_domain": "shadow-ran.online",
-            "subdomain": "daffodil",
-            "path": "foxalt.m3u8",
-            "headers": {
-              "Referer": "https://roxiestreams.su/mlb-streams-1",
-              "Origin": "https://roxiestreams.su",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "mlb",
-            "event_title": "New York Mets vs Philadelphia Phillies",
-            "matchup": {
-              "home": "New York Mets",
-              "away": "Philadelphia Phillies"
-            },
-            "display_name": "New York Mets vs Philadelphia Phillies - foxalt.m3u8"
+            "display_name": "New York Mets vs Philadelphia Phillies - mlb.m3u8"
           }
         ]
       }
@@ -427,11 +427,11 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://admin2.shadow-ran.online/wnba.m3u8",
+            "url": "https://tedesco.shadow-ran.online/wnba.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/wnba-streams-1",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "admin2",
+            "subdomain": "tedesco",
             "path": "wnba.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/wnba-streams-1",
@@ -484,11 +484,11 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://admin2.shadow-ran.online/wnba2.m3u8",
+            "url": "https://tedesco.shadow-ran.online/wnba2.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/wnba-streams-2",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "admin2",
+            "subdomain": "tedesco",
             "path": "wnba2.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/wnba-streams-2",
@@ -821,6 +821,7 @@
         "Stream Request (Discord)",
         "MultiView (NEW)",
         "Stream 1",
+        "Stream 2 (ENGLISH)",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -1224,7 +1225,6 @@
         "Stream Request (Discord)",
         "MultiView (NEW)",
         "Stream 1",
-        "Stream 2",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -2209,6 +2209,29 @@
           "display_name": "Botafogo vs Santos - Stream 1"
         },
         {
+          "label": "Stream 2 (ENGLISH)",
+          "url": "https://admin2.shadow-ran.online/fanaen.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.su/soccer-streams-1",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "admin2",
+          "path": "fanaen.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.su/soccer-streams-1",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "Botafogo vs Santos",
+          "matchup": {
+            "home": "Botafogo",
+            "away": "Santos"
+          },
+          "display_name": "Botafogo vs Santos - Stream 2 (ENGLISH)"
+        },
+        {
           "label": "fana.m3u8",
           "url": "https://daffodil.shadow-ran.online/fana.m3u8",
           "type": "m3u8",
@@ -2356,12 +2379,12 @@
       "streams": [
         {
           "label": "Stream 1",
-          "url": "https://admin2.shadow-ran.online/foxalt.m3u8",
+          "url": "https://admin2.shadow-ran.online/mlb.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/mlb-streams-1",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "admin2",
-          "path": "foxalt.m3u8",
+          "path": "mlb.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/mlb-streams-1",
             "Origin": "https://roxiestreams.su",
@@ -2378,12 +2401,12 @@
           "display_name": "New York Mets vs Philadelphia Phillies - Stream 1"
         },
         {
-          "label": "Stream 2",
-          "url": "https://tedesco.shadow-ran.online/mlb.m3u8",
+          "label": "mlb.m3u8",
+          "url": "https://daffodil.shadow-ran.online/mlb.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/mlb-streams-1",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "tedesco",
+          "subdomain": "daffodil",
           "path": "mlb.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/mlb-streams-1",
@@ -2398,30 +2421,7 @@
             "home": "New York Mets",
             "away": "Philadelphia Phillies"
           },
-          "display_name": "New York Mets vs Philadelphia Phillies - Stream 2"
-        },
-        {
-          "label": "foxalt.m3u8",
-          "url": "https://daffodil.shadow-ran.online/foxalt.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.su/mlb-streams-1",
-          "cdn_domain": "shadow-ran.online",
-          "subdomain": "daffodil",
-          "path": "foxalt.m3u8",
-          "headers": {
-            "Referer": "https://roxiestreams.su/mlb-streams-1",
-            "Origin": "https://roxiestreams.su",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "mlb",
-          "event_title": "New York Mets vs Philadelphia Phillies",
-          "matchup": {
-            "home": "New York Mets",
-            "away": "Philadelphia Phillies"
-          },
-          "display_name": "New York Mets vs Philadelphia Phillies - foxalt.m3u8"
+          "display_name": "New York Mets vs Philadelphia Phillies - mlb.m3u8"
         }
       ]
     },
@@ -2528,11 +2528,11 @@
         },
         {
           "label": "Stream 1",
-          "url": "https://admin2.shadow-ran.online/wnba.m3u8",
+          "url": "https://tedesco.shadow-ran.online/wnba.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/wnba-streams-1",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "admin2",
+          "subdomain": "tedesco",
           "path": "wnba.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/wnba-streams-1",
@@ -2574,11 +2574,11 @@
         },
         {
           "label": "Stream 1",
-          "url": "https://admin2.shadow-ran.online/wnba2.m3u8",
+          "url": "https://tedesco.shadow-ran.online/wnba2.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/wnba-streams-2",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "admin2",
+          "subdomain": "tedesco",
           "path": "wnba2.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/wnba-streams-2",
