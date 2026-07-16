@@ -1,29 +1,14 @@
 {
-  "scraped_at": "2026-07-16T16:01:43+00:00",
+  "scraped_at": "2026-07-16T17:42:14+00:00",
   "base_url": "https://roxiestreams.su",
   "domains": [
     "shadow-ran.online"
   ],
   "events": [
     {
-      "name": "HARDMAN VS VAOTUUA (IBC)",
-      "page": "https://roxiestreams.su/ppv-streams-1",
-      "start_time": "July 15, 2026 2:00 AM"
-    },
-    {
-      "name": "World Cup (Argentina vs England)",
-      "page": "https://roxiestreams.su/soccer-streams-1",
-      "start_time": "July 15, 2026 12:00 PM"
-    },
-    {
       "name": "NBA Summer League",
       "page": "https://roxiestreams.su/nba",
-      "start_time": "July 15, 2026 1:00 PM"
-    },
-    {
-      "name": "AEW",
-      "page": "https://roxiestreams.su/aew",
-      "start_time": "July 15, 2026 5:00 PM"
+      "start_time": "July 16, 2026 1:30 PM"
     }
   ],
   "events_by_sport": {
@@ -670,7 +655,7 @@
     "motorsports": [],
     "aew": [
       {
-        "title": "AEW",
+        "title": "Stream 1",
         "sport": "aew",
         "matchup": null,
         "page": "https://roxiestreams.su/aew",
@@ -691,10 +676,18 @@
             },
             "drm_keys": null,
             "sport": "aew",
-            "event_title": "AEW",
+            "event_title": "Stream 1",
             "matchup": null,
-            "display_name": "AEW - Stream 1"
-          },
+            "display_name": "Stream 1"
+          }
+        ]
+      },
+      {
+        "title": "aew.m3u8",
+        "sport": "aew",
+        "matchup": null,
+        "page": "https://roxiestreams.su/aew",
+        "streams": [
           {
             "label": "aew.m3u8",
             "url": "https://daffodil.shadow-ran.online/aew.m3u8",
@@ -711,73 +704,14 @@
             },
             "drm_keys": null,
             "sport": "aew",
-            "event_title": "AEW",
+            "event_title": "aew.m3u8",
             "matchup": null,
-            "display_name": "AEW - aew.m3u8"
+            "display_name": "aew.m3u8"
           }
         ]
       }
     ],
-    "multiview": [],
-    "ppv": [
-      {
-        "title": "HARDMAN VS VAOTUUA (IBC)",
-        "sport": "ppv",
-        "matchup": {
-          "home": "HARDMAN",
-          "away": "VAOTUUA (IBC)"
-        },
-        "page": "https://roxiestreams.su/ppv-streams-1",
-        "streams": [
-          {
-            "label": "Stream 1",
-            "url": "https://admin2.shadow-ran.online/ppv.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.su/ppv-streams-1",
-            "cdn_domain": "shadow-ran.online",
-            "subdomain": "admin2",
-            "path": "ppv.m3u8",
-            "headers": {
-              "Referer": "https://roxiestreams.su/ppv-streams-1",
-              "Origin": "https://roxiestreams.su",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "ppv",
-            "event_title": "HARDMAN VS VAOTUUA (IBC)",
-            "matchup": {
-              "home": "HARDMAN",
-              "away": "VAOTUUA (IBC)"
-            },
-            "display_name": "HARDMAN VS VAOTUUA (IBC) - Stream 1"
-          },
-          {
-            "label": "ppv.m3u8",
-            "url": "https://daffodil.shadow-ran.online/ppv.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.su/ppv-streams-1",
-            "cdn_domain": "shadow-ran.online",
-            "subdomain": "daffodil",
-            "path": "ppv.m3u8",
-            "headers": {
-              "Referer": "https://roxiestreams.su/ppv-streams-1",
-              "Origin": "https://roxiestreams.su",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "ppv",
-            "event_title": "HARDMAN VS VAOTUUA (IBC)",
-            "matchup": {
-              "home": "HARDMAN",
-              "away": "VAOTUUA (IBC)"
-            },
-            "display_name": "HARDMAN VS VAOTUUA (IBC) - ppv.m3u8"
-          }
-        ]
-      }
-    ]
+    "multiview": []
   },
   "pages": {
     "https://roxiestreams.su/soccer": {
@@ -2238,72 +2172,6 @@
           "url": "https://roxiestreams.su/multiview"
         }
       ]
-    },
-    "https://roxiestreams.su/ppv-streams-1": {
-      "url": "https://roxiestreams.su/ppv-streams-1",
-      "title": "Roxiestreams - Watch Live Sports, F1, UFC, NFL, TV",
-      "headings": [],
-      "controls": [
-        "RoxieStreams",
-        "Soccer (WC 2026)",
-        "MLB",
-        "NBA",
-        "NFL",
-        "NHL",
-        "Fighting",
-        "Motorsports",
-        "Stream Request (Discord)",
-        "MultiView (NEW)",
-        "Stream 1",
-        "Switch to Chatango",
-        "Stream Request (Discord)"
-      ],
-      "links": [
-        {
-          "label": "RoxieStreams",
-          "url": "https://roxiestreams.su/"
-        },
-        {
-          "label": "Soccer (WC 2026)",
-          "url": "https://roxiestreams.su/soccer"
-        },
-        {
-          "label": "MLB",
-          "url": "https://roxiestreams.su/mlb"
-        },
-        {
-          "label": "NBA",
-          "url": "https://roxiestreams.su/nba"
-        },
-        {
-          "label": "NFL",
-          "url": "https://roxiestreams.su/nfl"
-        },
-        {
-          "label": "NHL",
-          "url": "https://roxiestreams.su/nhl"
-        },
-        {
-          "label": "Fighting",
-          "url": "https://roxiestreams.su/fighting"
-        },
-        {
-          "label": "Motorsports",
-          "url": "https://roxiestreams.su/motorsports"
-        },
-        {
-          "label": "Stream Request (Discord)",
-          "url": "https://discord.gg/JhkVmejRmn"
-        },
-        {
-          "label": "MultiView (NEW)",
-          "url": "https://roxiestreams.su/multiview"
-        },
-        {
-          "label": "Stream Request (Discord)",
-          "url": "https://discord.gg/JhkVmejRmn"
-        }
-      ]
     }
   },
   "sports": {
@@ -2901,9 +2769,9 @@
           },
           "drm_keys": null,
           "sport": "aew",
-          "event_title": "AEW",
+          "event_title": "Stream 1",
           "matchup": null,
-          "display_name": "AEW - Stream 1"
+          "display_name": "Stream 1"
         },
         {
           "label": "aew.m3u8",
@@ -2921,9 +2789,9 @@
           },
           "drm_keys": null,
           "sport": "aew",
-          "event_title": "AEW",
+          "event_title": "aew.m3u8",
           "matchup": null,
-          "display_name": "AEW - aew.m3u8"
+          "display_name": "aew.m3u8"
         }
       ]
     },
@@ -2932,62 +2800,9 @@
         "https://roxiestreams.su/multiview"
       ],
       "streams": []
-    },
-    "ppv": {
-      "pages": [
-        "https://roxiestreams.su/ppv-streams-1"
-      ],
-      "streams": [
-        {
-          "label": "Stream 1",
-          "url": "https://admin2.shadow-ran.online/ppv.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.su/ppv-streams-1",
-          "cdn_domain": "shadow-ran.online",
-          "subdomain": "admin2",
-          "path": "ppv.m3u8",
-          "headers": {
-            "Referer": "https://roxiestreams.su/ppv-streams-1",
-            "Origin": "https://roxiestreams.su",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "ppv",
-          "event_title": "HARDMAN VS VAOTUUA (IBC)",
-          "matchup": {
-            "home": "HARDMAN",
-            "away": "VAOTUUA (IBC)"
-          },
-          "display_name": "HARDMAN VS VAOTUUA (IBC) - Stream 1"
-        },
-        {
-          "label": "ppv.m3u8",
-          "url": "https://daffodil.shadow-ran.online/ppv.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.su/ppv-streams-1",
-          "cdn_domain": "shadow-ran.online",
-          "subdomain": "daffodil",
-          "path": "ppv.m3u8",
-          "headers": {
-            "Referer": "https://roxiestreams.su/ppv-streams-1",
-            "Origin": "https://roxiestreams.su",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "ppv",
-          "event_title": "HARDMAN VS VAOTUUA (IBC)",
-          "matchup": {
-            "home": "HARDMAN",
-            "away": "VAOTUUA (IBC)"
-          },
-          "display_name": "HARDMAN VS VAOTUUA (IBC) - ppv.m3u8"
-        }
-      ]
     }
   },
-  "stream_count": 27,
+  "stream_count": 25,
   "notes": [
     "Playlist header tags are player hints. Browser CORS requires a server-side proxy."
   ]
