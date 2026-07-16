@@ -1,5 +1,5 @@
 #EXTM3U
-# RoxieStreams Playlist - generated 2026-07-16T03:42:44+00:00
+# RoxieStreams Playlist - generated 2026-07-16T06:17:41+00:00
 # Source: https://roxiestreams.su
 
 #EXTINF:-1 tvg-name="Botafogo vs Santos - Stream 1" group-title="SOCCER - Botafogo vs Santos",Botafogo vs Santos - Stream 1
@@ -92,113 +92,77 @@ https://tedesco.shadow-ran.online/mlb.m3u8
 #EXTHTTP:{"Referer":"https://roxiestreams.su/mlb-streams-1","Origin":"https://roxiestreams.su","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
 https://daffodil.shadow-ran.online/foxalt.m3u8
 
-#EXTINF:-1 tvg-name="Phoenix Suns vs Detroit Pistons - Stream 1" group-title="NBA - Phoenix Suns vs Detroit Pistons",Phoenix Suns vs Detroit Pistons - Stream 1
-#EXTGRP:NBA - Phoenix Suns vs Detroit Pistons
-#EXTDESC:Phoenix Suns vs Detroit Pistons
+#EXTINF:-1 tvg-name="Brooklyn Nets vs Houston Rockets - Stream 1" group-title="NBA - Brooklyn Nets vs Houston Rockets",Brooklyn Nets vs Houston Rockets - Stream 1
+#EXTGRP:NBA - Brooklyn Nets vs Houston Rockets
+#EXTDESC:Brooklyn Nets vs Houston Rockets
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/nba-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.su%2Fnba-streams-1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
 #EXTHTTP:{"Referer":"https://roxiestreams.su/nba-streams-1","Origin":"https://roxiestreams.su","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
 https://tedesco.shadow-ran.online/nba.m3u8
 
-#EXTINF:-1 tvg-name="Phoenix Suns vs Detroit Pistons - nba.m3u8" group-title="NBA - Phoenix Suns vs Detroit Pistons",Phoenix Suns vs Detroit Pistons - nba.m3u8
-#EXTGRP:NBA - Phoenix Suns vs Detroit Pistons
-#EXTDESC:Phoenix Suns vs Detroit Pistons
+#EXTINF:-1 tvg-name="Brooklyn Nets vs Houston Rockets - nba.m3u8" group-title="NBA - Brooklyn Nets vs Houston Rockets",Brooklyn Nets vs Houston Rockets - nba.m3u8
+#EXTGRP:NBA - Brooklyn Nets vs Houston Rockets
+#EXTDESC:Brooklyn Nets vs Houston Rockets
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/nba-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.su%2Fnba-streams-1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
 #EXTHTTP:{"Referer":"https://roxiestreams.su/nba-streams-1","Origin":"https://roxiestreams.su","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
 https://daffodil.shadow-ran.online/nba.m3u8
 
-#EXTINF:-1 tvg-name="Boston Celtics vs Sacramento Kings - Stream 1" group-title="NBA - Boston Celtics vs Sacramento Kings",Boston Celtics vs Sacramento Kings - Stream 1
-#EXTGRP:NBA - Boston Celtics vs Sacramento Kings
-#EXTDESC:Boston Celtics vs Sacramento Kings
+#EXTINF:-1 tvg-name="Toronto Raptors vs Miami Heat - Stream 1" group-title="NBA - Toronto Raptors vs Miami Heat",Toronto Raptors vs Miami Heat - Stream 1
+#EXTGRP:NBA - Toronto Raptors vs Miami Heat
+#EXTDESC:Toronto Raptors vs Miami Heat
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/nba-streams-2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.su%2Fnba-streams-2&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
 #EXTHTTP:{"Referer":"https://roxiestreams.su/nba-streams-2","Origin":"https://roxiestreams.su","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
 https://tedesco.shadow-ran.online/nba2.m3u8
 
-#EXTINF:-1 tvg-name="Boston Celtics vs Sacramento Kings - nba2.m3u8" group-title="NBA - Boston Celtics vs Sacramento Kings",Boston Celtics vs Sacramento Kings - nba2.m3u8
-#EXTGRP:NBA - Boston Celtics vs Sacramento Kings
-#EXTDESC:Boston Celtics vs Sacramento Kings
+#EXTINF:-1 tvg-name="Toronto Raptors vs Miami Heat - nba2.m3u8" group-title="NBA - Toronto Raptors vs Miami Heat",Toronto Raptors vs Miami Heat - nba2.m3u8
+#EXTGRP:NBA - Toronto Raptors vs Miami Heat
+#EXTDESC:Toronto Raptors vs Miami Heat
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/nba-streams-2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.su%2Fnba-streams-2&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
 #EXTHTTP:{"Referer":"https://roxiestreams.su/nba-streams-2","Origin":"https://roxiestreams.su","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
 https://daffodil.shadow-ran.online/nba2.m3u8
 
-#EXTINF:-1 tvg-name="Washington Wizards vs Los Angeles Clippers - Stream 1" group-title="NBA - Washington Wizards vs Los Angeles Clippers",Washington Wizards vs Los Angeles Clippers - Stream 1
-#EXTGRP:NBA - Washington Wizards vs Los Angeles Clippers
-#EXTDESC:Washington Wizards vs Los Angeles Clippers
-#EXTVLCOPT:http-referrer=https://roxiestreams.su/nba-streams-3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.su%2Fnba-streams-3&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
-#EXTHTTP:{"Referer":"https://roxiestreams.su/nba-streams-3","Origin":"https://roxiestreams.su","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
-https://tedesco.shadow-ran.online/nba3.m3u8
-
-#EXTINF:-1 tvg-name="Washington Wizards vs Los Angeles Clippers - nba3.m3u8" group-title="NBA - Washington Wizards vs Los Angeles Clippers",Washington Wizards vs Los Angeles Clippers - nba3.m3u8
-#EXTGRP:NBA - Washington Wizards vs Los Angeles Clippers
-#EXTDESC:Washington Wizards vs Los Angeles Clippers
-#EXTVLCOPT:http-referrer=https://roxiestreams.su/nba-streams-3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.su%2Fnba-streams-3&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
-#EXTHTTP:{"Referer":"https://roxiestreams.su/nba-streams-3","Origin":"https://roxiestreams.su","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
-https://daffodil.shadow-ran.online/nba3.m3u8
-
-#EXTINF:-1 tvg-name="Seattle Storm vs Chicago Sky - Stream 1" group-title="NBA - Seattle Storm vs Chicago Sky",Seattle Storm vs Chicago Sky - Stream 1
-#EXTGRP:NBA - Seattle Storm vs Chicago Sky
-#EXTDESC:Seattle Storm vs Chicago Sky
+#EXTINF:-1 tvg-name="Portland Fire vs Washington Mystics - Stream 1" group-title="NBA - Portland Fire vs Washington Mystics",Portland Fire vs Washington Mystics - Stream 1
+#EXTGRP:NBA - Portland Fire vs Washington Mystics
+#EXTDESC:Portland Fire vs Washington Mystics
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/wnba-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.su%2Fwnba-streams-1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
 #EXTHTTP:{"Referer":"https://roxiestreams.su/wnba-streams-1","Origin":"https://roxiestreams.su","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
 https://admin2.shadow-ran.online/wnba.m3u8
 
-#EXTINF:-1 tvg-name="Seattle Storm vs Chicago Sky - wnba.m3u8" group-title="NBA - Seattle Storm vs Chicago Sky",Seattle Storm vs Chicago Sky - wnba.m3u8
-#EXTGRP:NBA - Seattle Storm vs Chicago Sky
-#EXTDESC:Seattle Storm vs Chicago Sky
+#EXTINF:-1 tvg-name="Portland Fire vs Washington Mystics - wnba.m3u8" group-title="NBA - Portland Fire vs Washington Mystics",Portland Fire vs Washington Mystics - wnba.m3u8
+#EXTGRP:NBA - Portland Fire vs Washington Mystics
+#EXTDESC:Portland Fire vs Washington Mystics
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/wnba-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.su%2Fwnba-streams-1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
 #EXTHTTP:{"Referer":"https://roxiestreams.su/wnba-streams-1","Origin":"https://roxiestreams.su","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
 https://daffodil.shadow-ran.online/wnba.m3u8
 
-#EXTINF:-1 tvg-name="Los Angeles Sparks vs Minnesota Lynx - Stream 1" group-title="NBA - Los Angeles Sparks vs Minnesota Lynx",Los Angeles Sparks vs Minnesota Lynx - Stream 1
-#EXTGRP:NBA - Los Angeles Sparks vs Minnesota Lynx
-#EXTDESC:Los Angeles Sparks vs Minnesota Lynx
+#EXTINF:-1 tvg-name="New York Liberty vs Dallas Wings - Stream 1" group-title="NBA - New York Liberty vs Dallas Wings",New York Liberty vs Dallas Wings - Stream 1
+#EXTGRP:NBA - New York Liberty vs Dallas Wings
+#EXTDESC:New York Liberty vs Dallas Wings
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/wnba-streams-2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.su%2Fwnba-streams-2&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
 #EXTHTTP:{"Referer":"https://roxiestreams.su/wnba-streams-2","Origin":"https://roxiestreams.su","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
 https://admin2.shadow-ran.online/wnba2.m3u8
 
-#EXTINF:-1 tvg-name="Los Angeles Sparks vs Minnesota Lynx - wnba2.m3u8" group-title="NBA - Los Angeles Sparks vs Minnesota Lynx",Los Angeles Sparks vs Minnesota Lynx - wnba2.m3u8
-#EXTGRP:NBA - Los Angeles Sparks vs Minnesota Lynx
-#EXTDESC:Los Angeles Sparks vs Minnesota Lynx
+#EXTINF:-1 tvg-name="New York Liberty vs Dallas Wings - wnba2.m3u8" group-title="NBA - New York Liberty vs Dallas Wings",New York Liberty vs Dallas Wings - wnba2.m3u8
+#EXTGRP:NBA - New York Liberty vs Dallas Wings
+#EXTDESC:New York Liberty vs Dallas Wings
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/wnba-streams-2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.su%2Fwnba-streams-2&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
 #EXTHTTP:{"Referer":"https://roxiestreams.su/wnba-streams-2","Origin":"https://roxiestreams.su","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
 https://daffodil.shadow-ran.online/wnba2.m3u8
-
-#EXTINF:-1 tvg-name="Golden State Valkyries vs Indiana Fever - Stream 1" group-title="NBA - Golden State Valkyries vs Indiana Fever",Golden State Valkyries vs Indiana Fever - Stream 1
-#EXTGRP:NBA - Golden State Valkyries vs Indiana Fever
-#EXTDESC:Golden State Valkyries vs Indiana Fever
-#EXTVLCOPT:http-referrer=https://roxiestreams.su/wnba-streams-3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.su%2Fwnba-streams-3&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
-#EXTHTTP:{"Referer":"https://roxiestreams.su/wnba-streams-3","Origin":"https://roxiestreams.su","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
-https://admin2.shadow-ran.online/wnba3.m3u8
-
-#EXTINF:-1 tvg-name="Golden State Valkyries vs Indiana Fever - wnba3.m3u8" group-title="NBA - Golden State Valkyries vs Indiana Fever",Golden State Valkyries vs Indiana Fever - wnba3.m3u8
-#EXTGRP:NBA - Golden State Valkyries vs Indiana Fever
-#EXTDESC:Golden State Valkyries vs Indiana Fever
-#EXTVLCOPT:http-referrer=https://roxiestreams.su/wnba-streams-3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.su%2Fwnba-streams-3&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
-#EXTHTTP:{"Referer":"https://roxiestreams.su/wnba-streams-3","Origin":"https://roxiestreams.su","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
-https://daffodil.shadow-ran.online/wnba3.m3u8
 
 #EXTINF:-1 tvg-name="NHL Draft 2026 - Stream 1" group-title="NHL - NHL Draft 2026",NHL Draft 2026 - Stream 1
 #EXTGRP:NHL - NHL Draft 2026
@@ -226,24 +190,6 @@ https://tedesco.shadow-ran.online/nhl.m3u8
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.su%2Fnhl-streams-1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
 #EXTHTTP:{"Referer":"https://roxiestreams.su/nhl-streams-1","Origin":"https://roxiestreams.su","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
 https://daffodil.shadow-ran.online/nhl.m3u8
-
-#EXTINF:-1 tvg-name="Hardman vs Vaotuua (IBC) - Stream 1" group-title="FIGHTING - Hardman vs Vaotuua (IBC)",Hardman vs Vaotuua (IBC) - Stream 1
-#EXTGRP:FIGHTING - Hardman vs Vaotuua (IBC)
-#EXTDESC:Hardman vs Vaotuua (IBC)
-#EXTVLCOPT:http-referrer=https://roxiestreams.su/ppv-streams-1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.su%2Fppv-streams-1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
-#EXTHTTP:{"Referer":"https://roxiestreams.su/ppv-streams-1","Origin":"https://roxiestreams.su","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
-https://admin2.shadow-ran.online/ppv.m3u8
-
-#EXTINF:-1 tvg-name="Hardman vs Vaotuua (IBC) - ppv.m3u8" group-title="FIGHTING - Hardman vs Vaotuua (IBC)",Hardman vs Vaotuua (IBC) - ppv.m3u8
-#EXTGRP:FIGHTING - Hardman vs Vaotuua (IBC)
-#EXTDESC:Hardman vs Vaotuua (IBC)
-#EXTVLCOPT:http-referrer=https://roxiestreams.su/ppv-streams-1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.su%2Fppv-streams-1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
-#EXTHTTP:{"Referer":"https://roxiestreams.su/ppv-streams-1","Origin":"https://roxiestreams.su","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
-https://daffodil.shadow-ran.online/ppv.m3u8
 
 #EXTINF:-1 tvg-name="WWE Smackdown - Stream 1" group-title="FIGHTING - WWE Smackdown",WWE Smackdown - Stream 1
 #EXTGRP:FIGHTING - WWE Smackdown
@@ -281,18 +227,18 @@ https://admin2.shadow-ran.online/aew.m3u8
 #EXTHTTP:{"Referer":"https://roxiestreams.su/aew","Origin":"https://roxiestreams.su","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
 https://daffodil.shadow-ran.online/aew.m3u8
 
-#EXTINF:-1 tvg-name="Hardman vs Vaotuua (IBC) - Stream 1" group-title="PPV - Hardman vs Vaotuua (IBC)",Hardman vs Vaotuua (IBC) - Stream 1
-#EXTGRP:PPV - Hardman vs Vaotuua (IBC)
-#EXTDESC:Hardman vs Vaotuua (IBC)
+#EXTINF:-1 tvg-name="HARDMAN VS VAOTUUA (IBC) - Stream 1" group-title="PPV - HARDMAN VS VAOTUUA (IBC)",HARDMAN VS VAOTUUA (IBC) - Stream 1
+#EXTGRP:PPV - HARDMAN VS VAOTUUA (IBC)
+#EXTDESC:HARDMAN VS VAOTUUA (IBC)
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/ppv-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.su%2Fppv-streams-1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
 #EXTHTTP:{"Referer":"https://roxiestreams.su/ppv-streams-1","Origin":"https://roxiestreams.su","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
 https://admin2.shadow-ran.online/ppv.m3u8
 
-#EXTINF:-1 tvg-name="Hardman vs Vaotuua (IBC) - ppv.m3u8" group-title="PPV - Hardman vs Vaotuua (IBC)",Hardman vs Vaotuua (IBC) - ppv.m3u8
-#EXTGRP:PPV - Hardman vs Vaotuua (IBC)
-#EXTDESC:Hardman vs Vaotuua (IBC)
+#EXTINF:-1 tvg-name="HARDMAN VS VAOTUUA (IBC) - ppv.m3u8" group-title="PPV - HARDMAN VS VAOTUUA (IBC)",HARDMAN VS VAOTUUA (IBC) - ppv.m3u8
+#EXTGRP:PPV - HARDMAN VS VAOTUUA (IBC)
+#EXTDESC:HARDMAN VS VAOTUUA (IBC)
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/ppv-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.su%2Fppv-streams-1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
