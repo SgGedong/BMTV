@@ -1,69 +1,141 @@
 #EXTM3U
-# RoxieStreams Playlist - generated 2026-07-17T04:29:15+00:00
+# RoxieStreams Playlist - generated 2026-07-17T07:00:59+00:00
 # Source: https://roxiestreams.su
 
-#EXTINF:-1 tvg-name="Botafogo vs Santos - Stream 1" group-title="SOCCER - Botafogo vs Santos",Botafogo vs Santos - Stream 1
-#EXTGRP:SOCCER - Botafogo vs Santos
-#EXTDESC:Botafogo vs Santos
+#EXTINF:-1 tvg-name="Bahia vs Chapecoense - Stream 1" group-title="SOCCER - Bahia vs Chapecoense",Bahia vs Chapecoense - Stream 1
+#EXTGRP:SOCCER - Bahia vs Chapecoense
+#EXTDESC:Bahia vs Chapecoense
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/soccer-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.su%2Fsoccer-streams-1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
 #EXTHTTP:{"Referer":"https://roxiestreams.su/soccer-streams-1","Origin":"https://roxiestreams.su","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
 https://admin2.shadow-ran.online/fana.m3u8
 
-#EXTINF:-1 tvg-name="Botafogo vs Santos - Stream 2 (ENGLISH)" group-title="SOCCER - Botafogo vs Santos",Botafogo vs Santos - Stream 2 (ENGLISH)
-#EXTGRP:SOCCER - Botafogo vs Santos
-#EXTDESC:Botafogo vs Santos
+#EXTINF:-1 tvg-name="Bahia vs Chapecoense - Stream 2 (ENGLISH)" group-title="SOCCER - Bahia vs Chapecoense",Bahia vs Chapecoense - Stream 2 (ENGLISH)
+#EXTGRP:SOCCER - Bahia vs Chapecoense
+#EXTDESC:Bahia vs Chapecoense
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/soccer-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.su%2Fsoccer-streams-1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
 #EXTHTTP:{"Referer":"https://roxiestreams.su/soccer-streams-1","Origin":"https://roxiestreams.su","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
 https://admin2.shadow-ran.online/fanaen.m3u8
 
-#EXTINF:-1 tvg-name="Botafogo vs Santos - fana2.m3u8" group-title="SOCCER - Botafogo vs Santos",Botafogo vs Santos - fana2.m3u8
-#EXTGRP:SOCCER - Botafogo vs Santos
-#EXTDESC:Botafogo vs Santos
+#EXTINF:-1 tvg-name="Bahia vs Chapecoense - fana2.m3u8" group-title="SOCCER - Bahia vs Chapecoense",Bahia vs Chapecoense - fana2.m3u8
+#EXTGRP:SOCCER - Bahia vs Chapecoense
+#EXTDESC:Bahia vs Chapecoense
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/soccer-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.su%2Fsoccer-streams-1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
 #EXTHTTP:{"Referer":"https://roxiestreams.su/soccer-streams-1","Origin":"https://roxiestreams.su","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
 https://daffodil.shadow-ran.online/fana2.m3u8
 
-#EXTINF:-1 tvg-name="Vitória vs Vasco Gama - Stream 1" group-title="SOCCER - Vitória vs Vasco Gama",Vitória vs Vasco Gama - Stream 1
-#EXTGRP:SOCCER - Vitória vs Vasco Gama
-#EXTDESC:Vitória vs Vasco Gama
+#EXTINF:-1 tvg-name="Fluminense vs RB Bragantino - Stream 1" group-title="SOCCER - Fluminense vs RB Bragantino",Fluminense vs RB Bragantino - Stream 1
+#EXTGRP:SOCCER - Fluminense vs RB Bragantino
+#EXTDESC:Fluminense vs RB Bragantino
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/soccer-streams-2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.su%2Fsoccer-streams-2&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
 #EXTHTTP:{"Referer":"https://roxiestreams.su/soccer-streams-2","Origin":"https://roxiestreams.su","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
 https://admin2.shadow-ran.online/fana2.m3u8
 
-#EXTINF:-1 tvg-name="Sarmiento vs Boca Juniors - Stream 1" group-title="SOCCER - Sarmiento vs Boca Juniors",Sarmiento vs Boca Juniors - Stream 1
-#EXTGRP:SOCCER - Sarmiento vs Boca Juniors
-#EXTDESC:Sarmiento vs Boca Juniors
+#EXTINF:-1 tvg-name="Mirassol vs Grêmio - Stream 1" group-title="SOCCER - Mirassol vs Grêmio",Mirassol vs Grêmio - Stream 1
+#EXTGRP:SOCCER - Mirassol vs Grêmio
+#EXTDESC:Mirassol vs Grêmio
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/soccer-streams-3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.su%2Fsoccer-streams-3&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
 #EXTHTTP:{"Referer":"https://roxiestreams.su/soccer-streams-3","Origin":"https://roxiestreams.su","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
-https://tedesco.shadow-ran.online/tyc.m3u8
+https://admin2.shadow-ran.online/fana3.m3u8
 
-#EXTINF:-1 tvg-name="Sarmiento vs Boca Juniors - tyc.m3u8" group-title="SOCCER - Sarmiento vs Boca Juniors",Sarmiento vs Boca Juniors - tyc.m3u8
-#EXTGRP:SOCCER - Sarmiento vs Boca Juniors
-#EXTDESC:Sarmiento vs Boca Juniors
+#EXTINF:-1 tvg-name="Mirassol vs Grêmio - fana3.m3u8" group-title="SOCCER - Mirassol vs Grêmio",Mirassol vs Grêmio - fana3.m3u8
+#EXTGRP:SOCCER - Mirassol vs Grêmio
+#EXTDESC:Mirassol vs Grêmio
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/soccer-streams-3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.su%2Fsoccer-streams-3&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
 #EXTHTTP:{"Referer":"https://roxiestreams.su/soccer-streams-3","Origin":"https://roxiestreams.su","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
-https://daffodil.shadow-ran.online/tyc.m3u8
+https://daffodil.shadow-ran.online/fana3.m3u8
 
-#EXTINF:-1 tvg-name="Necaxa vs Atlante - FOX MX" group-title="SOCCER - Necaxa vs Atlante",Necaxa vs Atlante - FOX MX
-#EXTGRP:SOCCER - Necaxa vs Atlante
-#EXTDESC:Necaxa vs Atlante
+#EXTINF:-1 tvg-name="River Plate vs Aldosivi - Stream 1" group-title="SOCCER - River Plate vs Aldosivi",River Plate vs Aldosivi - Stream 1
+#EXTGRP:SOCCER - River Plate vs Aldosivi
+#EXTDESC:River Plate vs Aldosivi
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/soccer-streams-4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.su%2Fsoccer-streams-4&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
 #EXTHTTP:{"Referer":"https://roxiestreams.su/soccer-streams-4","Origin":"https://roxiestreams.su","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
+https://admin2.shadow-ran.online/tyc.m3u8
+
+#EXTINF:-1 tvg-name="River Plate vs Aldosivi - tyc.m3u8" group-title="SOCCER - River Plate vs Aldosivi",River Plate vs Aldosivi - tyc.m3u8
+#EXTGRP:SOCCER - River Plate vs Aldosivi
+#EXTDESC:River Plate vs Aldosivi
+#EXTVLCOPT:http-referrer=https://roxiestreams.su/soccer-streams-4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.su%2Fsoccer-streams-4&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
+#EXTHTTP:{"Referer":"https://roxiestreams.su/soccer-streams-4","Origin":"https://roxiestreams.su","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
+https://daffodil.shadow-ran.online/tyc.m3u8
+
+#EXTINF:-1 tvg-name="León vs Atlas - FOX MX" group-title="SOCCER - León vs Atlas",León vs Atlas - FOX MX
+#EXTGRP:SOCCER - León vs Atlas
+#EXTDESC:León vs Atlas
+#EXTVLCOPT:http-referrer=https://roxiestreams.su/soccer-streams-5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.su%2Fsoccer-streams-5&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
+#EXTHTTP:{"Referer":"https://roxiestreams.su/soccer-streams-5","Origin":"https://roxiestreams.su","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
 https://admin2.shadow-ran.online/foxmx.m3u8
+
+#EXTINF:-1 tvg-name="Atlético San Luis vs Cruz Azul - ESPN MX" group-title="SOCCER - Atlético San Luis vs Cruz Azul",Atlético San Luis vs Cruz Azul - ESPN MX
+#EXTGRP:SOCCER - Atlético San Luis vs Cruz Azul
+#EXTDESC:Atlético San Luis vs Cruz Azul
+#EXTVLCOPT:http-referrer=https://roxiestreams.su/soccer-streams-6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.su%2Fsoccer-streams-6&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
+#EXTHTTP:{"Referer":"https://roxiestreams.su/soccer-streams-6","Origin":"https://roxiestreams.su","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
+https://admin2.shadow-ran.online/espnmx.m3u8
+
+#EXTINF:-1 tvg-name="Atlético San Luis vs Cruz Azul - VIX US" group-title="SOCCER - Atlético San Luis vs Cruz Azul",Atlético San Luis vs Cruz Azul - VIX US
+#EXTGRP:SOCCER - Atlético San Luis vs Cruz Azul
+#EXTDESC:Atlético San Luis vs Cruz Azul
+#EXTVLCOPT:http-referrer=https://roxiestreams.su/soccer-streams-6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.su%2Fsoccer-streams-6&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
+#EXTHTTP:{"Referer":"https://roxiestreams.su/soccer-streams-6","Origin":"https://roxiestreams.su","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
+https://admin2.shadow-ran.online/vix.m3u8
+
+#EXTINF:-1 tvg-name="Atlético San Luis vs Cruz Azul - espnmx.m3u8" group-title="SOCCER - Atlético San Luis vs Cruz Azul",Atlético San Luis vs Cruz Azul - espnmx.m3u8
+#EXTGRP:SOCCER - Atlético San Luis vs Cruz Azul
+#EXTDESC:Atlético San Luis vs Cruz Azul
+#EXTVLCOPT:http-referrer=https://roxiestreams.su/soccer-streams-6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.su%2Fsoccer-streams-6&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
+#EXTHTTP:{"Referer":"https://roxiestreams.su/soccer-streams-6","Origin":"https://roxiestreams.su","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
+https://daffodil.shadow-ran.online/espnmx.m3u8
+
+#EXTINF:-1 tvg-name="LA Galaxy vs Los Angeles FC - Stream 1" group-title="SOCCER - LA Galaxy vs Los Angeles FC",LA Galaxy vs Los Angeles FC - Stream 1
+#EXTGRP:SOCCER - LA Galaxy vs Los Angeles FC
+#EXTDESC:LA Galaxy vs Los Angeles FC
+#EXTVLCOPT:http-referrer=https://roxiestreams.su/soccer-streams-7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.su%2Fsoccer-streams-7&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
+#EXTHTTP:{"Referer":"https://roxiestreams.su/soccer-streams-7","Origin":"https://roxiestreams.su","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
+https://admin2.shadow-ran.online/mls.m3u8
+
+#EXTINF:-1 tvg-name="LA Galaxy vs Los Angeles FC - mls.m3u8" group-title="SOCCER - LA Galaxy vs Los Angeles FC",LA Galaxy vs Los Angeles FC - mls.m3u8
+#EXTGRP:SOCCER - LA Galaxy vs Los Angeles FC
+#EXTDESC:LA Galaxy vs Los Angeles FC
+#EXTVLCOPT:http-referrer=https://roxiestreams.su/soccer-streams-7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.su%2Fsoccer-streams-7&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
+#EXTHTTP:{"Referer":"https://roxiestreams.su/soccer-streams-7","Origin":"https://roxiestreams.su","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
+https://daffodil.shadow-ran.online/mls.m3u8
+
+#EXTINF:-1 tvg-name="Juárez vs Puebla - AZTECA 7" group-title="SOCCER - Juárez vs Puebla",Juárez vs Puebla - AZTECA 7
+#EXTGRP:SOCCER - Juárez vs Puebla
+#EXTDESC:Juárez vs Puebla
+#EXTVLCOPT:http-referrer=https://roxiestreams.su/soccer-streams-8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.su%2Fsoccer-streams-8&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
+#EXTHTTP:{"Referer":"https://roxiestreams.su/soccer-streams-8","Origin":"https://roxiestreams.su","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
+https://admin2.shadow-ran.online/azteca7.m3u8
 
 #EXTINF:-1 tvg-name="New York Mets vs Philadelphia Phillies - Stream 1" group-title="MLB - New York Mets vs Philadelphia Phillies",New York Mets vs Philadelphia Phillies - Stream 1
 #EXTGRP:MLB - New York Mets vs Philadelphia Phillies
