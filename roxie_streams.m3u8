@@ -1,5 +1,5 @@
 #EXTM3U
-# RoxieStreams Playlist - generated 2026-07-17T11:08:45+00:00
+# RoxieStreams Playlist - generated 2026-07-18T04:20:24+00:00
 # Source: https://roxiestreams.su
 
 #EXTINF:-1 tvg-name="Villarreal vs Benfica - Stream 1" group-title="SOCCER - Villarreal vs Benfica",Villarreal vs Benfica - Stream 1
@@ -47,6 +47,15 @@ https://daffodil.shadow-ran.online/fana.m3u8
 #EXTHTTP:{"Referer":"https://roxiestreams.su/soccer-streams-3","Origin":"https://roxiestreams.su","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
 https://admin2.shadow-ran.online/fana2.m3u8
 
+#EXTINF:-1 tvg-name="Fluminense vs RB Bragantino - Stream 2 (ENGLISH)" group-title="SOCCER - Fluminense vs RB Bragantino",Fluminense vs RB Bragantino - Stream 2 (ENGLISH)
+#EXTGRP:SOCCER - Fluminense vs RB Bragantino
+#EXTDESC:Fluminense vs RB Bragantino
+#EXTVLCOPT:http-referrer=https://roxiestreams.su/soccer-streams-3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.su%2Fsoccer-streams-3&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
+#EXTHTTP:{"Referer":"https://roxiestreams.su/soccer-streams-3","Origin":"https://roxiestreams.su","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
+https://admin2.shadow-ran.online/fana2en.m3u8
+
 #EXTINF:-1 tvg-name="Fluminense vs RB Bragantino - fana2.m3u8" group-title="SOCCER - Fluminense vs RB Bragantino",Fluminense vs RB Bragantino - fana2.m3u8
 #EXTGRP:SOCCER - Fluminense vs RB Bragantino
 #EXTDESC:Fluminense vs RB Bragantino
@@ -81,7 +90,16 @@ https://daffodil.shadow-ran.online/fana3.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.su%2Fsoccer-streams-5&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
 #EXTHTTP:{"Referer":"https://roxiestreams.su/soccer-streams-5","Origin":"https://roxiestreams.su","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
-https://admin2.shadow-ran.online/mls.m3u8
+https://admin2.shadow-ran.online/fox.m3u8
+
+#EXTINF:-1 tvg-name="LA Galaxy vs LAFC - fox.m3u8" group-title="SOCCER - LA Galaxy vs LAFC",LA Galaxy vs LAFC - fox.m3u8
+#EXTGRP:SOCCER - LA Galaxy vs LAFC
+#EXTDESC:LA Galaxy vs LAFC
+#EXTVLCOPT:http-referrer=https://roxiestreams.su/soccer-streams-5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.su%2Fsoccer-streams-5&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
+#EXTHTTP:{"Referer":"https://roxiestreams.su/soccer-streams-5","Origin":"https://roxiestreams.su","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
+https://daffodil.shadow-ran.online/fox.m3u8
 
 #EXTINF:-1 tvg-name="River Plate vs Aldosivi - Stream 1" group-title="SOCCER - River Plate vs Aldosivi",River Plate vs Aldosivi - Stream 1
 #EXTGRP:SOCCER - River Plate vs Aldosivi
@@ -369,7 +387,7 @@ https://daffodil.shadow-ran.online/wnba2.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.su%2Fwnba-streams-3&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
 #EXTHTTP:{"Referer":"https://roxiestreams.su/wnba-streams-3","Origin":"https://roxiestreams.su","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
-https://admin2.shadow-ran.online/wnba3.m3u8
+https://tedesco.shadow-ran.online/wnba3.m3u8
 
 #EXTINF:-1 tvg-name="Los Angeles Sparks vs Chicago Sky - wnba3.m3u8" group-title="NBA - Los Angeles Sparks vs Chicago Sky",Los Angeles Sparks vs Chicago Sky - wnba3.m3u8
 #EXTGRP:NBA - Los Angeles Sparks vs Chicago Sky
@@ -415,6 +433,15 @@ https://daffodil.shadow-ran.online/nhl.m3u8
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.su%2Fwwe-streams&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
 #EXTHTTP:{"Referer":"https://roxiestreams.su/wwe-streams","Origin":"https://roxiestreams.su","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
 https://admin2.shadow-ran.online/wwe.m3u8
+
+#EXTINF:-1 tvg-name="WWE Smackdown - Stream 2" group-title="FIGHTING - WWE Smackdown",WWE Smackdown - Stream 2
+#EXTGRP:FIGHTING - WWE Smackdown
+#EXTDESC:WWE Smackdown
+#EXTVLCOPT:http-referrer=https://roxiestreams.su/wwe-streams
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.su%2Fwwe-streams&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
+#EXTHTTP:{"Referer":"https://roxiestreams.su/wwe-streams","Origin":"https://roxiestreams.su","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
+https://admin2.shadow-ran.online/wwe2.m3u8
 
 #EXTINF:-1 tvg-name="WWE Smackdown - wwe.m3u8" group-title="FIGHTING - WWE Smackdown",WWE Smackdown - wwe.m3u8
 #EXTGRP:FIGHTING - WWE Smackdown
@@ -478,6 +505,15 @@ https://daffodil.shadow-ran.online/f1.m3u8
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.su%2Fwwe-streams&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
 #EXTHTTP:{"Referer":"https://roxiestreams.su/wwe-streams","Origin":"https://roxiestreams.su","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
 https://admin2.shadow-ran.online/wwe.m3u8
+
+#EXTINF:-1 tvg-name="WWE Smackdown - Stream 2" group-title="WWE - WWE Smackdown",WWE Smackdown - Stream 2
+#EXTGRP:WWE - WWE Smackdown
+#EXTDESC:WWE Smackdown
+#EXTVLCOPT:http-referrer=https://roxiestreams.su/wwe-streams
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.su%2Fwwe-streams&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
+#EXTHTTP:{"Referer":"https://roxiestreams.su/wwe-streams","Origin":"https://roxiestreams.su","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
+https://admin2.shadow-ran.online/wwe2.m3u8
 
 #EXTINF:-1 tvg-name="WWE Smackdown - wwe.m3u8" group-title="WWE - WWE Smackdown",WWE Smackdown - wwe.m3u8
 #EXTGRP:WWE - WWE Smackdown

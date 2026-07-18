@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-17T11:08:45+00:00",
+  "scraped_at": "2026-07-18T04:20:24+00:00",
   "base_url": "https://roxiestreams.su",
   "domains": [
     "shadow-ran.online"
@@ -170,6 +170,29 @@
             "display_name": "Fluminense vs RB Bragantino - Stream 1"
           },
           {
+            "label": "Stream 2 (ENGLISH)",
+            "url": "https://admin2.shadow-ran.online/fana2en.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.su/soccer-streams-3",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "admin2",
+            "path": "fana2en.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.su/soccer-streams-3",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "Fluminense vs RB Bragantino",
+            "matchup": {
+              "home": "Fluminense",
+              "away": "RB Bragantino"
+            },
+            "display_name": "Fluminense vs RB Bragantino - Stream 2 (ENGLISH)"
+          },
+          {
             "label": "fana2.m3u8",
             "url": "https://daffodil.shadow-ran.online/fana2.m3u8",
             "type": "m3u8",
@@ -262,12 +285,12 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://admin2.shadow-ran.online/mls.m3u8",
+            "url": "https://admin2.shadow-ran.online/fox.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-5",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "admin2",
-            "path": "mls.m3u8",
+            "path": "fox.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/soccer-streams-5",
               "Origin": "https://roxiestreams.su",
@@ -282,6 +305,29 @@
               "away": "LAFC"
             },
             "display_name": "LA Galaxy vs LAFC - Stream 1"
+          },
+          {
+            "label": "fox.m3u8",
+            "url": "https://daffodil.shadow-ran.online/fox.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.su/soccer-streams-5",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "daffodil",
+            "path": "fox.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.su/soccer-streams-5",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "LA Galaxy vs LAFC",
+            "matchup": {
+              "home": "LA Galaxy",
+              "away": "LAFC"
+            },
+            "display_name": "LA Galaxy vs LAFC - fox.m3u8"
           }
         ]
       },
@@ -1208,11 +1254,11 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://admin2.shadow-ran.online/wnba3.m3u8",
+            "url": "https://tedesco.shadow-ran.online/wnba3.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/wnba-streams-3",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "admin2",
+            "subdomain": "tedesco",
             "path": "wnba3.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/wnba-streams-3",
@@ -1352,6 +1398,26 @@
             "event_title": "WWE Smackdown",
             "matchup": null,
             "display_name": "WWE Smackdown - Stream 1"
+          },
+          {
+            "label": "Stream 2",
+            "url": "https://admin2.shadow-ran.online/wwe2.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.su/wwe-streams",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "admin2",
+            "path": "wwe2.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.su/wwe-streams",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "fighting",
+            "event_title": "WWE Smackdown",
+            "matchup": null,
+            "display_name": "WWE Smackdown - Stream 2"
           },
           {
             "label": "wwe.m3u8",
@@ -1532,6 +1598,26 @@
             "event_title": "WWE Smackdown",
             "matchup": null,
             "display_name": "WWE Smackdown - Stream 1"
+          },
+          {
+            "label": "Stream 2",
+            "url": "https://admin2.shadow-ran.online/wwe2.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.su/wwe-streams",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "admin2",
+            "path": "wwe2.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.su/wwe-streams",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "wwe",
+            "event_title": "WWE Smackdown",
+            "matchup": null,
+            "display_name": "WWE Smackdown - Stream 2"
           },
           {
             "label": "wwe.m3u8",
@@ -1822,6 +1908,7 @@
         "Stream Request (Discord)",
         "MultiView (NEW)",
         "Stream 1",
+        "Stream 2 (ENGLISH)",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -4060,6 +4147,7 @@
         "Stream Request (Discord)",
         "MultiView (NEW)",
         "Stream 1",
+        "Stream 2",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -4129,6 +4217,7 @@
         "MultiView (NEW)",
         "Forumla 1 - Free Practice",
         "Forumla 1 - Free Practice",
+        "World of Outlaws Sprint Cars",
         "Lucas Oil Late Model Dirt Series",
         "Stream Request (Discord)"
       ],
@@ -4180,6 +4269,10 @@
         {
           "label": "Forumla 1 - Free Practice",
           "url": "https://roxiestreams.su/f1"
+        },
+        {
+          "label": "World of Outlaws Sprint Cars",
+          "url": "https://roxiestreams.su/floracing-2"
         },
         {
           "label": "Lucas Oil Late Model Dirt Series",
@@ -4520,6 +4613,29 @@
           "display_name": "Fluminense vs RB Bragantino - Stream 1"
         },
         {
+          "label": "Stream 2 (ENGLISH)",
+          "url": "https://admin2.shadow-ran.online/fana2en.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.su/soccer-streams-3",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "admin2",
+          "path": "fana2en.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.su/soccer-streams-3",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "Fluminense vs RB Bragantino",
+          "matchup": {
+            "home": "Fluminense",
+            "away": "RB Bragantino"
+          },
+          "display_name": "Fluminense vs RB Bragantino - Stream 2 (ENGLISH)"
+        },
+        {
           "label": "fana2.m3u8",
           "url": "https://daffodil.shadow-ran.online/fana2.m3u8",
           "type": "m3u8",
@@ -4590,12 +4706,12 @@
         },
         {
           "label": "Stream 1",
-          "url": "https://admin2.shadow-ran.online/mls.m3u8",
+          "url": "https://admin2.shadow-ran.online/fox.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-5",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "admin2",
-          "path": "mls.m3u8",
+          "path": "fox.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/soccer-streams-5",
             "Origin": "https://roxiestreams.su",
@@ -4610,6 +4726,29 @@
             "away": "LAFC"
           },
           "display_name": "LA Galaxy vs LAFC - Stream 1"
+        },
+        {
+          "label": "fox.m3u8",
+          "url": "https://daffodil.shadow-ran.online/fox.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.su/soccer-streams-5",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "daffodil",
+          "path": "fox.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.su/soccer-streams-5",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "LA Galaxy vs LAFC",
+          "matchup": {
+            "home": "LA Galaxy",
+            "away": "LAFC"
+          },
+          "display_name": "LA Galaxy vs LAFC - fox.m3u8"
         },
         {
           "label": "Stream 1",
@@ -5323,11 +5462,11 @@
         },
         {
           "label": "Stream 1",
-          "url": "https://admin2.shadow-ran.online/wnba3.m3u8",
+          "url": "https://tedesco.shadow-ran.online/wnba3.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/wnba-streams-3",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "admin2",
+          "subdomain": "tedesco",
           "path": "wnba3.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/wnba-streams-3",
@@ -5468,6 +5607,26 @@
           "event_title": "WWE Smackdown",
           "matchup": null,
           "display_name": "WWE Smackdown - Stream 1"
+        },
+        {
+          "label": "Stream 2",
+          "url": "https://admin2.shadow-ran.online/wwe2.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.su/wwe-streams",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "admin2",
+          "path": "wwe2.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.su/wwe-streams",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "fighting",
+          "event_title": "WWE Smackdown",
+          "matchup": null,
+          "display_name": "WWE Smackdown - Stream 2"
         },
         {
           "label": "wwe.m3u8",
@@ -5643,6 +5802,26 @@
           "display_name": "WWE Smackdown - Stream 1"
         },
         {
+          "label": "Stream 2",
+          "url": "https://admin2.shadow-ran.online/wwe2.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.su/wwe-streams",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "admin2",
+          "path": "wwe2.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.su/wwe-streams",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "wwe",
+          "event_title": "WWE Smackdown",
+          "matchup": null,
+          "display_name": "WWE Smackdown - Stream 2"
+        },
+        {
           "label": "wwe.m3u8",
           "url": "https://daffodil.shadow-ran.online/wwe.m3u8",
           "type": "m3u8",
@@ -5665,7 +5844,7 @@
       ]
     }
   },
-  "stream_count": 54,
+  "stream_count": 58,
   "notes": [
     "Playlist header tags are player hints. Browser CORS requires a server-side proxy."
   ]
