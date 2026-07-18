@@ -1,5 +1,5 @@
 #EXTM3U
-# RoxieStreams Playlist - generated 2026-07-18T09:18:19+00:00
+# RoxieStreams Playlist - generated 2026-07-18T10:43:22+00:00
 # Source: https://roxiestreams.su
 
 #EXTINF:-1 tvg-name="Stream 1" group-title="SOCCER - Stream 1",Stream 1
@@ -72,16 +72,16 @@ https://admin2.shadow-ran.online/bein1.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.su%2Fsoccer-streams-2&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
 #EXTHTTP:{"Referer":"https://roxiestreams.su/soccer-streams-2","Origin":"https://roxiestreams.su","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
-https://admin2.shadow-ran.online/fana.m3u8
+https://admin2.shadow-ran.online/dortmund.m3u8
 
-#EXTINF:-1 tvg-name="Dortmund vs Oberhausen - fana.m3u8" group-title="SOCCER - Dortmund vs Oberhausen",Dortmund vs Oberhausen - fana.m3u8
+#EXTINF:-1 tvg-name="Dortmund vs Oberhausen - dortmund.m3u8" group-title="SOCCER - Dortmund vs Oberhausen",Dortmund vs Oberhausen - dortmund.m3u8
 #EXTGRP:SOCCER - Dortmund vs Oberhausen
 #EXTDESC:Dortmund vs Oberhausen
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/soccer-streams-2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.su%2Fsoccer-streams-2&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
 #EXTHTTP:{"Referer":"https://roxiestreams.su/soccer-streams-2","Origin":"https://roxiestreams.su","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
-https://daffodil.shadow-ran.online/fana.m3u8
+https://daffodil.shadow-ran.online/dortmund.m3u8
 
 #EXTINF:-1 tvg-name="Man United vs Wrexham - Stream 1" group-title="SOCCER - Man United vs Wrexham",Man United vs Wrexham - Stream 1
 #EXTGRP:SOCCER - Man United vs Wrexham
@@ -90,25 +90,16 @@ https://daffodil.shadow-ran.online/fana.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.su%2Fsoccer-streams-3&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
 #EXTHTTP:{"Referer":"https://roxiestreams.su/soccer-streams-3","Origin":"https://roxiestreams.su","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
-https://admin2.shadow-ran.online/fana2.m3u8
+https://admin2.shadow-ran.online/mutv.m3u8
 
-#EXTINF:-1 tvg-name="Man United vs Wrexham - Stream 2 (ENGLISH)" group-title="SOCCER - Man United vs Wrexham",Man United vs Wrexham - Stream 2 (ENGLISH)
+#EXTINF:-1 tvg-name="Man United vs Wrexham - mutv.m3u8" group-title="SOCCER - Man United vs Wrexham",Man United vs Wrexham - mutv.m3u8
 #EXTGRP:SOCCER - Man United vs Wrexham
 #EXTDESC:Man United vs Wrexham
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/soccer-streams-3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.su%2Fsoccer-streams-3&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
 #EXTHTTP:{"Referer":"https://roxiestreams.su/soccer-streams-3","Origin":"https://roxiestreams.su","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
-https://admin2.shadow-ran.online/fana2en.m3u8
-
-#EXTINF:-1 tvg-name="Man United vs Wrexham - fana2.m3u8" group-title="SOCCER - Man United vs Wrexham",Man United vs Wrexham - fana2.m3u8
-#EXTGRP:SOCCER - Man United vs Wrexham
-#EXTDESC:Man United vs Wrexham
-#EXTVLCOPT:http-referrer=https://roxiestreams.su/soccer-streams-3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.su%2Fsoccer-streams-3&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
-#EXTHTTP:{"Referer":"https://roxiestreams.su/soccer-streams-3","Origin":"https://roxiestreams.su","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
-https://daffodil.shadow-ran.online/fana2.m3u8
+https://daffodil.shadow-ran.online/mutv.m3u8
 
 #EXTINF:-1 tvg-name="Sporting Braga vs Celta Vigo - Stream 1" group-title="SOCCER - Sporting Braga vs Celta Vigo",Sporting Braga vs Celta Vigo - Stream 1
 #EXTGRP:SOCCER - Sporting Braga vs Celta Vigo
@@ -117,18 +108,18 @@ https://daffodil.shadow-ran.online/fana2.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.su%2Fsoccer-streams-4&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
 #EXTHTTP:{"Referer":"https://roxiestreams.su/soccer-streams-4","Origin":"https://roxiestreams.su","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
-https://admin2.shadow-ran.online/fana3.m3u8
+https://admin2.shadow-ran.online/sportv.m3u8
 
-#EXTINF:-1 tvg-name="Sporting Braga vs Celta Vigo - fana3.m3u8" group-title="SOCCER - Sporting Braga vs Celta Vigo",Sporting Braga vs Celta Vigo - fana3.m3u8
+#EXTINF:-1 tvg-name="Sporting Braga vs Celta Vigo - sportv.m3u8" group-title="SOCCER - Sporting Braga vs Celta Vigo",Sporting Braga vs Celta Vigo - sportv.m3u8
 #EXTGRP:SOCCER - Sporting Braga vs Celta Vigo
 #EXTDESC:Sporting Braga vs Celta Vigo
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/soccer-streams-4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.su%2Fsoccer-streams-4&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
 #EXTHTTP:{"Referer":"https://roxiestreams.su/soccer-streams-4","Origin":"https://roxiestreams.su","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
-https://daffodil.shadow-ran.online/fana3.m3u8
+https://daffodil.shadow-ran.online/sportv.m3u8
 
-#EXTINF:-1 tvg-name="Pumas UNAM vs Pachuca - CANAL 5 MX" group-title="SOCCER - Pumas UNAM vs Pachuca",Pumas UNAM vs Pachuca - CANAL 5 MX
+#EXTINF:-1 tvg-name="Pumas UNAM vs Pachuca - Stream 1" group-title="SOCCER - Pumas UNAM vs Pachuca",Pumas UNAM vs Pachuca - Stream 1
 #EXTGRP:SOCCER - Pumas UNAM vs Pachuca
 #EXTDESC:Pumas UNAM vs Pachuca
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/soccer-streams-6
@@ -136,15 +127,6 @@ https://daffodil.shadow-ran.online/fana3.m3u8
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.su%2Fsoccer-streams-6&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
 #EXTHTTP:{"Referer":"https://roxiestreams.su/soccer-streams-6","Origin":"https://roxiestreams.su","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
 https://admin2.shadow-ran.online/5mx.m3u8
-
-#EXTINF:-1 tvg-name="Pumas UNAM vs Pachuca - TUDN MX" group-title="SOCCER - Pumas UNAM vs Pachuca",Pumas UNAM vs Pachuca - TUDN MX
-#EXTGRP:SOCCER - Pumas UNAM vs Pachuca
-#EXTDESC:Pumas UNAM vs Pachuca
-#EXTVLCOPT:http-referrer=https://roxiestreams.su/soccer-streams-6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.su%2Fsoccer-streams-6&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
-#EXTHTTP:{"Referer":"https://roxiestreams.su/soccer-streams-6","Origin":"https://roxiestreams.su","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
-https://admin2.shadow-ran.online/tudnmx.m3u8
 
 #EXTINF:-1 tvg-name="Pumas UNAM vs Pachuca - 5mx.m3u8" group-title="SOCCER - Pumas UNAM vs Pachuca",Pumas UNAM vs Pachuca - 5mx.m3u8
 #EXTGRP:SOCCER - Pumas UNAM vs Pachuca

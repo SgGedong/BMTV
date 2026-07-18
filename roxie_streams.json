@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-18T09:18:19+00:00",
+  "scraped_at": "2026-07-18T10:43:22+00:00",
   "base_url": "https://roxiestreams.su",
   "domains": [
     "shadow-ran.online"
@@ -226,12 +226,12 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://admin2.shadow-ran.online/fana.m3u8",
+            "url": "https://admin2.shadow-ran.online/dortmund.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-2",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "admin2",
-            "path": "fana.m3u8",
+            "path": "dortmund.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/soccer-streams-2",
               "Origin": "https://roxiestreams.su",
@@ -248,13 +248,13 @@
             "display_name": "Dortmund vs Oberhausen - Stream 1"
           },
           {
-            "label": "fana.m3u8",
-            "url": "https://daffodil.shadow-ran.online/fana.m3u8",
+            "label": "dortmund.m3u8",
+            "url": "https://daffodil.shadow-ran.online/dortmund.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-2",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "daffodil",
-            "path": "fana.m3u8",
+            "path": "dortmund.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/soccer-streams-2",
               "Origin": "https://roxiestreams.su",
@@ -268,7 +268,7 @@
               "home": "Dortmund",
               "away": "Oberhausen"
             },
-            "display_name": "Dortmund vs Oberhausen - fana.m3u8"
+            "display_name": "Dortmund vs Oberhausen - dortmund.m3u8"
           }
         ]
       },
@@ -283,12 +283,12 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://admin2.shadow-ran.online/fana2.m3u8",
+            "url": "https://admin2.shadow-ran.online/mutv.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-3",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "admin2",
-            "path": "fana2.m3u8",
+            "path": "mutv.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/soccer-streams-3",
               "Origin": "https://roxiestreams.su",
@@ -305,36 +305,13 @@
             "display_name": "Man United vs Wrexham - Stream 1"
           },
           {
-            "label": "Stream 2 (ENGLISH)",
-            "url": "https://admin2.shadow-ran.online/fana2en.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.su/soccer-streams-3",
-            "cdn_domain": "shadow-ran.online",
-            "subdomain": "admin2",
-            "path": "fana2en.m3u8",
-            "headers": {
-              "Referer": "https://roxiestreams.su/soccer-streams-3",
-              "Origin": "https://roxiestreams.su",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "soccer",
-            "event_title": "Man United vs Wrexham",
-            "matchup": {
-              "home": "Man United",
-              "away": "Wrexham"
-            },
-            "display_name": "Man United vs Wrexham - Stream 2 (ENGLISH)"
-          },
-          {
-            "label": "fana2.m3u8",
-            "url": "https://daffodil.shadow-ran.online/fana2.m3u8",
+            "label": "mutv.m3u8",
+            "url": "https://daffodil.shadow-ran.online/mutv.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-3",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "daffodil",
-            "path": "fana2.m3u8",
+            "path": "mutv.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/soccer-streams-3",
               "Origin": "https://roxiestreams.su",
@@ -348,7 +325,7 @@
               "home": "Man United",
               "away": "Wrexham"
             },
-            "display_name": "Man United vs Wrexham - fana2.m3u8"
+            "display_name": "Man United vs Wrexham - mutv.m3u8"
           }
         ]
       },
@@ -363,12 +340,12 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://admin2.shadow-ran.online/fana3.m3u8",
+            "url": "https://admin2.shadow-ran.online/sportv.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-4",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "admin2",
-            "path": "fana3.m3u8",
+            "path": "sportv.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/soccer-streams-4",
               "Origin": "https://roxiestreams.su",
@@ -385,13 +362,13 @@
             "display_name": "Sporting Braga vs Celta Vigo - Stream 1"
           },
           {
-            "label": "fana3.m3u8",
-            "url": "https://daffodil.shadow-ran.online/fana3.m3u8",
+            "label": "sportv.m3u8",
+            "url": "https://daffodil.shadow-ran.online/sportv.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-4",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "daffodil",
-            "path": "fana3.m3u8",
+            "path": "sportv.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/soccer-streams-4",
               "Origin": "https://roxiestreams.su",
@@ -405,7 +382,7 @@
               "home": "Sporting Braga",
               "away": "Celta Vigo"
             },
-            "display_name": "Sporting Braga vs Celta Vigo - fana3.m3u8"
+            "display_name": "Sporting Braga vs Celta Vigo - sportv.m3u8"
           }
         ]
       },
@@ -419,7 +396,7 @@
         "page": "https://roxiestreams.su/soccer-streams-6",
         "streams": [
           {
-            "label": "CANAL 5 MX",
+            "label": "Stream 1",
             "url": "https://admin2.shadow-ran.online/5mx.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-6",
@@ -439,30 +416,7 @@
               "home": "Pumas UNAM",
               "away": "Pachuca"
             },
-            "display_name": "Pumas UNAM vs Pachuca - CANAL 5 MX"
-          },
-          {
-            "label": "TUDN MX",
-            "url": "https://admin2.shadow-ran.online/tudnmx.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.su/soccer-streams-6",
-            "cdn_domain": "shadow-ran.online",
-            "subdomain": "admin2",
-            "path": "tudnmx.m3u8",
-            "headers": {
-              "Referer": "https://roxiestreams.su/soccer-streams-6",
-              "Origin": "https://roxiestreams.su",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "soccer",
-            "event_title": "Pumas UNAM vs Pachuca",
-            "matchup": {
-              "home": "Pumas UNAM",
-              "away": "Pachuca"
-            },
-            "display_name": "Pumas UNAM vs Pachuca - TUDN MX"
+            "display_name": "Pumas UNAM vs Pachuca - Stream 1"
           },
           {
             "label": "5mx.m3u8",
@@ -2029,7 +1983,7 @@
         },
         {
           "label": "Monterrey vs Santos Laguna",
-          "url": "https://roxiestreams.su/soccer-streams-9"
+          "url": "https://roxiestreams.su/soccer-streams-7"
         },
         {
           "label": "Chivas vs Toluca",
@@ -2266,7 +2220,6 @@
         "Stream Request (Discord)",
         "MultiView (NEW)",
         "Stream 1",
-        "Stream 2 (ENGLISH)",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -2398,8 +2351,7 @@
         "Motorsports",
         "Stream Request (Discord)",
         "MultiView (NEW)",
-        "CANAL 5 MX",
-        "TUDN MX",
+        "Stream 1",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -2534,73 +2486,6 @@
         "MultiView (NEW)",
         "TELEMUNDO",
         "Peacock US VPN",
-        "Switch to Chatango",
-        "Stream Request (Discord)"
-      ],
-      "links": [
-        {
-          "label": "RoxieStreams",
-          "url": "https://roxiestreams.su/"
-        },
-        {
-          "label": "Soccer (WC 2026)",
-          "url": "https://roxiestreams.su/soccer"
-        },
-        {
-          "label": "MLB",
-          "url": "https://roxiestreams.su/mlb"
-        },
-        {
-          "label": "NBA",
-          "url": "https://roxiestreams.su/nba"
-        },
-        {
-          "label": "NFL",
-          "url": "https://roxiestreams.su/nfl"
-        },
-        {
-          "label": "NHL",
-          "url": "https://roxiestreams.su/nhl"
-        },
-        {
-          "label": "Fighting",
-          "url": "https://roxiestreams.su/fighting"
-        },
-        {
-          "label": "Motorsports",
-          "url": "https://roxiestreams.su/motorsports"
-        },
-        {
-          "label": "Stream Request (Discord)",
-          "url": "https://discord.gg/JhkVmejRmn"
-        },
-        {
-          "label": "MultiView (NEW)",
-          "url": "https://roxiestreams.su/multiview"
-        },
-        {
-          "label": "Stream Request (Discord)",
-          "url": "https://discord.gg/JhkVmejRmn"
-        }
-      ]
-    },
-    "https://roxiestreams.su/soccer-streams-9": {
-      "url": "https://roxiestreams.su/soccer-streams-9",
-      "title": "Roxiestreams - Watch Live Sports, F1, UFC, NFL, TV",
-      "headings": [],
-      "controls": [
-        "RoxieStreams",
-        "Soccer (WC 2026)",
-        "MLB",
-        "NBA",
-        "NFL",
-        "NHL",
-        "Fighting",
-        "Motorsports",
-        "Stream Request (Discord)",
-        "MultiView (NEW)",
-        "CANAL 5 MX",
-        "TUDN MX",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -4851,7 +4736,7 @@
         },
         {
           "label": "Indycar Series - Free Practice",
-          "url": "https://roxiestreams.su/f1"
+          "url": "https://roxiestreams.su/indycar"
         },
         {
           "label": "AMA Motocross - Qualifying",
@@ -5157,8 +5042,7 @@
         "https://roxiestreams.su/soccer-streams-4",
         "https://roxiestreams.su/soccer-streams-6",
         "https://roxiestreams.su/soccer-streams-7",
-        "https://roxiestreams.su/soccer-streams-8",
-        "https://roxiestreams.su/soccer-streams-9"
+        "https://roxiestreams.su/soccer-streams-8"
       ],
       "streams": [
         {
@@ -5318,12 +5202,12 @@
         },
         {
           "label": "Stream 1",
-          "url": "https://admin2.shadow-ran.online/fana.m3u8",
+          "url": "https://admin2.shadow-ran.online/dortmund.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-2",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "admin2",
-          "path": "fana.m3u8",
+          "path": "dortmund.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/soccer-streams-2",
             "Origin": "https://roxiestreams.su",
@@ -5340,13 +5224,13 @@
           "display_name": "Dortmund vs Oberhausen - Stream 1"
         },
         {
-          "label": "fana.m3u8",
-          "url": "https://daffodil.shadow-ran.online/fana.m3u8",
+          "label": "dortmund.m3u8",
+          "url": "https://daffodil.shadow-ran.online/dortmund.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-2",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "daffodil",
-          "path": "fana.m3u8",
+          "path": "dortmund.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/soccer-streams-2",
             "Origin": "https://roxiestreams.su",
@@ -5360,16 +5244,16 @@
             "home": "Dortmund",
             "away": "Oberhausen"
           },
-          "display_name": "Dortmund vs Oberhausen - fana.m3u8"
+          "display_name": "Dortmund vs Oberhausen - dortmund.m3u8"
         },
         {
           "label": "Stream 1",
-          "url": "https://admin2.shadow-ran.online/fana2.m3u8",
+          "url": "https://admin2.shadow-ran.online/mutv.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-3",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "admin2",
-          "path": "fana2.m3u8",
+          "path": "mutv.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/soccer-streams-3",
             "Origin": "https://roxiestreams.su",
@@ -5386,36 +5270,13 @@
           "display_name": "Man United vs Wrexham - Stream 1"
         },
         {
-          "label": "Stream 2 (ENGLISH)",
-          "url": "https://admin2.shadow-ran.online/fana2en.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.su/soccer-streams-3",
-          "cdn_domain": "shadow-ran.online",
-          "subdomain": "admin2",
-          "path": "fana2en.m3u8",
-          "headers": {
-            "Referer": "https://roxiestreams.su/soccer-streams-3",
-            "Origin": "https://roxiestreams.su",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "soccer",
-          "event_title": "Man United vs Wrexham",
-          "matchup": {
-            "home": "Man United",
-            "away": "Wrexham"
-          },
-          "display_name": "Man United vs Wrexham - Stream 2 (ENGLISH)"
-        },
-        {
-          "label": "fana2.m3u8",
-          "url": "https://daffodil.shadow-ran.online/fana2.m3u8",
+          "label": "mutv.m3u8",
+          "url": "https://daffodil.shadow-ran.online/mutv.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-3",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "daffodil",
-          "path": "fana2.m3u8",
+          "path": "mutv.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/soccer-streams-3",
             "Origin": "https://roxiestreams.su",
@@ -5429,16 +5290,16 @@
             "home": "Man United",
             "away": "Wrexham"
           },
-          "display_name": "Man United vs Wrexham - fana2.m3u8"
+          "display_name": "Man United vs Wrexham - mutv.m3u8"
         },
         {
           "label": "Stream 1",
-          "url": "https://admin2.shadow-ran.online/fana3.m3u8",
+          "url": "https://admin2.shadow-ran.online/sportv.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-4",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "admin2",
-          "path": "fana3.m3u8",
+          "path": "sportv.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/soccer-streams-4",
             "Origin": "https://roxiestreams.su",
@@ -5455,13 +5316,13 @@
           "display_name": "Sporting Braga vs Celta Vigo - Stream 1"
         },
         {
-          "label": "fana3.m3u8",
-          "url": "https://daffodil.shadow-ran.online/fana3.m3u8",
+          "label": "sportv.m3u8",
+          "url": "https://daffodil.shadow-ran.online/sportv.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-4",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "daffodil",
-          "path": "fana3.m3u8",
+          "path": "sportv.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/soccer-streams-4",
             "Origin": "https://roxiestreams.su",
@@ -5475,10 +5336,10 @@
             "home": "Sporting Braga",
             "away": "Celta Vigo"
           },
-          "display_name": "Sporting Braga vs Celta Vigo - fana3.m3u8"
+          "display_name": "Sporting Braga vs Celta Vigo - sportv.m3u8"
         },
         {
-          "label": "CANAL 5 MX",
+          "label": "Stream 1",
           "url": "https://admin2.shadow-ran.online/5mx.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-6",
@@ -5498,30 +5359,7 @@
             "home": "Pumas UNAM",
             "away": "Pachuca"
           },
-          "display_name": "Pumas UNAM vs Pachuca - CANAL 5 MX"
-        },
-        {
-          "label": "TUDN MX",
-          "url": "https://admin2.shadow-ran.online/tudnmx.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.su/soccer-streams-6",
-          "cdn_domain": "shadow-ran.online",
-          "subdomain": "admin2",
-          "path": "tudnmx.m3u8",
-          "headers": {
-            "Referer": "https://roxiestreams.su/soccer-streams-6",
-            "Origin": "https://roxiestreams.su",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "soccer",
-          "event_title": "Pumas UNAM vs Pachuca",
-          "matchup": {
-            "home": "Pumas UNAM",
-            "away": "Pachuca"
-          },
-          "display_name": "Pumas UNAM vs Pachuca - TUDN MX"
+          "display_name": "Pumas UNAM vs Pachuca - Stream 1"
         },
         {
           "label": "5mx.m3u8",
@@ -6758,7 +6596,7 @@
       ]
     }
   },
-  "stream_count": 68,
+  "stream_count": 66,
   "notes": [
     "Playlist header tags are player hints. Browser CORS requires a server-side proxy."
   ]
